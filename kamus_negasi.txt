@@ -1,0 +1,103 @@
+frasa_negasi	padanan_makna	skor_manual	kategori	keterangan
+tidak bagus	buruk	-5	negatif	Kualitas program, makanan, atau pelaksanaan dinilai tidak baik.
+tidak baik	buruk	-4	negatif	Penilaian negatif umum terhadap MBG.
+tidak layak	buruk	-4	negatif	Makanan, distribusi, atau kebijakan dianggap tidak pantas/layak.
+tidak sehat	berbahaya	-4	negatif	Makanan atau proses MBG dianggap tidak sehat.
+tidak higienis	kotor	-4	negatif	Kebersihan makanan atau dapur dipersoalkan.
+tidak aman	berbahaya	-4	negatif	Program, makanan, atau distribusi dianggap berisiko.
+tidak tepat	buruk	-3	negatif	Sasaran, waktu, atau kebijakan dianggap tidak tepat.
+tidak jelas	buruk	-3	negatif	Informasi, mekanisme, atau anggaran dianggap tidak jelas.
+tidak adil	buruk	-4	negatif	Pelaksanaan atau pembagian dianggap tidak adil.
+tidak transparan	buruk	-4	negatif	Anggaran atau proses dinilai tertutup.
+tidak merata	buruk	-3	negatif	Distribusi MBG dianggap belum menjangkau semua pihak.
+tidak efektif	buruk	-3	negatif	Program dianggap tidak memberi hasil yang diharapkan.
+tidak siap	buruk	-3	negatif	Pelaksana atau fasilitas dianggap belum siap.
+tidak percaya	ragu	-3	negatif	Ketidakpercayaan terhadap pemerintah/pelaksana.
+tidak setuju	menolak	-3	negatif	Penolakan terhadap program atau kebijakan.
+tidak mendukung	menolak	-3	negatif	Sikap tidak mendukung terhadap MBG.
+tidak puas	kecewa	-3	negatif	Kekecewaan terhadap kualitas/pelaksanaan.
+tidak yakin	ragu	-2	negatif	Keraguan terhadap manfaat atau keberhasilan.
+tidak enak	buruk	-3	negatif	Rasa makanan dinilai buruk.
+tidak bergizi	buruk	-4	negatif	Makanan dinilai tidak memenuhi tujuan gizi.
+tidak buruk	baik	4	positif	Pernyataan bahwa kondisi tidak seburuk yang dikhawatirkan.
+tidak jelek	baik	4	positif	Penilaian positif moderat terhadap MBG.
+tidak gagal	berhasil	4	positif	Program dinilai masih berhasil/berjalan.
+tidak mengecewakan	baik	4	positif	Hasil program dianggap cukup memuaskan.
+tidak khawatir	tenang	3	positif	Tidak ada kekhawatiran terhadap program.
+tidak takut	aman	3	positif	Rasa aman terhadap makanan atau pelaksanaan.
+tidak masalah	baik	3	positif	Pelaksanaan dianggap dapat diterima.
+tidak rugi	bermanfaat	2	positif	Program dianggap tetap memiliki manfaat.
+bukan masalah	baik	3	positif	Isu tertentu dianggap bukan persoalan utama.
+bukan pemborosan	bermanfaat	3	positif	Anggaran MBG dianggap tidak sia-sia.
+bukan korupsi	baik	3	positif	Menolak tuduhan korupsi terkait program.
+tidak penting	sia-sia	-4	negatif	Program MBG dianggap tidak memiliki urgensi dibanding pendidikan/kesehatan (MBG 1, 3).
+gak penting	sia-sia	-4	negatif	Bentuk informal dari "tidak penting", sering dipakai untuk menolak keberadaan MBG (MBG 1, 3).
+bukan penghematan	pemborosan/pemotongan	-5	negatif	Membantah klaim pemerintah; netizen menegaskan bahwa MBG adalah hasil pemotongan anggaran vital (MBG 1).
+bukan program	proyek/bancakan	-5	negatif	MBG dianggap hanya sebagai kedok korupsi, bagi-bagi jatah, atau proyek elit (MBG 1, 3).
+gak ngerti	tidak kompeten	-4	negatif	Merujuk pada kapasitas kognitif, umur, atau ketidakpahaman pimpinan terhadap realita lapangan (MBG 2).
+tidak ngerti	tidak kompeten	-4	negatif	Sama dengan "gak ngerti", sering membalas keluhan pejabat yang merasa dihina (MBG 2).
+anti kritik	arogan/tutup telinga	-4	negatif	Sikap penguasa yang menolak masukan dari ahli, profesor, atau rakyat (MBG 2).
+tidak mau dengar	tutup telinga	-4	negatif	Pemerintah dianggap mengabaikan data empiris dan laporan ABS (Asal Bapak Senang) (MBG 2).
+bukan menghina	mengkritik	-3	negatif	Klarifikasi netizen bahwa keluhan/riset ahli adalah kritik membangun, bukan hinaan (MBG 2).
+tidak ikhlas	menolak keras/keberatan	-5	negatif	Perasaan tidak rela dipaksa, khususnya terkait wacana penggunaan dana Zakat untuk MBG (MBG 4).
+gak rela	menolak keras/keberatan	-5	negatif	Penolakan keras terhadap perampasan hak mustahik (anak yatim/fakir miskin) (MBG 4).
+bukan peruntukan	penyalahgunaan	-5	negatif	Penggunaan dana (Zakat/Haji) tidak sesuai aturan agama/hukum dan 8 asnaf (MBG 4).
+tidak sesuai syariat	melanggar agama	-5	negatif	Kebijakan pemerintah dianggap bertentangan dengan hukum Islam (konteks Zakat) (MBG 4).
+bukan hak negara	pelanggaran	-5	negatif	Dana umat (Zakat) tidak boleh dikuasai atau dipakai negara seenaknya untuk MBG (MBG 4).
+tidak masuk akal	tidak logis	-4	negatif	Kebijakan dianggap irasional, seperti memaksakan MBG saat puasa atau pakai dana Zakat (MBG 3, 4).
+gak masuk akal	tidak logis	-4	negatif	Bentuk informal, merujuk pada kebijakan yang tidak berdasar data atau nalar sehat (MBG 3, 4).
+gak beres	kacau/korup	-4	negatif	Pelaksanaan di lapangan bermasalah, makanan basi, atau indikasi korupsi (MBG 1, 3).
+tidak beres	kacau/korup	-4	negatif	Sistem distribusi atau manajemen dapur MBG dinilai carut-marut (MBG 1, 3).
+gak layak	buruk	-4	negatif	Makanan yang diberikan kepada anak-anak dianggap tidak pantas atau tidak bergizi (MBG 1).
+gak enak	buruk	-3	negatif	Rasa makanan MBG dinilai buruk oleh siswa sehingga sering dibuang (MBG 1).
+tidak habis	mubazir/sia-sia	-3	negatif	Makanan tidak dimakan dan berakhir di tempat sampah atau jadi pakan ternak (MBG 1).
+gak jelas	tidak transparan	-3	negatif	Arah kebijakan, anggaran, atau mekanisme pembagian MBG tidak transparan (MBG 1, 3).
+gak adil	zalim	-4	negatif	Ketimpangan alokasi dana; guru honorer tidak sejahtera tapi MBG dipaksakan (MBG 1, 3).
+tidak peduli	apatis/egois	-4	negatif	Pemerintah dianggap tidak mempedulikan dampak negatif, keracunan, atau bencana alam (MBG 2, 3).
+gak peduli	apatis/egois	-4	negatif	Bentuk informal, merujuk pada sifat pejabat yang hanya peduli pada citra/proyek (MBG 2, 3).
+tidak urgen	tidak prioritas	-3	negatif	Program dianggap tidak mendesak dibanding perbaikan infrastruktur atau gaji guru (MBG 1, 3).
+gak urgen	tidak prioritas	-3	negatif	Bentuk informal, menolak pemaksaan program di tengah krisis sektor lain (MBG 1, 3).
+bukan solusi	sia-sia	-3	negatif	MBG tidak menyelesaikan masalah stunting atau kemiskinan secara struktural (MBG 1).
+tidak bermutu	buruk	-4	negatif	Kualitas makanan atau pendidikan yang dananya disubsidi silang dinilai rendah (MBG 1).
+gak ada gunanya	sia-sia	-4	negatif	Program tidak memberikan dampak positif yang nyata bagi kecerdasan atau kesehatan (MBG 1).
+tidak semua	tidak merata	-3	negatif	Menolak klaim bahwa MBG menjangkau atau dibutuhkan semua orang.
+gak bisa	tidak mampu	-3	negatif	Ketidakmampuan program atau pemerintah memberikan solusi.
+tidak bisa	tidak mampu	-3	negatif	Program tidak bisa dipertahankan atau dijalankan.
+bukan dari APBN	pemotongan	-5	negatif	Membantah klaim bahwa MBG tidak memotong anggaran vital.
+gak mau	menolak	-3	negatif	Penolakan terhadap program atau kebijakan.
+tidak mau	menolak	-3	negatif	Pemerintah atau rakyat tidak mau melanjutkan.
+gak akan	mustahil	-3	negatif	Keyakinan bahwa program tidak akan berhasil.
+gak boleh	melanggar	-4	negatif	Penggunaan dana Zakat untuk MBG dilarang.
+tidak boleh	melanggar	-4	negatif	Melanggar syariat atau aturan.
+gak terima	menolak	-3	negatif	Rakyat tidak menerima kebijakan yang ada.
+gak butuh	tidak prioritas	-4	negatif	Rakyat lebih butuh pendidikan/kesehatan.
+tidak butuh	tidak prioritas	-4	negatif	Kebutuhan gizi bukan prioritas utama.
+gak pernah	tidak konsisten	-3	negatif	Pemerintah tidak pernah mendengarkan kritik.
+tidak pernah	tidak konsisten	-3	negatif	Pemerintah tidak pernah evaluasi.
+gak setuju	menolak	-3	negatif	Penolakan terhadap program atau kebijakan.
+gak ada	tidak ada	-3	negatif	Ketiadaan dampak atau manfaat dari program.
+tidak ada	tidak ada	-3	negatif	Ketiadaan transparansi atau evaluasi.
+bukan hak	pelanggaran	-5	negatif	Dana umat (Zakat) tidak boleh dikuasai negara.
+gak siap	buruk	-3	negatif	Pelaksana atau fasilitas dianggap belum siap.
+tidak usah	menolak	-3	negatif	Penolakan atau kejengahan terhadap pembelaan/pemaksaan MBG yang dianggap bermasalah (MBG 1, 4).
+tidak perlu	tidak prioritas	-3	negatif	MBG dianggap bukan kebutuhan mendesak dibanding isu pendidikan, kesehatan, atau masalah lain (MBG 2, 3, 4).
+tidak nyampe	tidak kompeten	-4	negatif	Kapasitas berpikir pengambil kebijakan dinilai tidak sampai memahami kritik atau masalah MBG (MBG 2).
+tidak paham	tidak kompeten	-4	negatif	Pemerintah/pendukung dianggap tidak memahami masalah, perspektif ahli, atau motif proyek MBG (MBG 2, 3, 4).
+tidak berguna	sia-sia	-4	negatif	Program atau komponen MBG dianggap tidak memberi manfaat nyata dan lebih baik dialihkan ke kebutuhan lain (MBG 1).
+belum siap	buruk	-3	negatif	Sistem distribusi, pelaksana, atau kepemimpinan dinilai belum siap menjalankan MBG dengan aman (MBG 1, 2).
+tidak salah	baik	3	positif	Program MBG tidak dianggap keliru pada prinsipnya, meskipun implementasinya masih dikritik (MBG 1).
+tak peduli	apatis/egois	-4	negatif	Pemerintah dianggap abai terhadap keracunan, nyawa anak, atau kritik publik terkait MBG (MBG 1, 2).
+tidak guna	sia-sia	-4	negatif	Bentuk ringkas dari tidak berguna; MBG dianggap sia-sia atau menjadi ladang korupsi (MBG 1, 3).
+bukan hasil	pemotongan	-5	negatif	Membantah narasi bahwa anggaran MBG berasal dari penghematan; dianggap hasil potong anggaran sektor lain (MBG 1).
+tidak ada evaluasi	tidak transparan	-4	negatif	MBG dinilai terus bermasalah karena tidak ada evaluasi atau perbaikan yang terlihat (MBG 1, 2).
+tidak mau mendengar	tutup telinga	-4	negatif	Pemerintah dianggap tidak mau mendengar masukan profesor, ahli, atau rakyat (MBG 2).
+tidak mau ngerti	tutup telinga	-4	negatif	Sikap tidak mau memahami kritik dinilai lebih berbahaya daripada sekadar tidak mengerti (MBG 2).
+tidak akan berhenti	proyek/korupsi	-4	negatif	MBG diyakini tetap dipaksakan karena dianggap menguntungkan oknum atau menjadi alat serap anggaran (MBG 3).
+tidak mau berhenti	proyek/korupsi	-4	negatif	Pejabat atau pihak terkait dianggap enggan menghentikan MBG karena kepentingan uang/proyek (MBG 3).
+tidak semua siswa	tidak tepat sasaran	-4	negatif	Menolak penggunaan dana Zakat untuk MBG karena tidak semua siswa termasuk fakir miskin/mustahik (MBG 4).
+jangan bayar zakat	menolak keras/keberatan	-5	negatif	Ajakan menolak membayar Zakat lewat pemerintah/BAZNAS karena khawatir dipakai untuk MBG (MBG 4).
+tidak menghina	mengkritik	-3	negatif	Klarifikasi bahwa komentar terhadap MBG adalah kritik atau tuntutan transparansi, bukan hinaan (MBG 2).
+bukan ahlinya	tidak kompeten	-4	negatif	Pengambil kebijakan dinilai tidak memiliki keahlian memadai untuk mengabaikan kritik ahli (MBG 2, 4).
+bukan duit pribadi	uang rakyat	-4	negatif	Menekankan bahwa dana MBG adalah uang rakyat, bukan uang pribadi yang bisa dipakai seenaknya (MBG 3).
+tidak ada pemasukan	proyek/korupsi	-3	negatif	Sindiran bahwa penghentian MBG akan menghilangkan pemasukan bagi pejabat atau dapur proyek (MBG 3).
+tidak ada duit	proyek/korupsi	-3	negatif	Sindiran bahwa pihak tertentu menolak MBG dihentikan karena kehilangan uang/proyek (MBG 3).

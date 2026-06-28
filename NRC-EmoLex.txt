@@ -1,0 +1,4431 @@
+English Word	anger	anticipation	disgust	fear	joy	negative	positive	sadness	surprise	trust	Indonesian Word
+abacus	0	0	0	0	0	0	0	0	0	1	sempoa
+abandon	0	0	0	1	0	1	0	1	0	0	meninggalkan
+abandoned	1	0	0	1	0	1	0	1	0	0	ditinggalkan
+abandonment	1	0	0	1	0	1	0	1	1	0	pengabaian
+abbot	0	0	0	0	0	0	0	0	0	1	kepala biara
+abduction	0	0	0	1	0	1	0	1	1	0	penculikan
+aberration	0	0	1	0	0	1	0	0	0	0	penyimpangan
+abhor	1	0	1	1	0	1	0	0	0	0	benci
+abhorrent	1	0	1	1	0	1	0	0	0	0	mengerikan
+abject	0	0	1	0	0	1	0	0	0	0	hina
+abnormal	0	0	1	0	0	1	0	0	0	0	abnormal
+abolish	1	0	0	0	0	1	0	0	0	0	menghapuskan
+abominable	0	0	1	1	0	1	0	0	0	0	mengerikan
+abomination	1	0	1	1	0	1	0	0	0	0	kekejian
+abortion	0	0	1	1	0	1	0	1	0	0	abortus
+abortive	0	0	0	0	0	1	0	1	0	0	gagal
+abrupt	0	0	0	0	0	0	0	0	1	0	mendadak
+abscess	0	0	0	0	0	1	0	1	0	0	abses
+absence	0	0	0	1	0	1	0	1	0	0	ketiadaan
+absent	0	0	0	0	0	1	0	1	0	0	absen
+absentee	0	0	0	0	0	1	0	1	0	0	absen
+absolution	0	0	0	0	1	0	1	0	0	1	absolusi
+abundance	0	1	1	0	1	1	1	0	0	1	kelimpahan
+abundant	0	0	0	0	1	0	1	0	0	0	melimpah
+abuse	1	0	1	1	0	1	0	1	0	0	melecehkan
+abysmal	0	0	0	0	0	1	0	1	0	0	bukan kepalang
+abyss	0	0	0	1	0	1	0	1	0	0	neraka
+academic	0	0	0	0	0	0	1	0	0	1	akademik
+accelerate	0	1	0	0	0	0	0	0	0	0	mempercepat
+accident	0	0	0	1	0	1	0	1	1	0	kecelakaan
+accidental	0	0	0	1	0	1	0	0	1	0	kebetulan
+accidentally	0	0	0	0	0	0	0	0	1	0	secara tidak sengaja
+accolade	0	1	0	0	1	0	1	0	1	1	penghargaan
+accompaniment	0	1	0	0	1	0	1	0	0	1	iringan
+accomplish	0	0	0	0	1	0	1	0	0	0	menyelesaikan
+accomplished	0	0	0	0	1	0	1	0	0	0	ahli
+accord	0	0	0	0	0	0	1	0	0	1	sesuai
+accountability	0	0	0	0	0	0	1	0	0	1	pertanggungjawaban
+accountable	0	0	0	0	0	0	1	0	0	1	akuntabel
+accountant	0	0	0	0	0	0	0	0	0	1	akuntan
+accredited	0	0	0	0	0	0	1	0	0	1	terakreditasi
+accurate	0	0	0	0	0	0	1	0	0	1	tepat
+accursed	1	0	0	1	0	1	0	1	0	0	terkutuk
+accusation	1	0	1	0	0	1	0	0	0	0	tuduhan
+accused	1	0	0	1	0	1	0	0	0	0	dituduh
+accuser	1	0	0	1	0	1	0	0	0	0	penuduh
+accusing	1	0	0	1	0	1	0	0	0	0	menuduh
+ache	0	0	0	0	0	1	0	1	0	0	sakit
+achieve	0	0	0	0	1	0	1	0	0	1	meraih
+achievement	0	1	0	0	1	0	1	0	0	1	pencapaian
+aching	0	0	0	0	0	1	0	1	0	0	sakit
+acquiring	0	1	0	0	0	0	1	0	0	0	memperoleh
+acrobat	0	0	0	1	1	0	1	0	0	1	akrobat
+actionable	1	0	1	0	0	1	0	0	0	0	dapat ditindaklanjuti
+adder	1	0	1	1	0	1	0	1	0	0	penambah
+addresses	0	1	0	0	0	0	1	0	0	0	alamat
+adhering	0	0	0	0	0	0	0	0	0	1	mengikuti
+adjudicate	0	0	0	1	0	1	0	0	0	0	mengadili
+administrative	0	0	0	0	0	0	0	0	0	1	administratif
+admirable	0	0	0	0	1	0	1	0	0	1	terpuji
+admiral	0	0	0	0	0	0	1	0	0	1	laksamana
+admiration	0	0	0	0	1	0	1	0	0	1	kekaguman
+admire	0	0	0	0	0	0	1	0	0	1	mengagumi
+admissible	0	0	0	0	0	0	1	0	0	1	dapat diterima
+admonition	0	0	0	1	0	1	0	0	0	0	peringatan
+adorable	0	0	0	0	1	0	1	0	0	0	menggemaskan
+adoration	0	0	0	0	1	0	1	0	0	1	pemujaan
+adore	0	1	0	0	1	0	1	0	0	1	cinta
+adrift	0	1	0	1	0	1	0	1	0	0	terpaut
+adultery	0	0	1	0	0	1	0	1	0	0	zina
+advance	0	1	0	1	1	0	1	0	1	0	maju
+advent	0	1	0	0	1	0	1	0	0	1	kedatangan
+adventure	0	1	0	0	0	0	1	0	0	0	petualangan
+adversary	1	0	0	0	0	1	0	0	0	0	musuh
+adverse	1	0	1	1	0	1	0	1	0	0	merugikan
+adversity	1	0	0	1	0	1	0	1	0	0	kesulitan
+advice	0	0	0	0	0	0	0	0	0	1	nasihat
+advisable	0	0	0	0	0	0	1	0	0	1	sebaiknya
+advise	0	0	0	0	0	0	1	0	0	1	menasihati
+advised	0	0	0	0	0	0	0	0	0	1	disarankan
+adviser	0	0	0	0	0	0	1	0	0	1	penasihat
+advocacy	1	1	0	0	1	0	1	0	0	1	pembelaan
+advocate	0	0	0	0	0	0	0	0	0	1	menganjurkan
+aesthetics	0	0	0	0	1	0	1	0	0	0	estetika
+affection	0	0	0	0	1	0	1	0	0	1	kasih sayang
+affirm	0	0	0	0	0	0	1	0	0	1	menegaskan
+affirmatively	0	0	0	0	0	0	1	0	0	1	dengan tegas
+afflict	0	0	0	1	0	1	0	1	0	0	menimpa
+affliction	0	0	1	1	0	1	0	1	0	0	penderitaan
+affluence	0	0	0	0	1	0	1	0	0	0	kemakmuran
+affront	1	0	1	1	0	1	0	1	1	0	penghinaan
+afraid	0	0	0	1	0	1	0	0	0	0	takut
+aftermath	1	0	1	1	0	1	0	1	0	0	akibat
+aga	0	0	0	1	0	0	1	0	0	1	lagi
+aggravated	1	0	0	0	0	1	0	0	0	0	diperparah
+aggravating	1	0	0	0	0	1	0	1	0	0	memberatkan
+aggravation	1	0	1	0	0	1	0	0	0	0	kejengkelan
+aggression	1	0	0	1	0	1	0	0	0	0	agresi
+aggressive	1	0	0	1	0	1	0	0	0	0	agresif
+aggressor	1	0	0	1	0	1	0	0	0	0	agresor
+aghast	0	0	1	1	0	1	0	0	1	0	terperanjat
+agitated	1	0	0	0	0	1	0	0	0	0	gelisah
+agitation	1	0	0	0	0	1	0	0	0	0	agitasi
+agonizing	0	0	0	1	0	1	0	0	0	0	menyiksa
+agony	1	0	0	1	0	1	0	1	0	0	rasa sakit
+agreeable	0	0	0	0	0	0	1	0	0	1	menyenangkan
+agreed	0	0	0	0	0	0	1	0	0	1	sepakat
+agreeing	0	0	0	0	0	0	1	0	0	1	setuju
+agreement	0	0	0	0	0	0	1	0	0	1	persetujuan
+ail	0	0	0	0	0	1	0	1	0	0	bersakit
+ailing	0	0	0	1	0	1	0	1	0	0	sakit
+airport	0	1	0	0	0	0	0	0	0	0	Bandara
+airs	0	0	1	0	0	1	0	0	0	0	mengudara
+akin	0	0	0	0	0	0	0	0	0	1	mirip
+alarm	0	0	0	1	0	1	0	0	1	0	alarm
+alarming	0	0	0	1	0	1	0	0	1	0	menggelisahkan
+alb	0	0	0	0	0	0	0	0	0	1	alb
+alcoholism	1	0	1	1	0	1	0	1	0	0	alkoholisme
+alertness	0	1	0	1	0	0	1	0	1	0	kewaspadaan
+alerts	0	1	0	1	0	0	0	0	1	0	peringatan
+alien	0	0	1	1	0	1	0	0	0	0	asing
+alienate	1	0	1	0	0	1	0	0	0	0	menjauhkan
+alienated	0	0	0	0	0	1	0	1	0	0	terasing
+alienation	1	0	1	1	0	1	0	1	0	0	pengasingan
+alive	0	1	0	0	1	0	1	0	0	1	hidup
+allegation	1	0	0	0	0	1	0	0	0	0	tuduhan
+allegiance	0	0	0	0	0	0	1	0	0	1	kesetiaan
+alliance	0	0	0	0	0	0	0	0	0	1	persekutuan
+allied	0	0	0	0	0	0	1	0	0	1	bersekutu
+allure	0	1	0	0	1	0	1	0	1	0	daya tarik
+ally	0	0	0	0	0	0	1	0	0	1	sekutu
+aloha	0	1	0	0	1	0	1	0	0	0	aloha
+altercation	1	0	0	0	0	1	0	0	0	0	pertengkaran
+amaze	0	0	0	0	0	0	0	0	1	0	menakjubkan
+amazingly	0	0	0	0	1	0	1	0	1	0	luar biasa
+ambassador	0	0	0	0	0	0	1	0	0	1	duta besar
+ambition	0	1	0	0	1	0	1	0	0	1	ambisi
+ambulance	0	0	0	1	0	0	0	0	0	1	ambulans
+ambush	1	0	0	1	0	1	0	0	1	0	penyergapan
+amen	0	0	0	0	1	0	1	0	0	1	Amin
+amicable	0	0	0	0	1	0	1	0	0	0	ramah tamah
+ammonia	0	0	1	0	0	0	0	0	0	0	amonia
+amnesty	0	0	0	0	1	0	1	0	0	0	amnesti
+amortization	0	0	0	0	0	0	0	0	0	1	amortisasi
+amour	0	1	0	0	1	0	1	0	0	1	cinta
+amphetamines	0	0	1	0	0	1	0	0	0	0	amfetamin
+amuse	0	0	0	0	1	0	1	0	0	0	menghibur
+amused	0	0	0	0	1	0	1	0	0	0	terhibur
+amusement	0	0	0	0	1	0	1	0	0	0	hiburan
+amusing	0	0	0	0	1	0	1	0	0	0	menyenangkan
+anaconda	0	0	1	1	0	1	0	0	0	0	anakonda
+analyst	0	1	0	0	0	0	1	0	0	1	analis
+anarchism	1	0	0	1	0	1	0	0	0	0	anarkisme
+anarchist	1	0	0	1	0	1	0	0	0	0	anarkis
+anarchy	1	0	0	1	0	1	0	0	0	0	anarki
+anathema	1	0	1	1	0	1	0	1	0	0	laknat
+ancestral	0	0	0	0	0	0	0	0	0	1	leluhur
+anchorage	0	0	0	0	0	0	1	1	0	0	pelabuhan
+angel	0	1	0	0	1	0	1	0	1	1	malaikat
+angelic	0	0	0	0	1	0	1	0	0	1	seperti malaikat
+anger	1	0	0	0	0	1	0	0	0	0	amarah
+angina	0	0	0	1	0	1	0	0	0	0	angina
+angling	0	1	0	0	0	1	0	0	0	0	memancing
+angry	1	0	1	0	0	1	0	0	0	0	marah
+anguish	1	0	0	1	0	1	0	1	0	0	derita
+animated	0	0	0	0	1	0	1	0	0	0	animasi
+animosity	1	0	1	1	0	1	0	1	0	0	kebencian
+animus	1	0	0	0	0	1	0	0	0	0	kebencian
+annihilate	1	0	0	1	0	1	0	0	0	0	membinasakan
+annihilated	1	0	0	1	0	1	0	1	0	0	musnah
+annihilation	1	0	0	1	0	1	0	1	0	0	penghancuran
+announcement	0	1	0	0	0	0	0	0	0	0	pengumuman
+annoy	1	0	1	0	0	1	0	0	0	0	mengganggu
+annoyance	1	0	1	0	0	1	0	0	0	0	gangguan
+annoying	1	0	0	0	0	1	0	0	0	0	mengganggu
+annulment	0	0	0	0	0	1	0	1	0	0	pembatalan
+anomaly	0	0	0	1	0	1	0	0	1	0	anomali
+answerable	0	0	0	0	0	0	0	0	0	1	jawab
+antagonism	1	0	0	0	0	1	0	0	0	0	antagonisme
+antagonist	1	0	0	0	0	1	0	0	0	0	antagonis
+antagonistic	1	0	1	0	0	1	0	0	0	0	bermusuhan
+anthrax	0	0	1	1	0	1	0	1	0	0	antraks
+antichrist	1	0	1	1	0	1	0	0	0	0	antikristus
+anticipation	0	1	0	0	0	0	0	0	0	0	antisipasi
+anticipatory	0	1	0	0	0	0	0	0	0	0	antisipatif
+antidote	0	1	0	0	0	0	1	0	0	1	penangkal
+antifungal	0	0	0	0	0	0	1	0	0	1	antijamur
+antipathy	1	0	1	0	0	1	0	0	0	0	antipati
+antiseptic	0	0	0	0	0	0	1	0	0	1	antiseptik
+antisocial	1	0	1	1	0	1	0	1	0	0	antisosial
+antithesis	1	0	0	0	0	1	0	0	0	0	antitesis
+anxiety	1	1	0	1	0	1	0	1	0	0	kecemasan
+anxious	0	1	0	1	0	1	0	0	0	0	cemas
+apache	0	0	0	1	0	1	0	0	0	0	apache
+apathetic	0	0	0	0	0	1	0	1	0	0	apatis
+apathy	0	0	0	0	0	1	0	1	0	0	apati
+aphid	0	0	1	0	0	1	0	0	0	0	kutu
+apologetic	0	0	0	0	0	0	1	0	0	1	minta maaf
+apologize	0	0	0	0	0	0	1	1	0	1	meminta maaf
+apostle	0	0	0	0	0	0	1	0	0	1	rasul
+apostolic	0	0	0	0	0	0	0	0	0	1	apostolik
+appalling	0	0	1	1	0	1	0	0	0	0	mengerikan
+apparition	0	0	0	1	0	0	0	0	1	0	penampakan
+appeal	0	1	0	0	0	0	0	0	0	0	menarik
+appendicitis	0	0	0	1	0	1	0	1	0	0	radang usus buntu
+applause	0	0	0	0	1	0	1	0	1	1	tepuk tangan
+applicant	0	1	0	0	0	0	0	0	0	0	pemohon
+appreciation	0	0	0	0	1	0	1	0	0	1	apresiasi
+apprehend	0	0	0	1	0	0	0	0	0	0	menangkap
+apprehension	0	0	0	1	0	1	0	0	0	0	penangkapan
+apprehensive	0	1	0	1	0	1	0	0	0	0	gelisah
+apprentice	0	0	0	0	0	0	0	0	0	1	anak magang
+approaching	0	1	0	0	0	0	0	0	0	0	mendekati
+approbation	0	0	0	0	0	0	1	0	0	1	persetujuan
+approve	0	0	0	0	1	0	1	0	0	1	menyetujui
+arbiter	0	0	0	0	0	0	0	0	0	1	wasit
+arbitration	0	1	0	0	0	0	0	0	0	0	arbitrasi
+arbitrator	0	0	0	0	0	0	0	0	0	1	wasit
+archaeology	0	1	0	0	0	0	1	0	0	0	arkeologi
+architecture	0	0	0	0	0	0	0	0	0	1	Arsitektur
+ardent	0	1	0	0	1	0	1	0	0	0	bersemangat
+argue	1	0	0	0	0	1	0	0	0	0	membantah
+argument	1	0	0	0	0	1	0	0	0	0	argumen
+argumentation	1	0	0	0	0	0	0	0	0	0	argumentasi
+arguments	1	0	0	0	0	0	0	0	0	0	argumen
+arid	0	0	0	0	0	1	0	1	0	0	kering
+armament	1	0	0	1	0	0	0	0	0	0	persenjataan
+armaments	0	0	0	1	0	1	0	0	0	0	persenjataan
+armed	1	0	0	1	0	1	1	0	0	0	bersenjata
+armor	0	0	0	1	0	0	1	0	0	1	baju zirah
+armored	0	0	0	1	0	0	0	0	0	0	lapis baja
+armory	0	0	0	0	0	0	0	0	0	1	gudang senjata
+arouse	0	1	0	0	0	0	1	0	0	0	membangkitkan
+arraignment	1	0	0	1	0	1	0	1	0	0	dakwaan
+arrival	0	1	0	0	0	0	0	0	0	0	kedatangan
+arrive	0	1	0	0	0	0	0	0	0	0	tiba
+arrogant	1	0	1	0	0	1	0	0	0	0	arogan
+arsenic	0	0	1	1	0	1	0	1	0	0	arsenik
+arson	1	0	0	1	0	1	0	0	0	0	pembakaran
+art	0	1	0	0	1	0	1	1	1	0	seni
+artillery	0	0	0	1	0	1	0	0	0	0	artileri
+ashamed	0	0	1	0	0	1	0	1	0	0	malu
+ashes	0	0	0	0	0	1	0	1	0	0	abu
+asp	0	0	0	1	0	0	0	0	0	0	asp
+aspiration	0	1	0	0	1	0	1	0	1	1	aspirasi
+aspire	0	1	0	0	1	0	1	0	0	0	bercita-cita
+aspiring	0	1	0	0	1	0	1	0	0	1	bercita-cita
+assail	1	0	0	1	0	1	0	0	1	0	menyerang
+assailant	1	0	0	1	0	1	0	1	0	0	penyerang
+assassin	1	0	0	1	0	1	0	1	0	0	pembunuh
+assassinate	1	0	0	1	0	1	0	0	0	0	membunuh
+assassination	1	0	0	1	0	1	0	1	0	0	pembunuhan
+assault	1	0	0	1	0	1	0	0	0	0	serangan
+assembly	0	0	0	0	0	0	1	0	0	1	perakitan
+asserting	0	0	0	0	0	0	1	0	0	1	menegaskan
+assessment	0	0	0	0	0	0	0	0	1	1	penilaian
+assessor	0	0	0	0	0	0	0	0	0	1	penilai
+asshole	1	0	1	0	0	1	0	0	0	0	bajingan
+assignee	0	0	0	0	0	0	0	0	0	1	penerima tugas
+assist	0	0	0	0	0	0	1	0	0	1	membantu
+associate	0	0	0	0	0	0	1	0	0	1	rekan
+association	0	0	0	0	0	0	0	0	0	1	asosiasi
+assurance	0	0	0	0	0	0	1	0	0	1	jaminan
+assure	0	0	0	0	0	0	0	0	0	1	memastikan
+assured	0	0	0	0	0	0	1	0	0	1	terjamin
+assuredly	0	0	0	0	0	0	0	0	0	1	pasti
+astonishingly	0	0	0	0	0	0	1	0	1	0	secara mengejutkan
+astonishment	0	0	0	0	1	0	1	0	1	0	heran
+astray	0	0	0	1	0	1	0	0	0	0	sesat
+astrologer	0	1	0	0	0	0	1	0	0	0	ahli nujum
+astronomer	0	1	0	0	0	0	1	0	0	0	ahli astronomi
+asylum	0	0	0	1	0	1	0	0	0	0	suaka
+asymmetry	0	0	1	0	0	0	0	0	0	0	asimetri
+atherosclerosis	0	0	0	1	0	1	0	1	0	0	aterosklerosis
+atone	0	1	0	0	1	0	1	0	0	1	menebus
+atrocious	1	0	1	0	0	1	0	0	0	0	mengerikan
+atrocity	1	0	1	1	0	1	0	1	0	0	kekejaman
+atrophy	0	0	1	1	0	1	0	1	0	0	atrophia
+attack	1	0	0	1	0	1	0	0	0	0	menyerang
+attacking	1	0	1	1	0	1	0	1	1	0	menyerang
+attainable	0	1	0	0	0	0	1	0	0	0	dapat dicapai
+attempt	0	1	0	0	0	0	0	0	0	0	percobaan
+attendance	0	1	0	0	0	0	0	0	0	0	kehadiran
+attendant	0	0	0	0	0	0	1	0	0	1	pembantu
+attentive	0	0	0	0	0	0	1	0	0	1	penuh perhatian
+attenuation	0	0	0	0	0	1	0	1	0	0	redaman
+attest	0	0	0	0	0	0	1	0	0	1	membuktikan
+attestation	0	0	0	0	0	0	0	0	0	1	pengesahan
+attorney	1	0	0	1	0	0	1	0	0	1	pengacara
+auction	0	1	0	0	0	0	0	0	0	0	lelang
+audience	0	1	0	0	0	0	0	0	0	0	hadirin
+auditor	0	0	0	1	0	0	0	0	0	1	auditor
+aunt	0	0	0	0	0	0	1	0	0	1	tante
+auspicious	0	1	0	0	1	0	1	0	0	0	menguntungkan
+austere	0	0	0	1	0	1	0	1	0	0	keras
+authentic	0	0	0	0	1	0	1	0	0	1	autentik
+authenticate	0	0	0	0	0	0	0	0	0	1	mengautentikasi
+authentication	0	0	0	0	0	0	0	0	0	1	autentikasi
+authenticity	0	0	0	0	0	0	1	0	0	1	keaslian
+author	0	0	0	0	0	0	1	0	0	1	pengarang
+authoritative	0	0	0	0	0	0	1	0	0	1	berwibawa
+authorization	0	0	0	0	0	0	1	0	0	1	otorisasi
+authorize	0	0	0	0	0	0	0	0	0	1	mengizinkan
+automatic	0	0	0	0	0	0	0	0	0	1	otomatis
+autopsy	0	0	1	1	0	1	0	1	0	0	autopsi
+avalanche	0	0	0	1	0	1	0	1	1	0	salju longsor
+avarice	1	0	1	0	0	1	0	0	0	0	ketamakan
+avenger	1	0	0	0	0	1	0	0	0	0	pembalas
+averse	1	0	1	1	0	1	0	0	0	0	enggan
+aversion	1	0	1	1	0	1	0	0	0	0	keengganan
+avoid	0	0	0	1	0	1	0	0	0	0	menghindari
+avoidance	0	0	0	1	0	1	0	0	0	0	penghindaran
+avoiding	0	0	0	1	0	0	0	0	0	0	menghindari
+await	0	1	0	0	0	0	0	0	0	0	menunggu
+award	0	1	0	0	1	0	1	0	1	1	menghadiahkan
+awful	1	0	1	1	0	1	0	1	0	0	buruk sekali
+awkwardness	0	0	1	0	0	1	0	0	0	0	kejanggalan
+axiom	0	0	0	0	0	0	0	0	0	1	aksioma
+axiomatic	0	0	0	0	0	0	0	0	0	1	aksiomatis
+baboon	0	0	1	0	0	1	0	0	0	0	babon
+baby	0	0	0	0	1	0	1	0	0	0	bayi
+babysitter	0	0	0	0	0	0	0	0	0	1	pengasuh anak
+backbone	1	0	0	0	0	0	1	0	0	1	tulang punggung
+backer	0	0	0	0	0	0	0	0	0	1	penyokong
+backwards	0	0	1	0	0	1	0	0	0	0	ke belakang
+backwater	0	0	0	0	0	1	0	1	0	0	terpencil
+bacteria	0	0	1	1	0	1	0	1	0	0	bakteri
+bacterium	0	0	1	1	0	1	0	0	0	0	bakteri
+bad	1	0	1	1	0	1	0	1	0	0	buruk
+badge	0	0	0	0	0	0	0	0	0	1	lencana
+badger	1	0	0	0	0	1	0	0	0	0	luak
+badly	0	0	0	0	0	1	0	1	0	0	dengan buruk
+badness	1	0	1	1	0	1	0	0	0	0	kejahatan
+bailiff	0	0	0	1	0	1	0	0	0	1	juru sita
+bait	0	0	0	1	0	1	0	0	0	1	umpan
+bale	0	0	0	1	0	1	0	0	0	0	bal
+ballot	0	1	0	0	0	0	1	0	0	1	suara
+balm	0	1	0	0	1	1	1	0	0	0	balsem
+bane	1	0	1	1	0	1	0	0	0	0	kutukan
+bang	1	0	1	1	0	1	0	1	1	0	bang
+banger	1	1	0	1	0	1	0	0	1	0	banger
+banish	1	0	1	1	0	1	0	1	0	0	membuang
+banished	1	0	0	1	0	1	0	1	0	0	dibuang
+banishment	1	0	1	0	0	1	0	1	0	0	pembuangan
+bank	0	0	0	0	0	0	0	0	0	1	bank
+banker	0	0	0	0	0	0	0	0	0	1	bankir
+bankrupt	0	0	0	1	0	1	0	1	0	0	bangkrut
+bankruptcy	1	0	1	1	0	1	0	1	0	0	kebangkrutan
+banquet	0	1	0	0	1	0	1	0	0	0	perjamuan
+banshee	1	0	1	1	0	1	0	1	0	0	banshee
+baptismal	0	0	0	0	1	0	1	0	0	0	pembaptisan
+barb	1	0	0	0	0	1	0	0	0	0	duri
+barbarian	0	0	0	1	0	1	0	0	0	0	barbar
+barbaric	1	0	1	1	0	1	0	0	0	0	biadab
+barf	0	0	1	0	0	0	0	0	0	0	muntah
+bargain	0	0	0	0	0	0	1	0	0	1	tawar-menawar
+bark	1	0	0	0	0	1	0	0	0	0	kulit pohon
+barren	0	0	0	0	0	1	0	1	0	0	tandus
+barricade	0	0	0	1	0	1	0	0	0	0	barikade
+barrier	1	0	0	0	0	1	0	0	0	0	penghalang
+barrow	0	0	1	0	0	0	0	0	0	0	gerobak dorong
+bartender	0	0	0	0	0	0	0	0	0	1	pelayan bar
+barter	0	0	0	0	0	0	0	0	0	1	barter
+base	0	0	0	0	0	0	0	0	0	1	basis
+basketball	0	1	0	0	1	0	1	0	0	0	bola basket
+bastard	0	0	1	0	0	1	0	1	0	0	bajingan
+bastion	1	0	0	0	0	0	1	0	0	0	benteng pertahanan
+battalion	1	0	0	0	0	0	0	0	0	0	batalyon
+batter	1	0	0	1	0	1	0	0	0	0	adonan
+battered	0	0	0	1	0	1	0	1	0	0	babak belur
+battery	1	0	0	0	0	1	0	0	0	0	baterai
+battle	1	0	0	0	0	1	0	0	0	0	pertarungan
+battled	1	0	0	1	0	1	0	1	0	0	berjuang
+battlefield	0	0	0	1	0	1	0	0	0	0	medan perang
+bayonet	1	0	0	1	0	1	0	0	0	0	bayonet
+beach	0	0	0	0	1	0	0	0	0	0	pantai
+beam	0	0	0	0	1	0	1	0	0	0	balok
+beaming	0	1	0	0	1	0	1	0	0	0	berseri-seri
+bear	1	0	0	1	0	0	0	0	0	0	beruang
+bearish	1	0	0	1	0	0	0	0	0	0	kasar
+beast	1	0	0	1	0	1	0	0	0	0	binatang buas
+beastly	0	0	1	1	0	1	0	0	0	0	jijik
+beating	1	0	0	1	0	1	0	1	0	0	mengalahkan
+beautification	0	0	0	0	1	0	1	0	0	1	kecantikan
+beautiful	0	0	0	0	1	0	1	0	0	0	Cantik
+beautify	0	0	0	0	1	0	1	0	0	0	mempercantik
+beauty	0	0	0	0	1	0	1	0	0	0	Kecantikan
+bedrock	0	0	0	0	0	0	1	0	0	1	batuan dasar
+bee	1	0	0	1	0	0	0	0	0	0	lebah
+beer	0	0	0	0	1	0	1	0	0	0	Bir
+befriend	0	0	0	0	1	0	1	0	0	1	berteman
+beg	0	0	0	0	0	1	0	1	0	0	mengemis
+beggar	0	0	0	0	0	1	0	1	0	0	pengemis
+begun	0	1	0	0	0	0	0	0	0	0	dimulai
+behemoth	0	0	0	1	0	1	0	0	0	0	raksasa binatang
+believed	0	0	0	0	0	0	0	0	0	1	percaya
+believer	0	0	0	0	0	0	0	0	0	1	orang percaya
+believing	0	0	0	0	0	0	1	0	0	1	percaya
+belittle	1	0	1	1	0	1	0	1	0	0	meremehkan
+belligerent	1	0	0	1	0	1	0	0	0	0	berperang
+bellows	1	0	0	0	0	0	0	0	0	0	puputan
+belt	1	0	0	1	0	1	0	0	0	0	sabuk
+benefactor	0	0	0	0	0	0	1	0	0	1	dermawan
+benevolence	0	0	0	0	1	0	1	0	0	1	kebajikan
+benign	0	0	0	0	1	0	1	0	0	0	jinak
+bequest	0	0	0	0	0	0	0	0	0	1	warisan
+bereaved	0	0	0	0	0	1	0	1	0	0	berduka
+bereavement	0	0	0	0	0	1	0	1	0	0	kehilangan
+berserk	1	0	0	0	0	1	0	0	0	0	mengamuk
+bestial	0	0	1	1	0	1	0	0	0	0	kejam
+betray	1	0	1	0	0	1	0	1	1	0	mengkhianati
+betrayal	1	0	1	0	0	1	0	1	0	0	pengkhianatan
+betrothed	0	1	0	0	1	0	1	0	0	1	bertunangan
+beware	0	1	0	1	0	1	0	0	0	0	awas
+bewildered	0	0	0	1	0	1	0	0	1	0	bingung
+bewilderment	0	0	0	1	0	0	0	0	1	0	kebingungan
+bias	1	0	0	0	0	1	0	0	0	0	bias
+bickering	1	0	1	0	0	1	0	0	0	0	pertengkaran
+biennial	0	1	0	0	0	0	0	0	0	0	dua tahunan
+bier	0	0	0	1	0	1	0	1	0	0	usungan jenazah
+bigot	1	0	1	1	0	1	0	0	0	0	fanatik
+bigoted	1	0	1	1	0	1	0	1	0	0	fanatik
+bile	1	0	1	0	0	1	0	0	0	0	empedu
+biopsy	0	0	0	1	0	1	0	0	0	0	biopsi
+birch	1	0	1	1	0	1	0	0	0	0	Birch
+birth	0	1	0	1	1	0	1	0	0	1	kelahiran
+birthday	0	1	0	0	1	0	1	0	1	0	hari ulang tahun
+birthplace	1	0	0	0	0	1	0	0	0	0	tempat lahir
+bitch	1	0	1	1	0	1	0	1	0	0	jalang
+bitterly	1	0	1	0	0	1	0	1	0	0	dengan pahit
+bitterness	1	0	1	0	0	1	0	1	0	0	kepahitan
+bizarre	0	0	0	0	0	1	0	0	1	0	aneh
+blackmail	1	0	0	1	0	1	0	0	0	0	pemerasan
+blackness	0	0	0	1	0	1	0	1	0	0	kegelapan
+blame	1	0	1	0	0	1	0	0	0	0	menyalahkan
+blanket	0	0	0	0	0	0	0	0	0	1	selimut
+blasphemous	1	0	1	0	0	1	0	0	0	0	menghujat
+blasphemy	1	0	0	0	0	1	0	0	0	0	penistaan
+blast	1	0	0	1	0	1	0	0	1	0	ledakan
+blatant	1	0	1	0	0	1	0	0	0	0	menyolok
+blaze	1	0	0	0	0	1	0	0	0	0	api
+bleak	0	0	0	0	0	1	0	1	0	0	suram
+bleeding	0	0	1	1	0	1	0	1	0	0	berdarah
+blemish	1	0	1	1	0	1	0	1	0	0	cacat
+bless	0	1	0	0	1	0	1	0	0	1	memberkati
+blessed	0	0	0	0	1	0	1	0	0	0	diberkati
+blessing	0	1	0	0	1	0	1	0	0	1	anugerah
+blessings	0	1	0	0	1	0	1	0	1	1	berkah
+blight	0	0	1	1	0	1	0	1	0	0	hawar
+blighted	0	0	1	0	0	1	0	1	0	0	rusak
+blindfold	0	1	0	1	0	0	0	0	1	0	menutup mata
+blindly	0	0	0	0	0	1	0	1	0	0	membabi buta
+blindness	0	0	0	0	0	1	0	1	0	0	kebutaan
+bliss	0	0	0	0	1	0	1	0	0	0	kebahagiaan
+blissful	0	0	0	0	1	0	1	0	0	0	bahagia
+blister	0	0	1	0	0	1	0	0	0	0	lepuh
+blitz	0	0	0	0	0	0	0	0	1	0	menggempur
+bloated	0	0	1	0	0	1	0	0	0	0	bengkak
+blob	0	0	1	1	0	1	0	0	0	0	gumpal
+blockade	1	0	0	1	0	1	0	1	0	0	blokade
+bloodshed	1	0	1	1	0	1	0	1	1	0	pertumpahan darah
+bloodthirsty	1	0	1	1	0	1	0	0	0	0	haus darah
+bloody	1	0	1	1	0	1	0	1	0	0	berdarah
+bloom	0	1	0	0	1	0	1	0	0	1	bunga
+blossom	0	0	0	0	1	0	1	0	0	0	mekar
+blue	0	0	0	0	0	0	0	1	0	0	biru
+blues	0	0	0	1	0	1	0	1	0	0	biru
+blunder	0	0	1	0	0	1	0	1	0	0	kekeliruan
+board	0	1	0	0	0	0	0	0	0	0	papan
+bodyguard	0	0	0	0	0	0	1	0	0	1	pengawal
+bogus	1	0	1	0	0	1	0	0	0	0	palsu
+boil	0	0	1	0	0	1	0	0	0	0	mendidihkan
+boisterous	1	1	0	0	1	1	1	0	0	0	riuh
+bomb	1	0	0	1	0	1	0	1	1	0	bom
+bombard	1	0	0	1	0	1	0	0	0	0	membombardir
+bombardment	1	0	0	1	0	1	0	0	0	0	pengeboman
+bombed	0	0	1	0	0	1	0	0	0	0	dibom
+bomber	0	0	0	1	0	0	0	1	0	0	pembom
+bonanza	0	0	0	0	1	0	1	0	0	0	sumber keuntungan
+bondage	0	0	0	1	0	1	0	1	0	0	perbudakan
+bonus	0	1	0	0	1	0	1	0	1	0	bonus
+boomerang	0	1	0	0	0	0	0	0	0	1	bumerang
+boredom	0	0	0	0	0	1	0	1	0	0	kebosanan
+bothering	1	0	0	0	0	1	0	1	0	0	mengganggu
+bottom	0	0	0	0	0	1	0	1	0	0	bawah
+bottomless	0	0	0	1	0	0	0	0	0	0	tak berdasar
+bountiful	0	1	0	0	1	0	1	0	0	0	berlimpah
+bounty	0	1	0	0	1	0	1	0	0	1	karunia
+bouquet	0	0	0	0	1	0	1	0	0	1	buket
+bout	1	0	0	0	0	1	0	0	0	0	pertandingan
+bovine	0	0	1	0	0	1	0	0	0	0	termasuk keluarga sapi
+bowels	0	0	1	0	0	0	0	0	0	0	usus
+boxing	1	0	0	0	0	0	0	0	0	0	tinju
+bran	0	0	1	0	0	0	0	0	0	0	dedak
+brawl	1	0	1	1	0	1	0	0	0	0	ribut
+brazen	1	0	0	0	0	1	0	0	0	0	kurang ajar
+break	0	0	0	0	0	0	0	0	1	0	merusak
+breakup	0	0	0	0	0	1	0	1	0	0	putus
+bribery	0	0	1	0	0	1	0	0	0	0	penyuapan
+bridal	0	1	0	0	1	0	1	0	0	1	pengantin
+bride	0	1	0	0	1	0	1	0	0	1	pengantin perempuan
+bridegroom	0	1	0	0	1	0	1	0	0	1	mempelai
+bridesmaid	0	0	0	0	1	0	1	0	0	1	pengiring pengantin perempuan
+brigade	0	0	0	1	0	1	0	0	0	0	brigade
+brighten	0	0	0	0	1	0	1	0	1	1	menerangi
+brilliant	0	1	0	0	1	0	1	0	0	1	cemerlang
+brimstone	1	0	0	1	0	1	0	0	0	0	belerang
+broadside	0	1	0	0	0	1	0	0	0	0	selebaran
+broil	1	0	0	0	0	1	0	0	0	0	memanggang
+broke	0	0	0	1	0	1	0	1	0	0	bangkrut
+broken	1	0	0	1	0	1	0	1	0	0	rusak
+brothel	0	0	1	0	0	1	0	0	0	0	bordil
+brother	0	0	0	0	0	0	1	0	0	1	saudara laki-laki
+brotherhood	0	0	0	0	0	0	1	0	0	1	persaudaraan
+brotherly	0	1	0	0	1	0	1	0	0	1	saudara
+bruise	0	1	0	0	0	1	0	0	0	0	memar
+brunt	1	0	0	0	0	1	0	0	0	0	terberat
+brutal	1	0	0	1	0	1	0	0	0	0	brutal
+brutality	1	0	0	1	0	1	0	0	0	0	kebrutalan
+brute	1	0	0	1	0	1	0	1	0	0	kasar
+buddy	0	1	0	0	1	0	1	0	0	1	sobat
+buffet	1	0	0	0	0	1	0	0	0	0	prasmanan
+bug	0	0	1	1	0	1	0	0	0	0	serangga
+bugaboo	1	0	0	1	0	1	0	1	0	0	momok
+bugle	0	1	0	0	0	0	0	0	0	0	terompet
+bully	1	0	0	1	0	1	0	0	0	0	menggertak
+bum	0	0	1	0	0	1	0	1	0	0	gelandangan
+bummer	1	0	1	0	0	1	0	0	0	0	kekecewaan
+bunker	0	0	0	1	0	0	0	0	0	0	bunker
+burdensome	0	0	0	1	0	1	0	1	0	0	berat
+bureaucracy	0	0	0	0	0	1	0	0	0	1	birokrasi
+bureaucrat	0	0	1	0	0	1	0	0	0	0	birokrat
+burglar	0	0	1	1	0	1	0	0	0	0	pencuri
+burial	1	0	0	1	0	1	0	1	0	0	pemakaman
+buried	0	0	0	1	0	1	0	1	0	0	terkubur
+burke	1	0	1	1	0	1	0	1	0	0	menutup perkara
+burlesque	0	0	0	0	0	0	0	0	1	0	bahan tertawaan
+burnt	0	0	1	0	0	1	0	0	0	0	dibakar
+bursary	0	0	0	0	0	0	0	0	0	1	beasiswa
+bury	0	0	0	0	0	0	0	1	0	0	mengubur
+buss	0	0	0	0	1	0	1	0	0	0	ciuman
+busted	1	0	0	1	0	1	0	0	0	0	ditangkap basah
+butcher	1	0	1	1	0	1	0	0	0	0	tukang daging
+butler	0	0	0	0	0	0	1	0	0	1	kepala pelayan
+buzz	0	1	0	1	0	0	1	0	0	0	berdengung
+bye	0	1	0	0	0	0	0	0	0	0	selamat tinggal
+bylaw	0	0	0	0	0	0	0	0	0	1	anggaran rumah tangga
+cabal	0	0	0	1	0	1	0	0	0	0	komplotan rahasia
+cable	0	0	0	0	0	0	0	0	1	0	kabel
+cacophony	1	0	1	0	0	1	0	0	0	0	hiruk pikuk
+cad	1	0	1	0	0	1	0	0	0	0	cad
+cadaver	0	0	1	1	0	1	0	1	1	0	mayat
+cage	0	0	0	0	0	1	0	1	0	0	kurungan
+calamity	0	0	0	0	0	0	0	1	0	0	bencana
+calculation	0	1	0	0	0	0	0	0	0	0	perhitungan
+calculator	0	0	0	0	0	0	1	0	0	1	Kalkulator
+calf	0	0	0	0	1	0	1	0	0	1	anak sapi
+callous	1	0	1	0	0	1	0	0	0	0	tidak berperasaan
+calls	0	1	0	0	0	1	0	0	0	1	panggilan
+camouflage	0	0	0	0	0	0	0	0	1	0	kamuflase
+camouflaged	0	0	0	0	0	0	0	0	1	0	kamuflase
+campaigning	1	0	0	1	0	1	0	0	0	0	berkampanye
+cancel	0	0	0	0	0	1	0	1	0	0	membatalkan
+cancer	1	0	1	1	0	1	0	1	0	0	kanker
+candid	0	1	0	0	1	0	1	0	1	1	jujur
+cane	1	0	0	1	0	0	0	0	0	0	tebu
+canker	1	0	1	0	0	1	0	0	0	0	karat
+cannibal	0	0	1	1	0	1	0	0	0	0	kanibal
+cannibalism	0	0	1	0	0	1	0	0	0	0	kanibalisme
+cannon	1	0	0	1	0	1	0	0	0	0	meriam
+canons	0	0	0	0	0	0	0	0	0	1	kanon
+cap	0	1	0	0	0	0	0	0	0	1	topi
+captivate	0	1	0	0	1	0	1	0	1	1	memikat hati
+captive	0	0	0	1	0	1	0	1	0	0	tawanan
+captivity	0	0	0	0	0	1	0	1	0	0	tahanan
+captor	0	0	0	1	0	1	0	0	0	0	penahan
+carcass	0	0	1	1	0	1	0	1	0	0	bangkai
+carcinoma	0	0	0	1	0	1	0	1	0	0	karsinoma
+cardiomyopathy	0	0	0	1	0	1	0	1	0	0	kardiomiopati
+career	0	1	0	0	0	0	1	0	0	0	karier
+carelessness	1	0	1	0	0	1	0	0	0	0	kecerobohan
+caretaker	0	0	0	0	0	0	1	0	0	1	penjaga
+caries	0	0	1	0	0	1	0	0	0	0	karies
+carnage	1	0	1	1	0	1	0	1	1	0	pembantaian
+carnivorous	0	0	0	1	0	1	0	0	0	0	karnivora
+carol	0	0	0	0	1	0	1	0	0	1	lagu Natal
+cartridge	0	0	0	1	0	0	0	0	0	0	peluru
+case	0	0	0	1	0	1	0	1	0	0	kasus
+cash	1	1	0	1	1	0	1	0	0	1	uang tunai
+cashier	0	0	0	0	0	0	0	0	0	1	kasir
+casket	0	0	0	1	0	1	0	1	0	0	peti mati
+casualty	1	0	0	1	0	1	0	1	0	0	korban
+cataract	0	1	0	1	0	1	0	1	0	0	katarak
+catastrophe	1	0	1	1	0	1	0	1	1	0	malapetaka
+catch	0	0	0	0	0	0	0	0	1	0	menangkap
+catechism	0	0	1	0	0	0	0	0	0	0	katekese
+cathedral	0	0	0	0	1	0	1	0	0	1	Katedral
+caution	1	1	0	1	0	1	0	0	0	0	peringatan
+cautionary	0	0	0	1	0	0	0	0	0	0	peringatan
+cautious	0	1	0	1	0	0	1	0	0	1	waspada
+cautiously	0	0	0	1	0	0	1	0	0	0	hati-hati
+celebrated	0	1	0	0	1	0	1	0	0	0	terkenal
+celebrating	0	1	0	0	1	0	1	0	0	0	merayakan
+celebration	0	1	0	0	1	0	1	0	1	1	perayaan
+celebrity	1	1	1	0	1	1	1	0	1	1	selebriti
+celestial	0	1	0	0	1	0	1	0	0	0	surgawi
+cement	0	1	0	0	0	0	0	0	0	1	semen
+cemetery	0	0	0	1	0	1	0	1	0	0	kuburan
+censor	1	0	1	1	0	1	0	0	0	1	sensor
+center	0	0	0	0	0	0	1	0	0	1	tengah
+ceremony	0	0	0	0	1	0	1	0	1	0	upacara
+certify	0	0	0	0	0	0	0	0	0	1	menyatakan
+cess	0	0	1	0	0	1	0	0	0	0	cess
+chaff	1	0	0	1	0	1	0	0	0	0	sekam
+chagrin	0	0	1	0	0	1	0	1	0	0	mengecewakan
+chairman	0	0	0	0	0	0	1	0	0	1	ketua
+chairwoman	0	0	0	0	0	0	1	0	0	1	ketua
+challenge	1	0	0	1	0	1	0	0	0	0	tantangan
+champion	0	1	0	0	1	0	1	0	0	1	juara
+chance	0	0	0	0	0	0	0	0	1	0	peluang
+chancellor	0	0	0	0	0	0	0	0	0	1	kanselir
+change	0	0	0	1	0	0	0	0	0	0	mengubah
+changeable	0	1	0	0	0	0	0	0	1	0	berubah-ubah
+chant	1	1	0	0	1	0	1	0	1	0	nyanyian
+chaos	1	0	0	1	0	1	0	1	0	0	kekacauan
+chaotic	1	0	0	0	0	1	0	0	0	0	kacau
+chaplain	0	0	0	0	0	0	0	0	0	1	pendeta
+chargeable	0	0	0	1	0	1	0	1	0	0	dikenakan biaya
+charitable	0	1	0	0	1	0	1	0	0	1	sosial
+charity	0	0	0	0	1	0	1	0	0	0	amal
+charmed	0	0	0	0	1	1	1	0	0	0	terpesona
+chart	0	0	0	0	0	0	0	0	0	1	bagan
+chasm	0	0	0	1	0	0	0	0	0	0	jurang
+chastity	0	1	0	0	0	0	1	0	0	1	kesucian
+cheat	1	0	1	0	0	1	0	0	0	0	mencurangi
+checklist	0	0	0	0	0	0	1	0	0	1	daftar periksa
+cheer	0	1	0	0	1	0	1	0	1	1	bersorak
+cheerful	0	0	0	0	1	0	1	0	1	0	riang
+cheerfulness	0	1	0	0	1	0	1	0	0	1	kegembiraan
+cheering	0	0	0	0	1	0	1	0	0	0	bersorak
+cheery	0	1	0	0	1	0	1	0	0	0	riang
+chemist	0	0	0	0	0	0	1	0	0	1	ahli kimia
+cherish	0	1	0	0	1	0	1	0	1	1	menghargai
+chicane	0	1	0	0	0	1	0	0	1	1	ketidakjujuran
+chicken	0	0	0	1	0	0	0	0	0	0	ayam
+childhood	0	0	0	0	1	0	1	0	0	0	masa kanak-kanak
+chimera	0	0	0	1	0	0	0	0	1	0	chimera
+chirp	0	0	0	0	1	0	1	0	0	0	kicauan
+chocolate	0	1	0	0	1	0	1	0	0	1	cokelat
+choir	0	0	0	0	1	0	1	0	0	1	paduan suara
+choke	1	0	0	0	0	1	0	1	0	0	tersedak
+cholera	0	0	1	1	0	1	0	1	0	0	kolera
+choral	0	0	0	0	1	0	1	0	0	0	paduan suara
+chronic	0	0	0	0	0	1	0	1	0	0	kronis
+chronicle	0	0	0	0	0	0	1	0	0	1	kronik
+chuckle	0	1	0	0	1	0	1	0	1	1	tertawa kecil
+church	0	1	0	0	1	0	1	0	0	1	gereja
+civilization	0	0	0	0	0	0	1	0	0	1	peradaban
+civilized	0	0	0	0	1	0	1	0	0	1	beradab
+claimant	1	0	1	0	0	0	0	0	0	0	penuntut
+clamor	1	1	1	0	0	1	0	0	1	0	keributan
+clan	0	0	0	0	0	0	0	0	0	1	klan
+clap	0	1	0	0	1	0	1	0	0	1	tepuk
+clash	1	0	0	0	0	1	0	0	0	0	bentrokan
+clashing	1	0	0	1	0	1	0	0	0	0	bentrok
+classics	0	0	0	0	1	0	1	0	0	0	klasik
+claw	1	0	0	1	0	1	0	0	0	0	cakar
+clean	0	0	0	0	1	0	1	0	0	1	membersihkan
+clearance	0	0	0	0	0	0	1	0	0	1	izin
+cleave	0	0	0	1	0	0	0	0	0	0	membelah
+clerical	0	0	0	0	0	0	1	0	0	1	klerikal
+cliff	0	0	0	1	0	0	0	0	0	0	jurang
+climax	0	1	0	0	1	0	1	0	1	1	klimaks
+clock	0	1	0	0	0	0	0	0	0	0	jam
+closeness	0	0	0	0	1	0	1	0	0	1	kedekatan
+closure	0	1	0	0	1	0	1	1	0	0	penutupan
+clouded	0	0	0	0	0	1	0	1	0	0	mendung
+cloudiness	0	0	0	1	0	1	0	0	0	0	keadaan mendung
+cloudy	0	0	0	0	0	0	0	1	0	0	berawan
+clown	0	1	0	0	1	0	1	0	1	0	badut
+clue	0	1	0	0	0	0	0	0	0	0	petunjuk
+clumsy	0	0	1	0	0	1	0	0	0	0	ceroboh
+coach	0	0	0	0	0	0	0	0	0	1	pelatih
+coalesce	0	0	0	0	0	0	0	0	0	1	bersatu
+coax	0	0	0	0	0	0	0	0	0	1	membujuk
+cobra	0	0	0	1	0	0	0	0	0	0	kobra
+cocaine	0	0	0	0	0	1	0	1	0	0	kokain
+coerce	1	0	1	1	0	1	0	0	0	0	memaksa
+coercion	1	0	1	1	0	1	0	1	0	0	paksaan
+coexist	0	0	0	0	0	0	1	0	0	1	hidup bersama
+coexisting	0	0	0	0	0	0	0	0	0	1	hidup berdampingan
+coffin	0	0	0	1	0	1	0	1	0	0	peti mati
+cogent	0	0	0	0	0	0	1	0	0	1	kuat
+cohesion	0	0	0	0	0	0	0	0	0	1	kohesi
+cohesive	0	0	0	0	0	0	1	0	0	1	kompak
+coincidence	0	0	0	0	0	0	0	0	1	0	kebetulan
+coldness	1	0	1	1	0	1	0	1	0	0	kedinginan
+collaborator	0	0	0	0	0	0	0	0	0	1	kolaborator
+collapse	0	0	1	1	0	1	0	1	0	0	jatuh
+collateral	0	0	0	0	0	0	0	0	0	1	jaminan
+collectively	0	0	0	0	0	0	1	0	0	1	secara kolektif
+collision	1	0	0	0	0	1	0	0	0	0	tabrakan
+collusion	1	0	1	1	0	1	0	1	0	0	kolusi
+colonel	0	0	0	0	0	0	1	0	0	1	kolonel
+coma	0	0	0	1	0	1	0	1	0	0	koma
+comatose	0	0	0	1	0	1	0	1	0	0	pingsan
+combat	1	0	0	1	0	1	0	0	0	0	tempur
+combatant	1	0	0	1	0	1	0	0	0	0	pejuang
+combative	1	0	0	1	0	1	0	0	0	0	agresif
+comfort	0	1	0	0	1	0	1	0	0	1	kenyamanan
+coming	0	1	0	0	0	0	0	0	0	0	yang akan datang
+commandant	0	0	0	0	0	0	1	0	0	1	komandan
+commanding	0	0	0	0	0	0	1	0	0	1	berwibawa
+commemorate	0	1	0	0	1	0	1	1	0	0	memperingati
+commemoration	0	1	0	0	1	0	1	0	0	0	peringatan
+commemorative	0	1	0	0	0	0	1	0	0	0	peringatan
+commendable	0	0	0	0	1	0	1	0	0	1	terpuji
+commerce	0	0	0	0	0	0	0	0	0	1	perdagangan
+commission	0	0	0	0	0	0	0	0	0	1	Komisi
+committal	0	0	0	0	0	1	0	1	0	0	berkomitmen
+committed	0	0	0	0	0	0	1	0	0	1	berkomitmen
+committee	0	0	0	0	0	0	0	0	0	1	komite
+commodore	0	0	0	0	0	0	1	0	0	1	komodor
+commonplace	0	1	0	0	0	0	0	0	0	1	biasa
+commonwealth	0	0	0	0	0	0	1	0	0	1	persemakmuran
+commotion	1	0	0	0	0	1	0	0	0	0	keributan
+communicate	0	0	0	0	0	0	1	0	0	1	menyampaikan
+communication	0	0	0	0	0	0	0	0	0	1	komunikasi
+communion	0	0	0	0	1	0	1	0	0	1	komuni
+communism	1	0	0	1	0	1	0	1	0	0	komunisme
+compact	0	0	0	0	0	0	0	0	0	1	kompak
+companion	0	0	0	0	1	0	1	0	0	1	pendamping
+compassion	0	0	0	1	0	0	1	0	0	0	kasih sayang
+compensate	0	1	0	0	1	0	1	0	1	1	mengimbangi
+competence	0	0	0	0	0	0	1	0	0	1	kompetensi
+competency	0	0	0	0	0	0	1	0	0	1	kompetensi
+competent	0	0	0	0	0	0	1	0	0	1	kompeten
+competition	0	1	0	0	0	1	0	0	0	0	kompetisi
+complain	1	0	0	0	0	1	0	1	0	0	mengeluh
+complaint	1	0	0	0	0	1	0	0	0	0	keluhan
+complement	0	1	0	0	1	0	1	0	1	1	melengkapi
+completing	0	1	0	0	1	0	1	0	0	0	menyelesaikan
+completion	0	1	0	0	1	0	1	0	0	0	penyelesaian
+compliance	0	0	0	0	0	0	1	0	0	1	kepatuhan
+complicate	1	0	0	0	0	1	0	0	0	0	menyulitkan
+compliment	0	1	0	0	1	0	1	0	1	1	pujian
+compost	0	0	1	0	0	1	0	0	0	0	kompos
+compress	1	0	0	0	0	0	0	0	0	0	kompres
+comptroller	0	0	0	0	0	0	0	0	0	1	pengawas
+compulsion	1	0	0	0	0	1	0	0	0	0	paksaan
+comrade	0	0	0	0	0	0	1	0	0	1	kawan
+conceal	0	0	0	0	0	1	0	1	0	0	menutupi
+concealed	0	1	0	1	0	1	0	0	1	0	tersembunyi
+concealment	1	1	0	1	0	1	0	0	0	0	penyembunyian
+concerned	0	0	0	1	0	0	0	1	0	0	khawatir
+conciliation	0	0	0	0	1	0	1	0	0	1	perdamaian
+concord	0	0	0	0	0	0	1	0	0	1	kerukunan
+concordance	0	0	0	0	0	0	1	0	0	1	konkordansi
+concussion	1	0	0	0	0	1	0	1	0	0	gegar
+condemn	1	0	0	0	0	1	0	0	0	0	memvonis
+condemnation	1	1	1	1	0	1	0	1	0	0	penghukuman
+condescension	1	0	1	0	0	1	0	1	0	0	merendahkan
+condolence	0	0	0	0	0	0	1	1	0	0	belasungkawa
+confederate	0	0	0	0	0	0	1	0	0	1	sekutu
+confess	0	0	0	0	0	1	1	0	0	1	mengakui
+confession	0	1	0	1	0	1	0	1	1	0	pengakuan
+confessional	0	0	0	1	0	0	0	0	0	1	pengakuan
+confide	0	0	0	0	0	0	0	0	0	1	mengaku
+confidence	0	0	0	1	1	0	1	0	0	1	kepercayaan diri
+confident	0	0	0	0	1	0	1	0	0	1	percaya diri
+confidential	0	0	0	0	0	0	0	0	0	1	rahasia
+confidentially	0	0	0	0	0	0	0	0	0	1	secara rahasia
+confine	1	0	0	1	0	1	0	1	0	0	membatasi
+confined	1	0	1	1	0	1	0	1	0	0	terbatas
+confinement	1	0	0	1	0	1	0	1	0	0	kurungan
+confirmation	0	0	0	0	0	0	0	0	0	1	konfirmasi
+confirmed	0	0	0	0	0	0	1	0	0	1	dikonfirmasi
+confiscate	1	0	0	0	0	1	0	1	0	0	menyita
+conflagration	1	0	0	1	0	1	0	0	0	0	kebakaran besar
+conflict	1	0	0	1	0	1	0	1	0	0	konflik
+conformity	0	0	0	0	0	0	0	0	0	1	kesesuaian
+confront	1	0	0	0	0	0	0	0	0	0	mengonfrontasi
+confusion	1	0	0	1	0	1	0	0	0	0	kebingungan
+conglomerate	0	0	0	0	0	0	0	0	0	1	konglomerat
+congratulatory	0	0	0	0	1	0	1	0	0	0	ucapan selamat
+congregation	0	0	0	0	0	0	1	0	0	1	kongregasi
+congress	0	0	1	0	0	0	0	0	0	1	Kongres
+congressman	0	0	0	0	0	0	0	0	0	1	anggota kongres
+congruence	0	0	0	0	0	0	1	0	0	1	kesesuaian
+conjecture	0	1	0	0	0	0	0	0	0	0	dugaan
+conjure	0	1	0	0	0	0	0	0	1	0	menyulap
+connective	0	0	0	0	0	0	0	0	0	1	penghubung
+connoisseur	0	0	0	0	1	0	1	0	0	1	penikmat
+conquest	1	0	0	1	0	1	0	0	0	0	penaklukan
+conscience	0	0	0	0	0	0	1	0	0	1	hati nurani
+conscientious	0	0	0	0	0	0	1	0	0	1	teliti
+consecration	0	1	0	0	1	0	1	1	0	1	konsekrasi
+consequent	0	1	0	0	0	0	0	0	0	0	akibat
+conservation	0	1	0	0	0	0	1	0	0	1	konservasi
+considerate	0	0	0	0	0	0	1	0	0	1	penuh perhatian
+consistency	0	0	0	0	0	0	1	0	0	1	konsistensi
+console	0	0	0	0	0	0	1	1	0	0	menghibur
+consort	0	0	0	0	0	0	0	0	0	1	istri
+conspiracy	0	0	0	1	0	0	0	0	0	0	konspirasi
+conspirator	1	1	1	1	0	1	0	0	0	0	konspirator
+conspire	0	0	0	1	0	1	0	0	0	0	bersekongkol
+constable	0	0	0	0	0	0	0	0	0	1	polisi
+constancy	0	0	0	0	0	0	1	0	0	1	keteguhan
+constant	0	0	0	0	0	0	1	0	0	1	konstan
+constantly	0	0	0	0	0	0	0	0	0	1	selalu
+consternation	1	0	0	1	0	1	0	0	0	0	kekuatiran
+constipation	0	0	1	0	0	1	0	0	0	0	sembelit
+constitute	0	0	0	0	0	0	0	0	0	1	merupakan
+constitutional	0	0	0	0	0	0	1	0	0	1	konstitusional
+constrain	0	0	0	1	0	1	0	0	0	0	memaksa
+constraint	1	0	0	1	0	1	0	1	0	0	paksaan
+consul	0	0	0	0	0	0	0	0	0	1	konsul
+consult	0	0	0	0	0	0	0	0	0	1	berkonsultasi
+contagion	0	1	1	1	0	1	0	0	0	0	penularan
+contagious	0	0	1	1	0	1	0	0	0	0	menular
+contaminate	0	0	1	0	0	1	0	0	0	0	mencemari
+contaminated	0	0	1	1	0	1	0	1	0	0	terkontaminasi
+contamination	0	0	1	0	0	1	0	0	0	0	kontaminasi
+contempt	1	0	1	1	0	1	0	0	0	0	penghinaan
+contemptible	1	0	1	0	0	1	0	0	0	0	hina
+contemptuous	1	0	0	0	0	1	0	0	0	0	menghina
+content	0	0	0	0	1	0	1	0	0	1	isi
+contentious	1	0	1	1	0	1	0	0	0	0	kontensius
+contingent	0	1	0	0	0	0	0	0	0	0	kontingen
+continuation	0	1	0	0	0	0	0	0	0	0	kelanjutan
+continue	0	1	0	0	0	0	1	0	0	1	melanjutkan
+contraband	1	0	1	1	0	1	0	0	0	0	barang selundupan
+contradict	1	0	0	0	0	1	0	0	0	0	bertentangan
+contributor	0	0	0	0	0	0	1	0	0	1	penyumbang
+controversial	1	0	0	0	0	1	0	0	0	0	kontroversial
+convent	0	0	0	0	0	0	1	0	0	1	biara
+convergence	0	1	0	0	0	0	0	0	0	0	konvergensi
+conveyancing	0	0	0	0	0	0	0	0	0	1	pengangkutan
+convict	1	0	1	1	0	1	0	1	0	0	menghukum
+convince	0	1	0	0	0	0	1	0	0	1	meyakinkan
+convinced	0	0	0	0	0	0	0	0	0	1	yakin
+convincing	0	0	0	0	0	0	0	0	0	1	meyakinkan
+coop	1	0	1	0	0	1	0	0	0	0	mengurung
+cooperating	0	0	0	0	0	0	1	0	0	1	bekerja sama
+cooperation	0	0	0	0	0	0	1	0	0	1	kerja sama
+cooperative	0	0	0	0	0	0	1	0	0	1	kooperatif
+cop	0	0	0	1	0	0	0	0	0	1	polisi
+copycat	1	0	1	0	0	1	0	0	0	0	peniru
+coronation	0	0	0	0	1	0	1	0	0	1	pemahkotaan
+corporation	0	0	0	0	0	0	1	0	0	1	perusahaan
+corpse	0	0	1	0	0	1	0	1	0	0	mayat
+correctness	0	0	0	0	0	0	0	0	0	1	ketepatan
+correspondence	0	1	0	0	0	0	1	0	0	0	korespondensi
+corroborate	0	0	0	0	0	0	1	0	0	1	menguatkan
+corroboration	0	0	0	0	0	0	0	0	0	1	pembenaran
+corrosive	0	0	0	1	0	1	0	0	0	0	korosif
+corrupting	1	0	1	1	0	1	0	1	0	0	merusak
+corruption	0	0	1	0	0	1	0	0	0	0	korupsi
+corse	0	0	0	0	0	0	0	1	0	0	corse
+cosmopolitan	0	0	0	0	0	0	1	0	0	1	kosmopolitan
+couch	0	0	0	0	0	0	0	1	0	0	sofa
+cough	0	0	1	0	0	1	0	0	0	0	batuk
+council	0	1	0	0	0	0	1	0	0	1	Dewan
+counsel	0	0	0	0	0	0	1	0	0	1	nasihat
+counsellor	1	0	0	1	0	1	0	0	0	1	konselor
+counselor	0	0	0	0	0	0	1	0	0	1	konselor
+count	0	0	0	0	0	0	1	0	0	1	menghitung
+countdown	0	1	0	0	0	0	0	0	0	0	hitung mundur
+countryman	0	0	0	0	0	0	0	0	0	1	sebangsa
+county	0	0	0	0	0	0	0	0	0	1	daerah
+coup	1	0	0	0	0	0	0	0	1	0	kup
+courageous	0	0	0	1	0	0	1	0	0	0	berani
+courier	0	0	0	0	0	0	0	0	0	1	kurir
+court	1	1	0	1	0	0	0	0	0	0	pengadilan
+courtship	0	1	0	0	1	0	1	0	0	1	pacaran
+cove	0	1	1	1	1	0	1	0	0	0	teluk kecil
+covenant	0	0	0	0	0	0	1	0	0	1	perjanjian
+cover	0	0	0	0	0	0	0	0	0	1	menutupi
+coward	0	0	1	1	0	1	0	1	0	0	pengecut
+cowardice	0	0	0	1	0	1	0	0	0	0	kepengecutan
+cowardly	0	0	0	1	0	1	0	0	0	0	pengecut
+coy	0	0	0	1	0	0	0	0	0	0	malu
+coyote	0	0	0	1	0	0	0	0	0	0	anjing hutan
+crabby	1	0	0	0	0	1	0	0	0	0	pemarah
+cracked	1	0	0	1	0	1	0	0	0	0	retak
+cradle	0	1	0	0	1	0	1	0	0	1	buaian
+cramp	0	1	0	0	0	1	0	0	0	0	kejang
+cranky	1	0	0	0	0	1	0	0	0	0	mudah marah
+crap	0	0	1	0	0	1	0	0	0	0	omong kosong
+craps	0	1	0	0	0	0	0	0	0	0	omong kosong
+crash	0	0	0	1	0	1	0	1	1	0	menabrak
+crave	0	1	0	0	0	0	0	0	0	0	mendambakan
+craving	0	1	0	0	0	0	0	0	0	0	keinginan
+crawl	0	0	1	0	0	1	0	0	0	0	merangkak
+crazed	1	0	0	1	0	1	0	0	0	0	gila
+crazy	1	0	0	1	0	1	0	1	0	0	gila
+cream	0	1	0	0	1	0	1	0	1	0	krim
+create	0	0	0	0	1	0	1	0	0	0	membuat
+creature	0	0	1	1	0	1	0	0	0	0	makhluk
+credence	0	0	0	0	0	0	1	0	0	1	kepercayaan
+credential	0	0	0	0	0	0	1	0	0	1	mandat
+credibility	0	0	0	0	0	0	1	0	0	1	kredibilitas
+credible	0	0	0	0	0	0	1	0	0	1	kredibel
+credit	0	0	0	0	0	0	1	0	0	1	kredit
+creditable	0	0	0	0	0	0	1	0	0	1	dapat dikreditkan
+creeping	0	1	0	0	0	0	0	0	0	0	merayap
+cremation	0	0	0	0	0	0	0	1	0	0	kremasi
+crescendo	0	1	0	0	1	0	1	0	1	1	crescendo
+crew	0	0	0	0	0	0	0	0	0	1	awak kapal
+crime	1	0	0	0	0	1	0	0	0	0	kejahatan
+criminal	1	0	1	1	0	1	0	0	0	0	pidana
+criminality	1	0	1	1	0	1	0	0	0	0	kriminalitas
+cringe	0	0	1	1	0	1	0	1	0	0	jijik
+cripple	0	0	0	1	0	1	0	1	0	0	melumpuhkan
+crippled	0	0	0	0	0	1	0	1	0	0	lumpuh
+crisp	0	0	0	0	0	1	0	0	0	1	garing
+criticism	1	0	0	0	0	1	0	1	0	0	kritik
+criticize	1	0	1	1	0	1	0	1	0	0	mengkritik
+critter	0	0	1	0	0	0	0	0	0	0	makhluk
+crocodile	0	0	0	1	0	0	0	0	0	0	buaya
+cross	1	0	0	1	0	1	0	1	0	0	menyeberang
+crouch	0	0	0	1	0	0	0	0	0	0	mendekam
+crouching	0	0	0	1	0	1	0	0	0	0	berjongkok
+crowning	0	1	0	0	1	0	1	0	1	1	terpenting
+crucial	0	0	0	0	0	0	1	0	0	1	penting
+crucifixion	1	0	1	1	0	1	0	1	0	0	penyaliban
+crude	0	0	1	0	0	1	0	0	0	0	mentah
+cruel	1	0	1	1	0	1	0	1	0	0	kejam
+cruelly	1	0	0	1	0	1	0	0	0	0	dengan kejam
+cruelty	1	0	1	1	0	1	0	1	0	0	kekejaman
+crumbling	0	0	0	0	0	1	0	1	0	0	runtuh
+crunch	1	0	0	0	0	1	0	0	0	0	kegentingan
+crusade	1	0	0	1	0	1	0	0	0	0	perang salib
+crushed	1	0	1	1	0	1	0	1	0	0	hancur
+crushing	1	0	1	1	0	1	0	0	0	0	penumpasan
+crusty	0	0	1	0	0	1	0	0	0	0	keras
+cry	0	0	0	0	0	1	0	1	0	0	menangis
+crying	0	0	0	0	0	1	0	1	0	0	menangis
+crypt	0	0	0	1	0	1	0	1	0	0	ruang bawah tanah
+cube	0	0	0	0	0	0	0	0	0	1	kubus
+cuckold	0	0	1	0	0	1	0	0	0	0	suami yg istrinya tdk setia
+cuddle	0	0	0	0	1	0	1	0	0	1	berpelukan
+cue	0	1	0	0	0	0	0	0	0	0	isyarat
+culinary	0	0	0	0	0	0	1	0	0	1	kuliner
+cult	0	0	0	1	0	1	0	0	0	0	kultus
+cultivate	0	1	0	0	0	0	1	0	0	1	mengolah
+cumbersome	0	0	0	0	0	1	0	1	0	0	rumit
+cupping	0	0	1	1	0	1	0	1	0	0	bekam
+cur	1	0	1	1	0	1	0	0	0	0	bajingan
+curable	0	0	0	0	0	0	1	0	0	1	dapat disembuhkan
+curiosity	0	1	0	0	0	0	1	0	1	0	rasa ingin tahu
+curse	1	0	1	1	0	1	0	1	0	0	menyumpahi
+cursed	1	0	0	1	0	1	0	1	0	0	dikutuk
+cursing	1	0	1	0	0	1	0	0	0	0	kutuk
+cussed	1	0	0	0	0	0	0	0	0	0	degil
+custodian	0	0	0	0	0	0	0	0	0	1	pemelihara
+custody	0	0	0	0	0	0	0	0	0	1	hak asuh
+cutter	0	0	0	1	0	1	0	0	0	0	pemotong
+cutthroat	1	0	0	1	0	1	0	0	0	0	kejam
+cutting	1	0	1	1	0	1	0	1	0	0	pemotongan
+cyanide	0	0	0	1	0	1	0	0	0	0	sianida
+cyclone	0	0	0	1	0	1	0	0	1	0	topan
+cyst	0	0	0	1	0	1	0	1	0	0	kista
+cystic	0	0	1	0	0	0	0	0	0	0	kistik
+cytomegalovirus	0	0	0	0	0	1	0	1	0	0	sitomegalovirus
+dabbling	1	0	1	0	0	1	0	0	0	0	mencoba-coba
+daemon	1	0	1	1	0	1	0	1	1	0	daemon
+daft	0	0	1	0	0	1	0	0	0	0	gila
+dagger	0	0	0	1	0	1	0	0	0	0	belati
+daily	0	1	0	0	0	0	0	0	0	0	harian
+damage	1	0	1	0	0	1	0	1	0	0	kerusakan
+damages	0	0	0	0	0	1	0	1	0	0	ganti rugi
+dame	1	0	1	0	0	0	1	0	0	1	wanita cantik
+damn	1	0	1	0	0	1	0	0	0	0	Sial
+damnation	1	0	0	1	0	1	0	1	0	0	kutukan
+dance	0	0	0	0	1	0	1	0	0	1	menari
+dandy	0	0	1	0	0	1	0	0	0	0	pesolek
+danger	0	0	0	1	0	1	0	1	0	0	bahaya
+dangerous	0	0	0	1	0	1	0	0	0	0	berbahaya
+dank	0	0	1	0	0	0	0	0	0	0	lembab
+dare	0	1	0	0	0	0	0	0	0	1	berani
+dark	0	0	0	0	0	0	0	1	0	0	gelap
+darken	0	0	0	1	0	1	0	1	0	0	menggelapkan
+darkened	0	0	0	1	0	1	0	1	0	0	digelapkan
+darkness	1	0	0	1	0	1	0	1	0	0	kegelapan
+darling	0	0	0	0	1	0	1	0	0	1	sayang
+dart	0	0	0	1	0	0	0	0	0	0	anak panah
+dashed	1	0	0	1	0	1	0	1	0	0	putus asa
+dastardly	1	0	1	1	0	1	0	0	0	0	pengecut
+daughter	0	0	0	0	1	0	1	0	0	0	anak perempuan
+dawn	0	1	0	0	1	0	1	0	1	1	Fajar
+deacon	0	0	0	0	0	0	0	0	0	1	diaken
+deadly	1	0	1	1	0	1	0	1	0	0	mematikan
+deal	0	1	0	0	1	0	1	0	1	1	Sepakat
+dealings	0	0	0	0	0	0	0	0	0	1	transaksi
+death	1	1	1	1	0	1	0	1	1	0	kematian
+debacle	0	0	0	1	0	1	0	1	0	0	bencana
+debauchery	0	0	1	1	0	1	0	0	0	0	penyelewengan
+debenture	0	1	0	0	0	0	0	0	0	0	surat hutang
+debris	0	0	1	0	0	1	0	0	0	0	serpihan
+debt	0	0	0	0	0	1	0	1	0	0	utang
+decay	0	0	0	1	0	1	0	1	0	0	membusuk
+decayed	0	0	1	0	0	1	0	1	0	0	busuk
+deceased	0	0	0	0	0	1	0	1	0	0	almarhum
+deceit	1	0	1	1	0	1	0	1	1	0	penipuan
+deceitful	0	0	1	0	0	1	0	1	0	0	bohong
+deceive	1	0	1	0	0	1	0	1	0	0	menipu
+deceived	1	0	0	0	0	1	0	0	0	0	ditipu
+deceiving	0	0	0	0	0	1	0	0	0	1	menipu
+decompose	0	0	1	0	0	0	0	0	0	0	membusuk
+decomposed	0	0	0	0	0	0	0	1	0	0	terurai
+decomposition	0	0	1	1	0	1	0	1	0	0	penguraian
+decoy	0	0	0	0	0	0	0	0	1	0	umpan
+decry	1	0	0	0	0	1	0	0	0	0	mengutuk
+deed	0	0	0	0	0	0	0	0	0	1	akta
+defamation	0	0	1	1	0	1	0	0	0	0	fitnah
+defamatory	1	0	0	0	0	1	0	0	0	0	memfitnah
+default	0	0	1	1	0	1	0	1	0	0	bawaan
+defeated	0	0	0	0	0	1	0	1	0	0	dikalahkan
+defect	1	0	0	0	0	1	0	0	0	0	cacat
+defection	0	0	0	1	0	1	0	0	0	0	penyeberangan
+defective	0	0	1	0	0	1	0	0	0	0	cacat
+defend	0	0	0	1	0	0	1	0	0	0	membela
+defendant	1	0	0	1	0	0	0	1	0	0	terdakwa
+defended	0	0	0	0	0	0	1	0	0	1	membela
+defender	0	0	0	0	0	0	1	0	0	1	pembela
+defense	1	1	0	1	0	0	1	0	0	0	pertahanan
+defenseless	0	0	0	1	0	1	0	1	0	0	tak berdaya
+deference	0	0	0	0	0	0	1	0	0	1	rasa hormat
+defiance	1	0	1	1	0	1	0	0	0	0	tantangan
+defiant	1	0	0	0	0	1	0	0	0	0	menentang
+definitive	0	0	0	0	0	0	1	0	0	1	definitif
+deflate	1	0	0	0	0	1	0	1	0	0	menurunkan
+deflation	0	0	0	1	0	1	0	0	0	0	deflasi
+deform	0	0	1	0	0	1	0	0	0	0	merusak bentuk
+deformed	0	0	1	0	0	1	0	1	0	0	cacat
+deformity	0	0	1	1	0	1	0	1	0	0	kelainan bentuk
+defraud	1	0	1	0	0	1	0	0	0	0	menipu
+defunct	0	0	0	0	0	1	0	1	0	0	mati
+defy	1	0	0	1	0	1	0	1	1	0	menentang
+degeneracy	1	0	1	0	0	1	0	1	0	0	kemerosotan
+degrade	0	0	1	0	0	1	0	0	0	0	menurunkan
+degrading	0	0	1	1	0	1	0	1	0	0	merendahkan
+delay	1	0	1	1	0	1	0	1	0	0	menunda
+delegate	0	0	0	0	0	0	1	0	0	1	melimpahkan
+deleterious	1	0	1	1	0	1	0	0	0	0	merusak
+delicious	0	0	0	0	1	0	1	0	0	0	lezat
+delight	0	1	0	0	1	0	1	0	0	0	sukacita
+delighted	0	1	0	0	1	0	1	0	1	0	senang sekali
+delightful	0	1	0	0	1	0	1	0	0	1	menyenangkan
+delinquent	1	0	1	0	0	1	0	0	0	0	nakal
+delirious	0	0	0	0	0	1	0	1	0	0	mengigau
+delirium	0	0	1	0	0	1	0	1	0	0	igauan
+deliverance	0	1	0	0	1	0	1	0	0	1	pembebasan
+delivery	0	1	0	0	0	0	1	0	0	0	pengiriman
+deluge	0	0	0	1	0	1	0	1	1	0	membanjiri
+delusion	1	0	0	1	0	1	0	1	0	0	khayalan
+delusional	1	0	0	1	0	1	0	0	0	0	berkhayal
+demand	1	0	0	0	0	1	0	0	0	0	tuntutan
+demented	0	0	0	1	0	1	0	0	0	0	gila
+dementia	0	0	0	1	0	1	0	1	0	0	demensia
+demise	0	0	0	1	0	1	0	1	0	0	kematian
+demolish	1	0	0	0	0	1	0	1	0	0	menghancurkan
+demon	1	0	1	1	0	1	0	1	0	0	setan
+demonic	1	0	1	1	0	1	0	1	0	0	jahat
+demonstrative	0	0	0	0	1	0	1	1	0	0	demonstratif
+demoralized	0	0	0	1	0	1	0	1	0	0	terdemoralisasi
+denied	0	0	0	0	0	1	0	1	0	0	ditolak
+denounce	1	0	1	0	0	1	0	0	0	0	mencela
+dentistry	0	0	0	1	0	0	0	0	0	0	kedokteran gigi
+denunciation	1	0	1	1	0	1	0	0	0	0	pengaduan
+deny	1	0	0	0	0	1	0	0	0	0	membantah
+denying	0	1	0	0	0	1	0	0	0	0	menyangkal
+depart	0	1	0	0	0	0	0	1	0	0	berangkat
+departed	0	0	0	0	0	1	0	1	0	0	almarhum
+departure	0	0	0	0	0	1	0	1	0	0	keberangkatan
+depend	0	1	0	0	0	0	0	0	0	1	bergantung
+dependence	0	0	0	1	0	1	0	1	0	0	ketergantungan
+dependent	0	0	0	0	0	1	1	0	0	1	bergantung
+deplorable	1	0	1	1	0	1	0	1	0	0	tercela
+deplore	1	0	1	0	0	1	0	1	0	0	menyayangkan
+deport	0	0	0	1	0	1	0	1	0	0	mengusir
+deportation	1	0	0	1	0	1	0	1	0	0	deportasi
+depository	0	0	0	0	0	0	0	0	0	1	tempat penyimpanan
+depraved	1	1	1	1	0	1	0	1	0	0	bejat
+depravity	1	0	1	0	0	1	0	0	0	0	kebejatan
+depreciate	1	0	1	0	0	1	0	0	0	0	terdepresiasi
+depreciated	1	0	1	1	0	1	0	1	0	0	disusutkan
+depreciation	0	0	0	1	0	1	0	0	0	0	depresiasi
+depress	0	0	0	1	0	1	0	1	0	0	menekan
+depressed	1	0	0	1	0	1	0	1	0	0	murung
+depressing	0	0	1	0	0	1	0	1	0	0	muram
+depression	0	0	0	0	0	1	0	1	0	0	depresi
+depressive	0	0	0	0	0	1	0	1	0	0	depresif
+deprivation	1	0	1	1	0	1	0	1	0	0	perampasan
+depth	0	0	0	0	0	0	1	0	0	1	kedalaman
+deranged	1	0	1	1	0	1	0	0	0	0	gila
+derision	1	0	1	0	0	1	0	0	0	0	ejekan
+dermatologist	0	0	0	0	0	0	0	0	0	1	dermatolog
+derogation	1	0	1	1	0	1	0	1	0	0	penghinaan
+derogatory	1	0	1	1	0	1	0	1	0	0	menghina
+descent	0	0	0	1	0	0	0	1	0	0	turun
+desecration	1	0	1	1	0	1	0	1	0	0	penodaan
+desert	1	0	1	1	0	1	0	1	0	0	gurun
+deserted	1	0	1	1	0	1	0	1	0	0	sepi
+deserve	1	1	0	0	0	0	1	0	0	1	layak
+designation	0	0	0	0	0	0	0	0	0	1	penamaan
+desist	1	0	1	0	0	1	0	0	0	0	berhenti
+desolation	0	0	0	1	0	1	0	1	0	0	kesedihan
+despair	1	0	1	1	0	1	0	1	0	0	putus asa
+despairing	0	0	0	1	0	1	0	1	0	0	berputus asa
+despicable	1	0	1	0	0	1	0	0	0	0	tercela
+despise	1	0	1	0	0	1	0	0	0	0	membenci
+despotic	0	0	0	1	0	1	0	0	0	0	lalim
+despotism	1	0	1	1	0	1	0	1	0	0	despotisme
+destination	0	1	0	1	1	0	1	1	1	0	tujuan
+destined	0	1	0	0	0	0	0	0	0	0	ditakdirkan
+destitute	0	0	0	1	0	1	0	1	0	0	miskin
+destroyed	1	0	0	1	0	1	0	1	0	0	hancur
+destroyer	1	0	0	1	0	1	0	0	0	0	perusak
+destroying	1	0	0	1	0	1	0	1	0	0	menghancurkan
+destruction	1	0	0	0	0	1	0	0	0	0	penghancuran
+destructive	1	0	1	1	0	1	0	0	0	0	destruktif
+detainee	1	1	0	1	0	1	0	1	0	0	tahanan
+detention	0	0	0	0	0	1	0	1	0	0	penahanan
+deteriorate	0	0	0	1	0	1	0	1	0	0	memburuk
+deteriorated	0	0	1	0	0	1	0	1	0	0	memburuk
+deterioration	1	0	1	1	0	1	0	1	0	0	kemerosotan
+determinate	0	1	0	0	0	0	0	0	0	1	tentu
+determination	0	0	0	0	0	0	1	0	0	1	penentuan
+detest	1	0	1	0	0	1	0	0	0	0	benci
+detonate	0	0	0	1	0	1	0	0	1	0	meledakkan
+detonation	1	0	0	0	0	0	0	0	0	0	ledakan
+detract	1	0	0	0	0	1	0	0	0	0	mengurangi
+devastate	1	0	0	1	0	1	0	1	0	0	menghancurkan
+devastating	1	0	1	1	0	1	0	1	0	1	merusak
+devastation	1	0	0	1	0	1	0	1	1	0	penghancuran
+develop	0	1	0	0	0	0	1	0	0	0	mengembangkan
+deviation	0	0	0	0	0	0	0	1	0	0	deviasi
+devil	1	1	1	1	0	1	0	1	0	0	setan
+devilish	0	0	1	1	0	1	0	0	0	0	jahat
+devotional	0	0	0	0	0	0	1	0	0	1	kebaktian
+devout	0	1	0	0	1	0	1	0	0	1	taat
+diabolical	1	0	1	1	0	1	0	0	0	0	kejam
+diagnosis	0	1	0	1	0	1	0	0	0	1	diagnosa
+diamond	0	0	0	0	1	0	1	0	0	0	berlian
+diaper	0	0	1	0	0	0	0	0	0	0	popok
+diarrhoea	0	0	1	0	0	0	0	0	0	0	diare
+diary	0	0	0	0	1	0	1	0	0	1	buku harian
+diatribe	1	0	1	0	0	1	0	0	0	0	cacian
+dictator	0	0	0	1	0	1	0	0	0	0	diktator
+dictatorial	1	0	0	0	0	1	0	0	0	0	diktatoris
+dictatorship	1	1	1	1	0	1	0	1	0	0	kediktatoran
+dictionary	0	0	0	0	0	0	1	0	0	1	kamus
+dictum	0	0	0	0	0	0	0	0	0	1	ucapan
+die	0	0	0	1	0	1	0	1	0	0	mati
+dietary	0	1	0	0	0	0	1	0	0	0	diet
+differential	0	0	0	0	0	0	0	0	0	1	diferensial
+differently	0	0	0	0	0	0	0	0	1	0	berbeda
+difficult	0	0	0	1	0	0	0	0	0	0	sulit
+difficulties	0	0	0	0	0	1	0	1	0	0	kesulitan
+difficulty	1	0	0	1	0	1	0	1	0	0	kesulitan
+digit	0	0	0	0	0	0	0	0	0	1	angka
+dignity	0	0	0	0	0	0	1	0	0	1	harga diri
+digress	0	1	0	0	0	1	0	0	0	0	ngelantur
+dike	0	0	0	1	0	0	0	0	0	0	tanggul
+dilapidated	0	0	1	0	0	1	0	1	0	0	bobrok
+diligence	0	0	0	0	0	0	1	0	0	1	ketekunan
+diminish	0	0	0	0	0	1	0	1	0	0	mengurangi
+dinosaur	0	0	0	1	0	0	0	0	0	0	dinosaurus
+diplomacy	0	1	0	0	0	0	1	0	0	1	diplomasi
+diplomatic	0	0	0	0	0	0	1	0	0	1	diplomatik
+dire	0	0	1	1	0	1	0	1	1	0	mengerikan
+director	0	0	0	0	0	0	1	0	0	1	Direktur
+dirt	0	0	1	0	0	1	0	0	0	0	kotoran
+dirty	0	0	1	0	0	1	0	0	0	0	kotor
+disability	0	0	0	0	0	1	0	1	0	0	disabilitas
+disable	0	0	0	1	0	1	0	1	0	0	cacat
+disabled	0	0	0	1	0	1	0	1	0	0	dengan disabilitas
+disagree	1	0	0	0	0	1	0	0	0	0	tidak setuju
+disagreeing	1	0	0	0	0	1	0	1	0	0	tidak setuju
+disagreement	1	0	0	0	0	1	0	1	0	0	pertentangan
+disallowed	1	0	1	1	0	1	0	1	0	0	tidak diizinkan
+disappear	0	0	0	1	0	0	0	0	0	0	menghilang
+disappoint	1	0	1	0	0	1	0	1	0	0	mengecewakan
+disappointed	1	0	1	0	0	1	0	1	0	0	kecewa
+disappointing	0	0	0	0	0	1	0	1	0	0	mengecewakan
+disappointment	0	0	1	0	0	1	0	1	0	0	kekecewaan
+disapproval	0	0	0	0	0	1	0	1	0	0	ketidaksetujuan
+disapprove	1	0	1	1	0	1	0	1	0	0	tidak setuju
+disapproved	1	0	0	0	0	1	0	1	0	0	tidak disetujui
+disapproving	1	0	1	0	0	1	0	1	0	0	tidak setuju
+disaster	1	0	1	1	0	1	0	1	1	0	bencana
+disastrous	1	0	0	1	0	1	0	1	0	0	bencana
+discipline	0	0	0	1	0	1	0	0	0	0	disiplin
+disclaim	1	0	1	0	0	1	0	0	0	1	melepaskan
+disclosed	0	0	0	0	0	0	0	0	0	1	diungkapkan
+discoloration	0	0	1	0	0	1	0	0	0	0	perubahan warna
+discolored	0	0	1	0	0	1	0	1	0	0	berubah warna
+discomfort	0	0	0	0	0	1	0	1	0	0	tidak nyaman
+disconnect	0	0	0	0	0	1	0	1	0	0	memutuskan
+disconnected	0	0	0	0	0	1	0	1	0	0	terputus
+discontent	1	0	1	1	0	1	0	1	0	0	ketidakpuasan
+discontinuity	0	0	1	1	0	1	0	1	0	0	pemegatan
+discord	1	0	1	0	0	1	0	0	0	0	perselisihan
+discourage	0	0	0	1	0	1	0	1	0	0	mengecilkan hati
+discreet	0	1	0	0	0	0	1	0	0	0	bijaksana
+discretion	0	1	0	0	0	0	1	0	0	1	kebijaksanaan
+discriminate	1	0	0	0	0	1	0	1	0	0	membedakan
+discriminating	0	0	1	0	0	1	0	0	0	0	diskriminatif
+discrimination	1	0	1	1	0	1	0	1	0	0	diskriminasi
+disdain	1	0	1	0	0	1	0	0	0	0	penghinaan
+disease	1	0	1	1	0	1	0	1	0	0	penyakit
+diseased	0	0	1	1	0	1	0	1	0	0	sakit
+disembodied	0	0	0	1	0	1	0	1	0	0	tanpa tubuh
+disfigured	1	0	1	1	0	1	0	1	0	0	cacat
+disgrace	1	0	1	0	0	1	0	1	0	0	aib
+disgraced	1	0	1	0	0	1	0	1	0	0	ternoda
+disgraceful	1	0	1	0	0	1	0	0	0	0	memalukan
+disgruntled	1	0	1	0	0	1	0	1	0	0	tdk puas
+disgust	1	0	1	1	0	1	0	1	0	0	menjijikkan
+disgusting	1	0	1	1	0	1	0	0	0	0	menjijikkan
+disheartened	0	0	0	0	0	1	0	1	0	0	berkecil hati
+disheartening	0	0	0	0	0	1	0	1	0	0	mengecewakan
+dishonest	1	0	1	0	0	1	0	1	0	0	tidak jujur
+dishonesty	0	0	1	0	0	1	0	0	0	0	ketidakjujuran
+dishonor	1	0	1	1	0	1	0	1	0	0	aib
+disillusionment	1	0	1	0	0	1	0	1	0	0	kekecewaan
+disinformation	1	0	0	1	0	1	0	0	0	0	disinformasi
+disingenuous	0	0	1	0	0	1	0	0	0	0	tidak jujur
+disintegrate	0	0	1	1	0	1	0	0	0	0	hancur
+dislike	1	0	1	0	0	1	0	0	0	0	benci
+disliked	1	0	0	0	0	1	0	1	0	0	tidak disukai
+dislocated	1	0	1	1	0	1	0	1	0	0	terkilir
+dismal	0	0	1	1	0	1	0	1	0	0	suram
+dismay	1	1	0	1	0	1	0	1	1	0	kecemasan
+dismemberment	0	0	1	1	0	1	0	1	0	0	pemotongan
+dismissal	1	0	1	1	0	1	0	1	1	0	pemecatan
+disobedience	1	0	1	0	0	1	0	0	0	0	pembangkangan
+disobedient	1	0	0	0	0	1	0	0	0	0	tidak patuh
+disobey	1	0	1	0	0	1	0	0	0	0	tidak mematuhi
+disorder	0	0	0	1	0	1	0	0	0	0	kekacauan
+disparage	1	0	1	0	0	1	0	1	0	0	meremehkan
+disparaging	1	0	1	0	0	1	0	1	0	0	meremehkan
+disparity	1	0	1	0	0	1	0	1	0	0	perbedaan
+dispassionate	0	0	0	0	0	1	0	1	0	0	tidak memihak
+dispel	0	0	0	0	0	1	0	1	0	0	menghilangkan
+displaced	1	0	0	1	0	0	0	1	0	0	terlantar
+displeased	1	0	1	1	0	1	0	1	0	0	tidak senang
+displeasure	0	0	1	0	0	1	0	0	0	0	ketidaksenangan
+dispose	0	0	1	0	0	0	0	0	0	0	membuang
+disposed	0	1	0	0	0	0	1	0	0	1	cenderung
+dispossessed	1	0	0	1	0	1	0	1	0	0	direbut
+dispute	1	0	0	0	0	1	0	0	0	0	perselisihan
+disqualified	1	0	1	0	0	1	0	1	0	0	didiskualifikasi
+disqualify	0	0	0	0	0	1	0	1	0	0	membatalkan
+disregarded	0	0	1	0	0	1	0	0	0	0	diabaikan
+disreputable	1	0	1	1	0	1	0	0	0	0	jelek
+disrespect	1	0	0	0	0	1	0	0	0	0	tidak hormat
+disrespectful	1	0	1	1	0	1	0	1	0	0	tidak sopan
+disruption	1	0	0	1	0	1	0	0	1	0	gangguan
+dissection	0	0	1	0	0	0	0	0	0	0	pembedahan
+dissension	1	0	0	0	0	1	0	0	0	0	pertikaian
+disservice	1	0	1	0	0	1	0	1	0	0	tindakan merugikan
+dissident	1	0	0	1	0	1	0	0	0	0	pembangkang
+dissolution	1	0	0	1	0	1	0	1	1	0	pembubaran
+dissonance	1	0	0	0	0	1	0	0	0	0	disonansi
+distaste	0	0	1	0	0	1	0	0	0	0	kebencian
+distasteful	0	0	1	0	0	1	0	0	0	0	tidak menyenangkan
+distorted	0	0	1	0	0	1	0	0	0	0	terdistorsi
+distracted	1	0	0	0	0	1	0	0	0	0	terganggu
+distracting	1	1	0	0	0	1	0	0	0	0	mengganggu
+distraught	0	0	0	0	0	1	0	1	0	0	putus asa
+distress	1	0	1	1	0	1	0	1	1	0	kesulitan
+distressed	0	0	0	1	0	1	0	0	0	0	tertekan
+distressing	1	0	0	1	0	1	0	0	0	0	menyedihkan
+distrust	1	0	1	1	0	1	0	0	0	0	ketidakpercayaan
+disturbance	1	0	0	1	0	1	0	1	1	0	gangguan
+disturbed	1	0	0	0	0	1	0	1	0	0	terganggu
+disused	1	0	0	0	0	1	0	0	0	0	bekas
+ditty	0	0	0	0	1	0	1	0	0	0	lagu pendek
+divan	0	0	0	0	0	0	0	0	0	1	dipan
+divergent	0	0	0	0	0	1	0	0	1	0	berbeda
+diversion	0	0	0	0	0	0	1	0	1	0	pengalihan
+divination	0	1	0	0	0	0	0	0	0	0	ramalan
+divorce	1	0	1	1	0	1	0	1	1	1	perceraian
+doctor	0	0	0	0	0	0	1	0	0	1	dokter
+doctrine	0	0	0	0	0	0	0	0	0	1	doktrin
+dogma	0	0	0	0	0	0	0	0	0	1	dogma
+doldrums	0	0	0	0	0	1	0	1	0	0	keputusasaan
+dole	0	0	0	0	0	1	0	1	0	0	membagikan
+doll	0	0	0	0	1	0	0	0	0	0	boneka
+dolor	0	0	0	0	0	1	0	1	0	0	duka
+dolphin	0	0	0	0	1	0	1	0	1	1	lumba-lumba
+dominant	0	0	0	1	0	1	0	0	0	0	dominan
+dominate	1	0	0	1	0	1	1	0	0	0	mendominasi
+domination	1	0	0	1	0	1	0	1	0	0	dominasi
+dominion	0	0	0	1	0	0	0	0	0	1	kekuasaan
+don	0	0	0	0	0	0	1	0	0	1	mengenakan
+donkey	0	0	1	0	0	1	0	0	0	0	keledai
+doom	0	0	0	1	0	1	0	0	0	0	malapetaka
+doomed	0	0	0	1	0	1	0	1	0	0	terkutuk
+doomsday	1	1	1	1	0	1	0	1	0	0	kiamat
+doubt	0	0	0	1	0	1	0	1	0	1	ragu
+doubtless	0	0	0	0	0	0	1	0	0	1	pasti
+dove	0	1	0	0	1	0	1	0	0	1	merpati
+downfall	0	0	0	1	0	1	0	1	0	0	kejatuhan
+downright	0	0	0	0	0	0	0	0	0	1	benar-benar
+drab	0	0	0	0	0	1	0	1	0	0	menjemukan
+draft	0	1	0	0	0	0	0	0	0	0	konsep
+dragon	0	0	0	1	0	0	0	0	0	0	naga
+dread	0	1	0	1	0	1	0	0	0	0	rasa takut
+dreadful	1	1	1	1	0	1	0	1	0	0	mengerikan
+dreadfully	0	0	1	1	0	1	0	1	1	0	sangat
+dreary	0	0	0	0	0	1	0	1	0	0	suram
+drivel	0	0	1	0	0	1	0	0	0	0	meliur
+drool	0	0	1	0	0	0	0	0	0	0	ngiler
+drown	0	0	0	1	0	1	0	1	0	0	menenggelamkan
+drugged	0	0	0	0	0	0	0	1	0	0	dibius
+drunken	0	0	1	0	0	1	0	0	0	0	mabuk
+dubious	0	0	0	1	0	1	0	0	0	1	meragukan
+duel	1	1	0	1	0	0	0	0	0	0	duel
+dull	0	0	0	0	0	1	0	1	0	0	membosankan
+dumps	1	0	0	0	0	1	0	1	0	0	kesedihan
+dung	0	0	1	0	0	0	0	0	0	0	kotoran
+dungeon	0	0	0	1	0	1	0	0	0	0	penjara bawah tanah
+dupe	1	0	0	0	0	1	0	0	0	0	menipu
+duplicity	1	0	0	0	0	1	0	0	0	0	bermuka dua
+durability	0	0	0	0	0	0	1	0	0	1	daya tahan
+durable	0	0	0	0	0	0	1	0	0	1	tahan lama
+duress	1	0	1	1	0	1	0	1	0	0	paksaan
+dutiful	0	1	0	0	0	0	1	0	0	1	patuh
+dwarfed	0	0	0	1	0	1	0	1	0	0	kerdil
+dying	1	0	1	1	0	1	0	1	0	0	sekarat
+dynamic	0	0	0	0	0	0	0	0	1	0	dinamis
+dysentery	0	0	1	0	0	1	0	1	0	0	disentri
+eager	0	1	0	0	1	0	1	0	1	1	ingin sekali
+eagerness	0	1	0	0	1	0	1	0	0	1	keinginan
+eagle	0	0	0	0	0	0	0	0	0	1	burung rajawali
+earthquake	1	0	0	1	0	1	0	1	1	0	gempa bumi
+economy	0	0	0	0	0	0	0	0	0	1	ekonomi
+ecstasy	0	1	0	0	1	0	1	0	0	0	ekstasi
+ecstatic	0	1	0	0	1	0	1	0	1	0	gembira
+edict	0	0	0	1	0	1	0	0	0	0	dekrit
+edification	0	1	0	0	1	0	1	0	0	1	pendidikan
+edition	0	1	0	0	0	0	0	0	0	0	edisi
+educational	0	0	0	0	0	0	1	0	0	1	pendidikan
+eel	0	0	0	1	0	0	0	0	0	0	belut
+effective	0	0	0	0	0	0	1	0	0	1	efektif
+efficient	0	1	0	0	0	0	1	0	0	1	efisien
+effigy	1	0	0	0	0	0	0	0	0	0	patung
+egotistical	0	0	1	0	0	1	0	0	0	0	egois
+egregious	1	0	1	0	0	1	0	0	0	0	mengerikan
+ejaculation	0	1	0	0	1	0	1	0	1	1	ejakulasi
+elated	0	0	0	0	1	0	1	0	0	0	gembira
+elbow	1	0	0	0	0	0	0	0	0	0	siku
+elder	0	0	0	0	0	0	1	0	0	1	lebih tua
+elders	0	0	0	0	0	0	1	0	0	1	sesepuh
+elect	0	0	0	0	0	0	1	0	0	1	memilih
+electorate	0	0	0	0	0	0	0	0	0	1	para pemilih
+electric	0	0	0	0	1	0	1	0	1	0	listrik
+elegance	0	1	0	0	1	0	1	0	0	1	keanggunan
+elegant	0	0	0	0	1	0	1	0	0	0	anggun
+elevation	0	1	0	1	1	0	1	0	0	1	ketinggian
+elf	1	0	1	1	0	0	0	0	0	0	peri
+elimination	1	0	1	1	0	1	0	1	0	0	eliminasi
+elite	0	1	0	0	1	0	1	0	0	1	elite
+elucidate	0	0	0	0	0	0	1	0	0	1	menjelaskan
+elusive	0	0	0	0	0	1	0	0	1	0	sukar dipahami
+emaciated	0	0	0	1	0	1	0	1	0	0	kurus
+emancipation	0	1	0	0	1	0	1	0	0	0	emansipasi
+embarrass	0	0	0	0	0	1	0	1	0	0	memalukan
+embarrassment	0	0	0	1	0	1	0	1	1	0	rasa malu
+embolism	0	0	0	1	0	1	0	1	0	0	emboli
+embrace	0	1	0	0	1	0	1	0	1	1	merangkul
+emergency	0	0	0	1	0	1	0	1	1	0	keadaan darurat
+eminence	0	0	0	0	0	0	1	0	0	1	keunggulan
+emphasize	0	0	0	0	0	0	0	0	0	1	menekankan
+employ	0	0	0	0	0	0	0	0	0	1	mempekerjakan
+emptiness	0	0	0	0	0	0	0	1	0	0	kekosongan
+enable	0	0	0	0	0	0	1	0	0	1	memungkinkan
+enablement	0	0	0	0	0	0	1	0	0	1	pemberdayaan
+enchant	0	1	0	0	1	0	1	0	1	0	mempesona
+enchanted	0	0	0	0	1	0	1	0	0	1	terpesona
+enchanting	0	1	0	0	1	0	1	0	0	0	mempesona
+encourage	0	0	0	0	1	0	1	0	0	1	mendorong
+encroachment	0	0	0	1	0	1	0	0	0	0	gangguan
+encumbrance	1	0	0	1	0	1	0	1	0	0	beban
+encyclopedia	0	0	0	0	0	0	1	0	0	1	ensiklopedi
+endanger	0	1	0	1	0	1	0	0	0	0	membahayakan
+endangered	0	0	0	1	0	1	0	0	0	0	terancam bahaya
+endeavor	0	1	0	0	0	0	1	0	0	0	berusaha keras
+endemic	0	0	1	1	0	1	0	1	0	0	endemis
+endless	1	0	0	1	1	1	1	1	0	1	tak berujung
+endocarditis	0	0	0	1	0	0	0	1	0	0	endokarditis
+endow	0	0	0	0	0	0	1	0	0	1	memberkati
+endowment	0	0	0	0	0	0	1	0	0	1	sumbangan
+enema	0	0	1	0	0	0	0	0	0	0	enema
+enemy	1	0	1	1	0	1	0	0	0	0	musuh
+enforce	1	0	0	1	0	1	1	0	0	0	melaksanakan
+engaged	0	1	0	0	1	0	1	0	0	1	bertunangan
+engaging	0	0	0	0	1	0	1	0	0	1	menarik
+engulf	0	1	0	0	0	0	0	0	0	0	menelan
+enigmatic	0	0	0	1	0	1	0	0	0	0	penuh teka-teki
+enjoy	0	1	0	0	1	0	1	0	0	1	Nikmati
+enjoying	0	1	0	0	1	0	1	0	0	1	menikmati
+enlighten	0	0	0	0	1	0	1	0	0	1	mencerahkan
+enlightenment	0	0	0	0	1	0	1	0	0	1	pencerahan
+enliven	0	0	0	0	1	0	1	0	1	1	memeriahkan
+enmity	1	0	0	1	0	1	0	1	0	0	permusuhan
+enroll	0	1	0	0	0	0	0	0	0	1	mendaftar
+ensemble	0	0	0	0	0	0	1	0	0	1	ansambel
+enslaved	1	0	1	1	0	1	0	1	0	0	diperbudak
+entangled	1	0	1	1	0	1	0	1	0	0	terjerat
+entertain	0	0	0	0	1	0	1	0	0	0	menghibur
+entertained	0	0	0	0	1	0	1	0	0	0	terhibur
+entertaining	0	1	0	0	1	0	1	0	0	0	menghibur
+entertainment	0	1	0	0	1	0	1	0	1	1	hiburan
+enthusiasm	0	1	0	0	1	0	1	0	1	0	antusiasme
+enthusiast	0	1	0	0	1	0	1	0	1	0	penggemar
+entrails	0	0	1	0	0	1	0	0	0	0	isi perut
+entrust	0	0	0	0	0	0	0	0	0	1	mempercayakan
+epidemic	1	1	1	1	0	1	0	1	1	0	epidemi
+episcopal	0	0	0	0	0	0	0	0	0	1	episkopal
+epitaph	0	0	0	0	0	0	0	1	0	0	tulisan di batu nisan
+equality	0	0	0	0	1	0	1	0	0	1	persamaan
+eradicate	1	0	0	0	0	1	0	0	0	0	membasmi
+eradication	1	0	1	1	0	1	0	0	0	0	pemberantasan
+erase	0	0	0	1	0	1	0	0	0	0	menghapus
+erotic	0	1	0	0	1	1	1	0	1	1	erotis
+errand	0	1	0	0	0	0	1	0	0	1	tugas
+erratic	0	0	0	0	0	1	0	0	1	0	tak menentu
+error	0	0	0	0	0	1	0	1	0	0	kesalahan
+erupt	1	0	0	0	0	1	0	0	1	0	meletus
+eruption	1	0	0	1	0	1	0	0	1	0	letusan
+escalate	1	0	0	0	0	1	0	0	0	0	meningkatkan
+escape	0	1	0	1	0	1	1	0	0	0	melarikan diri
+escaped	0	0	0	1	0	0	0	0	0	0	lolos
+eschew	1	0	0	0	0	1	0	1	0	0	menjauhkan diri
+escort	0	0	0	0	0	0	0	0	0	1	pengawal
+establish	0	0	0	0	0	0	0	0	0	1	mendirikan
+established	0	0	0	0	1	0	1	0	0	0	mapan
+esteem	0	0	0	0	1	0	1	1	0	1	menghargai
+ethereal	0	0	0	1	0	0	0	0	0	0	sangat halus
+euthanasia	0	0	0	1	0	1	0	1	0	0	eutanasia
+evacuate	0	0	0	1	0	1	0	0	0	0	evakuasi
+evade	1	0	1	1	0	1	0	0	0	0	menghindari
+evanescence	0	0	0	0	0	0	0	1	1	0	kehilangan dr pandangan
+evasion	0	0	0	1	0	1	0	1	0	0	penghindaran
+eventual	0	1	0	0	0	0	0	0	0	0	akhirnya
+eventuality	0	1	0	1	0	0	0	0	0	0	kemungkinan
+evergreen	0	0	0	0	1	0	1	0	0	1	hijau abadi
+evict	0	0	0	0	0	1	0	1	0	0	mengusir
+eviction	1	0	1	1	0	1	0	1	0	0	pengusiran
+evident	0	0	0	0	0	0	1	0	0	1	jelas
+evil	1	0	1	1	0	1	0	1	0	0	kejahatan
+exacerbation	1	0	0	1	0	1	0	0	0	0	eksaserbasi
+exaggerate	1	0	0	0	0	1	0	0	0	0	berlebihan
+exalt	0	1	0	0	1	0	1	0	0	1	mengagungkan
+exaltation	0	0	0	0	1	0	1	0	0	1	peninggian
+exalted	0	0	0	0	1	0	1	0	0	1	mulia
+examination	0	0	0	1	0	1	0	0	1	0	penyelidikan
+exasperation	1	0	1	0	0	1	0	0	0	0	kejengkelan
+excavation	0	1	0	0	0	1	0	0	1	0	penggalian
+exceed	0	1	0	0	1	0	1	0	0	0	melebihi
+excel	0	1	0	0	1	0	1	0	1	1	unggul
+excellence	0	0	1	0	1	0	1	0	0	1	keunggulan
+excellent	0	0	0	0	1	0	1	0	0	1	bagus sekali
+exchange	0	0	0	0	0	0	1	0	0	1	menukarkan
+excitation	1	1	0	1	1	0	1	0	1	0	perangsangan
+excite	1	1	0	1	1	0	1	0	1	0	merangsang
+excited	0	1	0	0	1	0	1	0	1	1	bergairah
+excitement	0	1	0	0	1	0	1	0	1	0	kegembiraan
+exciting	0	1	0	0	1	0	1	0	1	0	seru
+exclaim	0	0	0	0	0	0	0	0	1	0	berseru
+excluded	0	0	1	0	0	1	0	1	0	0	pengecualian
+excluding	0	0	0	0	0	1	0	1	0	0	tidak termasuk
+exclusion	0	0	1	1	0	1	0	1	0	0	pengecualian
+excrement	0	0	1	0	0	1	0	0	0	0	kotoran
+excretion	0	0	1	0	0	0	0	0	0	0	pengeluaran
+excruciating	0	0	0	1	0	1	0	0	0	0	mengerikan
+execution	1	0	0	1	0	1	0	1	0	1	eksekusi
+executioner	1	0	0	1	0	1	0	1	0	0	algojo
+executor	0	0	0	0	0	0	0	0	0	1	pelaksana
+exhausted	0	0	0	0	0	1	0	1	0	0	lelah
+exhaustion	0	1	0	0	0	1	0	1	0	0	kelelahan
+exhaustive	0	0	0	0	0	0	0	0	0	1	lengkap
+exhilaration	0	0	0	0	1	0	1	0	1	0	kegembiraan
+exigent	0	1	1	1	0	1	0	0	1	0	darurat
+exile	1	0	0	1	0	1	0	1	0	0	mengasingkan
+exorcism	0	0	0	1	0	1	0	1	0	0	pengusiran setan
+expect	0	1	0	0	0	0	1	0	1	1	mengharapkan
+expectancy	0	1	0	0	0	0	0	0	0	0	harapan
+expectant	0	1	0	0	0	0	0	0	0	0	harapan
+expectation	0	1	0	0	0	0	1	0	0	0	ekspektasi
+expected	0	1	0	0	0	0	0	0	0	0	mengharapkan
+expecting	0	1	0	0	0	0	0	0	0	0	mengharapkan
+expedient	0	0	0	0	1	0	1	0	0	1	bijaksana
+expedition	0	1	0	0	0	0	1	0	0	0	ekspedisi
+expel	1	0	1	1	0	1	0	1	0	0	mengeluarkan
+experienced	0	0	0	0	0	0	1	0	0	1	berpengalaman
+experiment	0	1	0	0	0	0	0	0	1	0	percobaan
+expert	0	0	0	0	0	0	1	0	0	1	ahli
+expertise	0	0	0	0	0	0	1	0	0	1	keahlian
+expire	0	0	0	0	0	1	0	1	0	0	berakhir
+explain	0	0	0	0	0	0	1	0	0	1	menjelaskan
+expletive	1	0	0	0	0	1	0	0	0	0	kata lontaran
+explode	1	0	0	1	0	1	0	1	1	0	meledak
+explore	0	1	0	0	0	0	0	0	0	0	mengeksplorasi
+explosion	0	0	0	1	0	1	0	0	1	0	ledakan
+explosive	1	1	0	1	0	1	0	0	1	0	eksplosif
+expose	0	1	0	1	0	0	0	0	0	0	membuka
+expulsion	1	0	1	1	0	1	0	1	0	0	pengusiran
+exquisite	0	0	0	0	1	0	1	0	0	0	sangat indah
+exterminate	0	0	0	1	0	1	0	1	0	0	memusnahkan
+extermination	1	0	0	1	0	1	0	0	0	0	pemusnahan
+extinct	0	0	0	0	0	1	0	1	0	0	punah
+extinguish	1	0	0	0	0	1	0	0	0	0	memadamkan
+extrajudicial	0	0	0	1	0	1	0	0	0	0	di luar hukum
+extricate	0	1	0	0	0	0	1	0	0	0	melepaskan
+exuberance	0	0	0	0	1	0	1	0	0	0	kemewahan
+eyewitness	0	0	0	0	0	0	0	0	0	1	saksi mata
+fabrication	0	0	0	0	0	1	0	0	0	1	pembuatan
+fact	0	0	0	0	0	0	0	0	0	1	fakta
+facts	0	0	0	0	0	0	1	0	0	1	fakta
+faculty	0	0	0	0	0	0	1	0	0	1	fakultas
+faeces	0	0	1	0	0	1	0	0	0	0	kotoran
+failing	1	1	0	1	0	1	0	1	0	0	kegagalan
+failure	0	0	1	1	0	1	0	1	0	0	kegagalan
+fain	0	1	0	0	1	0	1	0	0	1	paksaan
+fainting	0	0	0	1	0	1	0	1	1	0	pingsan
+fairly	0	0	0	0	0	0	1	0	0	1	cukup
+faith	0	1	0	0	1	0	1	0	0	1	keyakinan
+faithful	0	0	0	0	0	0	1	0	0	1	setia
+faithless	0	0	0	0	0	1	0	1	0	0	tidak setia
+fall	0	0	0	0	0	1	0	1	0	0	jatuh
+fallacious	1	0	0	0	0	1	0	0	0	0	keliru
+falling	0	0	0	0	0	1	0	1	0	0	jatuh
+falsehood	1	0	0	0	0	1	0	0	0	1	dusta
+falsification	1	0	0	0	0	1	0	0	0	0	pemalsuan
+falsify	0	0	1	0	0	1	0	0	0	0	memalsukan
+falsity	0	0	1	0	0	1	0	0	0	0	kepalsuan
+falter	0	0	0	1	0	1	0	0	0	0	bimbang
+familiar	0	0	0	0	0	0	1	0	0	1	akrab
+familiarity	0	1	0	0	1	0	1	0	0	1	keakraban
+famine	0	0	0	0	0	1	0	1	0	0	kelaparan
+fanaticism	0	0	0	1	0	0	0	0	0	0	fanatisme
+fancy	0	1	0	0	1	0	1	0	0	0	menyukai
+fanfare	0	1	0	0	1	0	1	0	1	0	keriuhan di pawai
+fang	0	0	0	1	0	0	0	0	0	0	taring
+fangs	0	0	0	1	0	0	0	0	0	0	taring
+farcical	0	0	1	0	0	1	0	0	0	0	lucu
+farm	0	1	0	0	0	0	0	0	0	0	tanah pertanian
+fat	0	0	1	0	0	1	0	1	0	0	gemuk
+fatal	1	0	0	1	0	1	0	1	0	0	fatal
+fatality	0	0	0	1	0	1	0	1	0	0	kematian
+fate	0	1	0	0	0	1	0	0	0	0	takdir
+father	0	0	0	0	0	0	0	0	0	1	ayah
+fatigued	0	0	0	0	0	1	0	1	0	0	lelah
+fatty	0	0	1	0	0	1	0	1	0	0	berlemak
+fault	0	0	0	0	0	1	0	1	0	0	kesalahan
+faultless	0	0	0	0	0	0	1	0	0	1	sempurna
+favorable	0	1	0	0	1	0	1	0	1	1	baik
+favorite	0	0	0	0	1	0	1	0	0	1	favorit
+fear	1	0	0	1	0	1	0	0	0	0	takut
+fearful	0	0	0	1	0	1	0	1	0	0	takut
+fearfully	0	0	0	1	0	1	0	1	1	0	dengan ketakutan
+fearing	0	0	0	1	0	1	0	0	0	0	takut
+fearless	0	0	0	1	0	0	1	0	0	0	tak kenal takut
+feat	0	1	0	0	1	0	1	0	1	0	prestasi
+fecal	0	0	1	0	0	1	0	0	0	0	tinja
+feces	0	0	1	0	0	1	0	0	0	0	kotoran
+fee	1	0	0	0	0	1	0	0	0	0	biaya
+feeble	0	0	0	0	0	1	0	1	0	0	lemah
+feeling	1	1	1	1	1	1	1	1	1	1	merasa
+felicity	0	0	0	0	1	0	1	0	0	0	bakat
+fell	0	0	0	0	0	1	0	1	0	0	menjatuhkan
+fellow	0	0	0	0	0	0	1	0	0	1	sesama
+felon	0	0	0	1	0	1	0	0	0	0	penjahat
+fenced	1	0	0	0	0	0	0	0	0	0	berpagar
+fender	0	0	0	0	0	0	0	0	0	1	spatbor
+ferment	0	1	0	0	0	1	0	0	0	0	bergejolak
+fermentation	0	1	0	0	0	0	0	0	0	0	fermentasi
+ferocious	1	0	1	1	0	1	0	0	0	0	ganas
+ferocity	1	0	0	0	0	1	0	0	0	0	keganasan
+fervor	1	0	0	0	1	0	1	0	0	0	semangat
+festival	0	1	0	0	1	0	1	0	1	0	festival
+festive	0	0	0	0	1	0	1	0	0	0	meriah
+fete	0	1	0	0	1	0	1	0	1	0	pesta
+feud	1	0	0	0	0	1	0	0	0	0	bermusuhan
+feudalism	1	0	0	0	0	1	0	1	0	0	feodalisme
+fever	0	0	0	1	0	0	0	0	0	0	demam
+fib	1	0	0	0	0	1	0	0	0	0	bikinan
+fidelity	0	0	0	0	1	0	1	0	0	1	kesetiaan
+fiend	1	0	1	1	0	1	0	0	0	0	iblis
+fierce	1	0	1	1	0	1	0	0	0	0	garang
+fiesta	0	1	0	0	1	0	1	0	1	1	pesta
+fight	1	0	0	1	0	1	0	0	0	0	bertarung
+fighting	1	0	0	0	0	1	0	0	0	0	berkelahi
+fill	0	0	0	0	0	0	0	0	0	1	mengisi
+filth	0	0	1	0	0	1	0	0	0	0	kotoran
+filthy	0	0	1	0	0	1	0	0	0	0	kotor
+finally	0	1	1	0	1	0	1	0	1	1	akhirnya
+fire	0	0	0	1	0	0	0	0	0	0	api
+firearms	1	0	0	1	0	1	0	0	0	0	senjata api
+fireman	0	0	0	0	0	0	0	0	0	1	pemadam kebakaran
+firmness	0	0	0	0	0	0	1	0	0	1	ketegasan
+firstborn	0	1	0	0	1	0	1	0	0	1	sulung
+fits	1	0	0	0	0	1	0	0	0	0	cocok
+fitting	0	1	0	0	1	0	1	0	0	1	tepat
+fixed	0	0	0	0	0	0	0	0	0	1	tetap
+flabby	0	0	1	0	0	1	0	0	0	0	lembek
+flaccid	0	0	0	0	0	1	0	1	0	0	lembek
+flagrant	1	0	1	0	0	1	0	0	0	0	menyolok
+flagship	0	0	0	0	0	0	0	0	0	1	unggulan
+flange	0	0	0	0	0	0	0	0	0	1	Penghubung jalur pipa
+flattering	0	0	0	0	1	0	1	0	0	0	menyanjung
+flatulence	0	0	1	0	0	1	0	0	0	0	perut kembung
+flaw	0	0	0	0	0	1	0	1	0	0	kekurangan
+flea	0	0	1	0	0	1	0	0	0	0	kutu
+fled	0	0	0	1	0	0	0	0	0	0	melarikan diri
+flee	0	0	0	1	0	1	0	0	0	0	kabur
+fleece	1	0	1	0	0	1	0	1	0	0	bulu domba
+flesh	0	0	1	0	0	0	0	0	0	0	daging
+flinch	0	1	1	1	0	1	0	1	1	0	mengernyit
+flirt	0	1	0	0	1	1	1	0	1	1	penggoda
+flog	1	0	1	1	0	1	0	1	0	0	mencambuk
+flood	0	0	0	1	0	0	0	0	0	0	banjir
+flop	0	0	1	0	0	1	0	1	0	0	kegagalan
+flounder	0	0	0	1	0	1	0	1	0	0	menggelepar
+flu	0	0	0	1	0	1	0	0	0	0	flu
+fluctuation	1	0	0	1	0	1	0	0	0	0	fluktuasi
+fluke	0	0	0	0	0	0	0	0	1	0	kebetulan
+flying	0	0	0	1	0	0	1	0	0	0	penerbangan
+foe	1	0	0	1	0	1	0	0	0	0	musuh
+follower	0	0	0	0	0	0	0	0	0	1	pengikut
+fondness	0	0	0	0	1	0	1	0	0	0	kesukaan
+food	0	0	0	0	1	0	1	0	0	1	makanan
+fool	0	0	1	0	0	1	0	0	0	0	bodoh
+football	0	1	0	0	1	0	1	0	0	0	sepak bola
+footing	0	0	0	0	0	0	0	0	0	1	pijakan
+foray	1	0	0	0	0	1	0	0	0	0	perampokan
+forbid	0	0	0	0	0	1	0	1	0	0	melarang
+forbidding	1	0	0	1	0	1	0	0	0	0	mengejuntukan
+force	1	0	0	1	0	1	0	0	0	0	memaksa
+forced	0	0	0	1	0	1	0	0	0	0	dipaksa
+forcibly	1	0	0	1	0	1	0	0	0	0	secara paksa
+forearm	1	1	0	0	0	0	0	0	0	0	lengan bawah
+foreboding	0	1	0	1	0	1	0	0	0	0	firasat
+forecast	0	1	0	0	0	0	0	0	0	1	ramalan
+foreclose	0	0	0	1	0	1	0	1	0	0	menyita
+forefathers	0	0	0	0	1	0	1	0	0	1	nenek moyang
+foreigner	0	0	0	1	0	1	0	0	0	0	orang asing
+foresee	0	1	0	0	0	0	1	0	1	1	meramalkan
+foreseen	0	1	0	0	0	0	1	0	0	0	diramalkan
+foresight	0	1	0	0	0	0	1	0	0	1	tinjauan ke masa depan
+forewarned	0	1	0	1	0	1	0	0	0	0	diperingatkan sebelumnya
+forfeit	1	0	0	0	0	1	0	1	0	0	kehilangan
+forfeiture	0	0	0	1	0	1	0	1	0	0	kehilangan
+forgiving	0	0	0	0	0	0	1	0	0	1	memaafkan
+forgotten	0	0	0	1	0	1	0	1	0	0	terlupakan
+forlorn	0	0	0	0	0	1	0	1	0	0	sedih
+formality	0	0	0	0	0	0	0	0	0	1	formalitas
+formative	0	0	0	0	0	0	1	0	0	1	formatif
+formidable	0	0	0	1	0	0	0	0	0	0	hebat
+forming	0	1	0	0	0	0	0	0	0	0	membentuk
+formula	0	0	0	0	0	0	1	0	0	1	rumus
+forsake	0	0	0	0	0	1	0	1	0	0	meninggalkan
+forsaken	1	0	0	0	0	1	0	1	0	0	ditinggalkan
+fort	0	0	0	0	0	0	0	0	0	1	benteng
+fortitude	0	0	0	0	1	0	1	0	0	1	ketabahan
+fortress	0	0	0	1	0	0	1	1	0	1	benteng
+fortune	0	1	0	0	1	0	1	0	1	1	harta benda
+foul	1	0	1	1	0	1	0	0	0	0	busuk
+found	0	0	0	0	1	0	1	0	0	1	ditemukan
+fragile	0	0	0	1	0	1	0	1	0	0	rentan
+frailty	0	0	0	0	0	1	0	1	0	0	kelemahan
+framework	0	0	0	0	0	0	0	0	0	1	kerangka
+frank	0	0	0	0	0	0	1	0	0	1	jujur
+frankness	0	0	0	0	0	0	1	0	0	1	keterusterangan
+frantic	0	1	1	1	0	1	0	0	1	0	panik
+fraternal	0	0	0	0	1	0	1	0	0	1	persaudaraan
+fraud	1	0	0	0	0	1	0	0	0	0	tipuan
+fraudulent	1	0	1	0	0	1	0	0	0	0	curang
+fraught	0	0	0	1	0	1	0	1	0	0	penuh
+frayed	0	0	0	0	0	1	0	1	0	0	berjumbai
+freakish	0	0	1	1	0	1	0	0	1	0	aneh
+freedom	0	0	0	0	1	0	1	0	0	1	kebebasan
+freely	0	0	0	0	1	0	1	0	0	1	bebas
+frenetic	1	0	0	1	0	1	0	0	1	0	fanatik
+frenzied	1	0	0	1	0	1	0	0	0	0	hiruk pikuk
+fret	0	0	0	1	0	1	0	0	0	0	resah
+friction	1	0	0	0	0	0	0	0	0	0	gesekan
+friend	0	0	0	0	1	0	1	0	0	1	teman
+friendliness	0	0	0	0	1	0	1	0	0	1	keramahan
+friendly	0	1	0	0	1	0	1	0	0	1	ramah
+friendship	0	0	0	0	1	0	1	0	0	1	persahabatan
+frigate	0	0	0	1	0	0	0	0	0	0	kapal fregat
+fright	0	0	0	1	0	1	0	0	1	0	ketakutan
+frighten	0	0	0	1	0	1	0	1	1	0	menakuti
+frightened	0	0	0	1	0	1	0	0	1	0	takut
+frightful	1	0	0	1	0	1	0	1	0	0	mengerikan
+frisky	0	1	0	0	1	0	1	0	1	0	lincah
+frolic	0	0	0	0	1	0	1	0	0	0	bersenda gurau
+frown	0	0	0	0	0	1	0	1	0	0	cemberut
+frowning	1	0	1	0	0	1	0	1	0	0	mengerutkan kening
+fruitless	0	0	0	0	0	1	0	1	0	0	tidak berbuah
+frustrate	1	0	1	0	0	1	0	1	0	0	menggagalkan
+frustrated	1	0	0	0	0	1	0	0	0	0	frustrasi
+frustration	1	0	0	0	0	1	0	0	0	0	frustrasi
+fugitive	1	0	1	1	0	1	0	1	0	1	buronan
+fulfill	0	0	0	0	1	0	1	0	0	0	memenuhi
+fulfillment	0	1	0	0	1	0	1	0	0	1	pemenuhan
+fully	0	0	0	0	0	0	1	0	0	1	sepenuhnya
+fuming	1	0	0	0	0	1	0	0	0	0	marah
+fun	0	1	0	0	1	0	1	0	0	0	seru
+fundamental	0	0	0	0	0	0	1	0	0	1	mendasar
+funeral	0	0	0	0	0	0	0	1	0	0	upacara pemakaman
+fungus	0	0	1	0	0	1	0	0	0	0	jamur
+funk	0	0	0	0	0	1	0	1	0	0	pengecut
+furious	1	0	1	0	0	1	0	0	0	0	sangat marah
+furiously	1	0	0	0	0	0	0	0	0	0	dengan marah
+furnace	1	0	0	0	0	0	0	0	0	0	perapian
+furor	1	0	0	0	0	1	0	0	0	0	kehebohan
+furrow	0	0	0	0	0	0	0	1	0	0	alur
+fury	1	0	0	1	0	1	0	1	0	0	kemarahan
+fuse	0	0	0	0	0	0	1	0	0	1	sekering
+fuss	1	0	0	0	0	1	0	1	0	0	keributan
+fussy	0	0	1	0	0	1	0	0	0	0	cerewet
+futile	0	0	0	0	0	1	0	1	0	0	sia-sia
+gaby	0	0	1	0	0	1	0	0	0	0	orang bodoh
+gag	0	0	1	0	0	1	0	0	0	0	muntah
+gage	0	0	0	0	0	0	0	0	0	1	pengukur
+gain	0	1	0	0	1	0	1	0	0	0	memperoleh
+gall	1	0	1	0	0	1	0	0	0	0	empedu
+gallows	1	0	0	1	0	1	0	1	0	0	tiang gantungan
+gambler	0	1	0	0	0	1	0	0	1	0	penjudi
+gambling	0	1	0	0	0	1	0	0	1	0	berjudi
+gang	1	0	0	1	0	1	0	0	0	0	gang
+gape	0	0	0	0	0	0	0	0	1	0	melongo
+garbage	0	0	1	0	0	1	0	0	0	0	sampah
+garden	0	0	0	0	1	0	1	0	0	0	kebun
+garish	0	0	1	0	0	1	0	0	1	0	menyolok
+garrison	0	0	0	0	0	0	1	0	0	1	garnisun
+gash	0	0	0	1	0	1	0	0	0	0	luka
+gasp	0	0	0	0	0	0	0	0	1	0	terkesiap
+gasping	0	0	0	1	0	1	0	0	0	0	terengah-engah
+gate	0	0	0	0	0	0	0	0	0	1	gerbang
+gateway	0	0	0	0	0	0	0	0	0	1	pintu gerbang
+gauging	0	0	0	0	0	0	0	0	0	1	mengukur
+gawk	0	0	0	0	0	0	0	0	1	0	melongo
+gazette	0	0	0	0	0	0	1	0	0	1	surat kabar
+gelatin	0	0	1	0	0	0	0	0	0	0	agar-agar
+gem	0	0	0	0	1	0	1	0	0	0	permata
+general	0	0	0	0	0	0	1	0	0	1	umum
+generosity	0	1	0	0	1	0	1	0	1	1	kemurahan hati
+generous	0	0	0	0	1	0	1	0	0	1	dermawan
+genial	0	0	0	0	1	0	1	0	0	0	ramah
+gent	1	0	1	1	0	1	0	0	0	0	pria
+gentleman	0	0	0	0	0	0	1	0	0	1	pria
+gentry	0	0	0	0	0	0	1	0	0	1	bangsawan
+genuine	0	0	0	0	0	0	1	0	0	1	tulus
+geriatric	0	0	0	0	0	1	0	1	0	0	geriatrik
+germ	0	1	1	0	0	0	0	0	0	0	kuman
+germination	0	1	0	0	0	0	0	0	0	0	pengecambahan
+ghastly	0	0	1	1	0	1	0	0	0	0	mengerikan
+ghetto	0	0	1	1	0	1	0	1	0	0	ghetto
+ghost	0	0	0	1	0	0	0	0	0	0	hantu
+ghostly	0	0	0	1	0	1	0	0	0	0	remang
+giant	0	0	0	1	0	0	0	0	0	0	raksasa
+gibberish	1	0	0	0	0	1	0	0	0	0	omong kosong
+gift	0	1	0	0	1	0	1	0	1	0	hadiah
+giggle	0	0	0	0	1	0	1	0	0	0	cekikikan
+girder	0	0	0	0	0	0	1	0	0	1	balok
+glad	0	1	0	0	1	0	1	0	0	0	senang
+gladiator	0	0	0	1	0	0	0	0	0	0	budak
+gladness	0	0	0	0	1	0	1	0	0	0	kegembiraan
+glare	1	0	0	1	0	1	0	0	0	0	silau
+glaring	1	0	0	0	0	1	0	0	0	0	menyolok
+glee	0	0	0	0	1	0	1	0	0	0	lagu
+glide	0	1	0	0	1	0	1	0	0	0	meluncur
+glimmer	0	1	0	0	1	0	1	0	1	0	cahaya redup
+glitter	0	0	1	0	1	0	0	0	0	0	berkilau
+gloom	0	0	0	0	0	1	0	1	0	0	kesuraman
+gloomy	0	0	0	0	0	1	0	1	0	0	muram
+glorification	0	0	0	0	1	0	1	0	0	0	pemujaan
+glorify	0	1	0	0	1	0	1	0	1	1	memuliakan
+glory	0	1	0	0	1	0	1	0	0	1	Kemuliaan
+glow	0	1	0	0	1	0	1	0	0	1	binar
+glum	0	0	0	0	0	1	0	1	0	0	murung
+glut	0	0	1	0	0	1	0	0	0	0	kekenyangan
+gluttony	0	0	1	0	0	1	0	0	0	0	kerakusan
+gnome	1	0	1	1	0	1	0	0	0	0	jembalang
+gob	0	0	1	0	0	0	0	0	0	0	pelayar
+goblin	0	0	1	1	0	1	0	0	0	0	goblin
+god	0	1	0	1	1	0	1	0	0	1	Tuhan
+godless	1	0	0	0	0	1	0	0	0	0	tak bertuhan
+godly	0	0	0	0	1	0	1	0	0	1	saleh
+godsend	0	0	0	0	1	0	1	0	1	0	rahmat
+gonorrhea	1	0	1	1	0	1	0	1	0	0	gonorea
+goo	0	0	1	0	0	1	0	0	0	0	zat yang lengket dan kental
+good	0	1	0	0	1	0	1	0	1	1	bagus
+goodness	0	1	0	0	1	0	1	0	1	1	kebaikan
+gore	1	0	1	1	0	1	0	1	0	0	menanduk
+gorge	0	0	1	0	0	1	0	0	0	0	jurang
+gorgeous	0	0	0	0	1	0	1	0	0	0	sangat indah
+gory	1	0	1	1	0	1	0	1	0	0	berdarah
+gospel	0	0	0	0	0	0	1	0	0	1	Injil
+govern	0	0	0	0	0	0	1	0	0	1	memerintah
+governess	0	0	0	0	0	0	0	0	0	1	pengasuh
+grab	1	0	0	0	0	1	0	0	0	0	merebut
+gradual	0	1	0	0	0	0	0	0	0	0	bertahap
+graduation	0	1	0	1	1	0	1	0	1	1	kelulusan
+grammar	0	0	0	0	0	0	0	0	0	1	tata bahasa
+grandchildren	0	1	0	0	1	0	1	0	0	1	cucu
+grandfather	0	0	0	0	0	0	0	0	0	1	kakek
+grant	0	1	0	0	1	0	1	0	0	1	menganugerahkan
+grasping	0	1	0	0	0	1	0	0	0	0	tamak
+grated	1	0	0	0	0	1	0	0	0	0	parut
+gratify	0	0	0	0	1	0	1	0	1	0	memuaskan
+grating	1	0	1	0	0	1	0	0	0	0	kisi
+gratitude	0	0	0	0	1	0	1	0	0	0	rasa syukur
+gratuitous	0	0	1	0	0	0	0	0	0	0	serampangan
+grave	0	0	0	1	0	1	0	1	0	0	kuburan
+gravitate	0	1	0	0	0	0	0	0	0	0	condong
+gray	0	0	1	0	0	0	0	1	0	0	Abu-abu
+greasy	0	0	1	0	0	0	0	0	0	0	berminyak
+greatness	0	0	0	0	1	0	1	0	1	1	kebesaran
+greed	1	0	1	0	0	1	0	0	0	0	ketamakan
+greedy	0	0	1	0	0	1	0	0	0	0	tamak
+green	0	0	0	0	1	0	1	0	0	1	hijau
+greeting	0	0	0	0	0	0	1	0	1	0	salam
+grenade	0	0	0	1	0	1	0	0	0	0	granat
+grief	0	0	0	0	0	1	0	1	0	0	duka
+grievance	1	0	1	0	0	1	0	1	0	0	keluhan
+grieve	0	0	0	1	0	1	0	1	0	0	bersedih
+grievous	1	0	0	1	0	1	0	1	0	0	menyedihkan
+grim	1	1	1	1	0	1	0	1	0	0	suram
+grime	0	0	1	0	0	1	0	0	0	0	kotoran
+grimy	0	0	1	0	0	1	0	0	0	0	kotor
+grin	0	1	0	0	1	0	1	0	1	1	menyeringai
+grisly	0	0	1	1	0	1	0	0	0	0	mengerikan
+grit	0	0	0	0	0	0	1	0	0	1	menggertakkan
+grizzly	0	0	0	1	0	1	0	0	0	0	grizzly
+groan	0	0	1	0	0	1	0	1	0	0	mengerang
+grope	1	0	1	1	0	1	0	0	0	0	merogoh
+gross	0	0	1	0	0	1	0	0	0	0	bruto
+grotesque	0	0	1	0	0	1	0	0	0	0	fantastis
+ground	0	0	0	0	0	0	0	0	0	1	tanah
+grounded	0	0	0	1	0	1	0	1	0	0	dihukum
+grow	0	1	0	0	1	0	1	0	0	1	tumbuh
+growl	1	0	0	1	0	1	0	0	0	0	menggeram
+growling	1	0	1	1	0	1	0	0	0	0	menggeram
+grudge	1	0	0	0	0	1	0	0	0	0	sakit hati
+gruesome	0	0	1	0	0	1	0	0	0	0	mengerikan
+gruff	1	0	1	0	0	1	0	0	0	0	kasar
+grumble	1	0	1	0	0	1	0	0	0	0	ngomel
+grumpy	1	0	1	0	0	1	0	1	0	0	pemarah
+guarantee	0	0	0	0	0	0	1	0	0	1	menjamin
+guard	0	0	0	1	0	0	1	0	0	1	penjaga
+guarded	0	0	0	0	0	0	0	0	0	1	dijaga
+guardian	0	0	0	0	0	0	1	0	0	1	wali
+guardianship	0	0	0	0	0	0	1	0	0	1	perwalian
+guerilla	0	0	0	1	0	1	0	0	0	0	gerilya
+guess	0	0	0	0	0	0	0	0	1	0	Tebak
+guidance	0	0	0	0	0	0	1	0	0	1	panduan
+guide	0	0	0	0	0	0	1	0	0	1	memandu
+guidebook	0	0	0	0	0	0	1	0	0	1	buku panduan
+guillotine	1	1	1	1	0	1	0	1	0	0	guillotine
+guilt	0	0	1	0	0	1	0	1	0	0	kesalahan
+guilty	1	0	0	0	0	1	0	1	0	0	bersalah
+gullible	0	0	0	0	0	1	0	1	0	1	mudah dibodohi
+gulp	0	0	0	1	0	0	0	0	1	0	meneguk
+gun	1	0	0	1	0	1	0	0	0	0	senjata
+gunpowder	0	0	0	1	0	0	0	0	0	0	bubuk mesiu
+gush	0	0	1	0	1	1	0	0	0	0	membesut
+gusset	0	0	0	0	0	0	0	0	0	1	buhul
+gut	0	0	1	0	0	0	0	0	0	0	usus
+gutter	0	0	1	0	0	0	0	0	0	0	selokan
+habitual	0	1	0	0	0	0	0	0	0	0	biasa
+hag	0	0	1	1	0	1	0	0	0	0	perempuan
+haggard	0	0	0	0	0	1	0	1	0	0	cekung
+hail	0	0	0	0	0	1	1	0	0	1	hujan es
+hairy	0	0	1	0	0	1	0	0	0	0	berbulu
+hallucination	0	0	0	1	0	1	0	0	0	0	halusinasi
+halter	1	0	0	1	0	1	0	1	0	0	halter
+halting	0	0	0	1	0	1	0	1	0	0	berhenti
+hamstring	1	0	0	0	0	1	0	1	0	0	melumpuhkan
+handbook	0	0	0	0	0	0	0	0	0	1	buku pegangan
+handicap	0	0	0	0	0	1	0	1	0	0	rintangan
+hanging	1	0	1	1	0	1	0	1	0	0	gantung
+hangman	0	0	0	1	0	1	0	0	0	0	algojo
+hankering	0	1	0	0	0	0	0	0	0	0	keinginan besar
+hap	0	1	0	0	0	0	0	0	1	0	terjadi
+happen	0	1	0	0	0	0	0	0	0	0	terjadi
+happily	0	0	0	0	1	0	1	0	0	0	dengan senang hati
+happiness	0	1	0	0	1	0	1	0	0	0	kebahagiaan
+happy	0	1	0	0	1	0	1	0	0	1	senang
+harass	1	0	1	0	0	1	0	0	0	0	mengganggu
+harassing	1	0	0	0	0	0	0	0	0	0	melecehkan
+harbinger	1	1	0	1	0	1	0	0	0	0	pertanda
+harbor	0	0	0	0	0	0	0	0	0	1	pelabuhan
+hardened	1	0	1	1	0	1	0	0	0	0	mengeras
+hardship	0	0	0	0	0	1	0	1	0	0	kesulitan
+hardy	0	0	0	0	1	0	1	0	0	1	kuat
+harlot	0	0	1	0	0	1	0	0	0	0	pelacur
+harm	0	0	0	1	0	1	0	0	0	0	menyakiti
+harmful	1	0	1	1	0	1	0	1	0	0	berbahaya
+harmoniously	0	0	0	0	1	0	1	0	0	1	secara harmonis
+harmony	0	0	0	0	1	0	1	0	0	1	harmoni
+harrowing	0	0	0	1	0	1	0	0	0	0	mengerikan
+harry	1	0	0	0	0	1	0	1	0	0	harry
+harshness	1	0	0	1	0	1	0	0	0	0	kekerasan
+harvest	0	1	0	0	1	0	1	0	0	0	memanen
+haste	0	1	0	0	0	0	0	0	0	0	bergegas
+hate	1	0	1	1	0	1	0	1	0	0	membenci
+hateful	1	0	1	1	0	1	0	1	0	0	penuh kebencian
+hating	1	0	0	0	0	1	0	0	0	0	membenci
+hatred	1	0	1	1	0	1	0	1	0	0	kebencian
+haughty	1	0	0	0	0	1	0	0	0	0	angkuh
+haunt	0	0	0	1	0	1	0	0	0	0	menghantui
+haunted	0	0	0	1	0	1	0	1	0	0	berhantu
+haven	0	0	0	0	0	0	1	0	0	1	surga
+havoc	1	0	0	1	0	1	0	0	0	0	malapetaka
+hawk	0	0	0	1	0	0	0	0	0	0	elang
+hazard	0	0	0	1	0	1	0	0	0	0	bahaya
+hazardous	0	0	0	1	0	1	0	0	0	0	berbahaya
+haze	0	0	0	1	0	1	0	0	0	0	kabut
+headlight	0	1	0	0	0	0	0	0	0	0	lampu depan
+heal	0	0	0	0	1	0	1	0	0	1	sembuh
+healing	0	1	0	0	1	0	1	0	0	1	sembuh
+healthful	0	0	0	0	1	0	1	0	0	0	sehat
+hearing	0	0	0	1	0	1	0	0	0	0	pendengaran
+hearse	0	0	0	1	0	1	0	1	0	0	mobil jenazah
+heartache	0	0	0	0	0	1	0	1	0	0	duka
+heartfelt	0	0	0	0	1	0	1	1	0	1	tulus
+heartily	0	0	0	0	1	0	1	0	0	0	sepenuh hati
+heartless	0	0	0	0	0	1	0	1	0	0	kejam
+heartworm	0	0	1	0	0	0	0	0	0	0	cacing hati
+heathen	0	0	0	1	0	1	0	0	0	0	kafir
+heavenly	0	1	0	0	1	0	1	0	0	1	surgawi
+heavens	0	0	0	0	1	0	1	0	0	1	surga
+hedonism	0	0	0	0	1	1	1	0	0	0	hedonisme
+heft	0	1	0	1	0	0	1	0	0	0	berat
+heighten	0	0	0	1	0	1	0	0	0	0	mempertinggi
+hell	1	0	1	1	0	1	0	1	0	0	neraka
+hellish	1	0	1	1	0	1	0	1	0	0	jahat
+helmet	0	0	0	1	0	0	1	0	0	0	helm
+helper	0	0	0	0	0	0	1	0	0	1	pembantu
+helpful	0	0	0	0	1	0	1	0	0	1	bermanfaat
+helpless	0	0	0	1	0	1	0	1	0	0	tidak berdaya
+helplessness	0	0	0	1	0	1	0	1	0	0	ketidakberdayaan
+hemorrhage	0	0	1	1	0	1	0	1	0	0	pendarahan
+heretic	0	0	1	0	0	1	0	0	0	0	sesat
+heritage	0	0	0	0	0	0	0	0	0	1	warisan
+hermaphrodite	0	0	0	0	0	1	0	0	1	0	banci
+hermit	0	0	0	0	0	0	0	1	0	1	pertapa
+hero	0	1	0	0	1	0	1	0	1	1	pahlawan
+heroic	0	0	0	0	1	0	1	0	1	1	heroik
+heroine	0	0	0	0	0	0	1	0	0	1	pahlawan wanita
+heroism	0	1	0	0	1	0	1	0	1	1	kepahlawanan
+herpes	0	0	1	0	0	1	0	0	0	0	herpes
+herpesvirus	0	0	1	0	0	1	0	0	0	0	virus herpes
+hesitation	0	0	0	1	0	1	0	0	0	0	keraguan
+heyday	0	1	0	0	1	0	1	0	0	1	masa kejayaan
+hide	0	0	0	1	0	0	0	0	0	0	bersembunyi
+hideous	0	0	1	1	0	1	0	1	0	0	mengerikan
+hiding	0	0	0	1	0	0	0	0	0	0	bersembunyi
+highest	0	1	0	1	1	1	1	0	1	0	paling tinggi
+hilarious	0	0	0	0	1	0	1	0	1	0	lucu sekali
+hilarity	0	0	0	0	1	0	1	0	0	0	kegembiraan
+hindering	0	0	0	0	0	1	0	1	0	0	menghalangi
+hire	0	1	0	0	1	0	1	0	0	1	mempekerjakan
+hiss	1	0	0	1	0	1	0	0	0	0	mendesis
+hit	1	0	0	0	0	1	0	0	0	0	memukul
+hoary	0	0	0	0	0	1	0	1	0	0	tua
+hoax	1	0	1	0	0	1	0	1	1	0	kebohongan
+hobby	0	0	0	0	1	0	1	0	0	0	hobi
+hobo	0	0	0	0	0	1	0	1	0	0	batak
+hog	0	0	1	0	0	1	0	0	0	0	babi
+holiday	0	1	0	0	1	0	1	0	0	0	hari libur
+holiness	0	1	0	1	1	0	1	0	1	1	kekudusan
+hollow	0	0	0	0	0	1	0	1	0	0	kosong
+holocaust	1	0	1	1	0	1	0	1	0	0	bencana
+homeless	1	1	1	1	0	1	0	1	0	0	tunawisma
+homesick	0	0	0	0	0	1	0	1	0	0	rindu
+homework	0	0	0	1	0	0	0	0	0	0	pekerjaan rumah
+homicidal	1	0	0	1	0	1	0	0	0	0	pembunuhan
+homicide	1	0	1	1	0	1	0	1	0	0	pembunuhan
+honest	1	0	1	1	1	0	1	1	0	1	jujur
+honesty	0	0	0	0	0	0	1	0	0	1	kejujuran
+honeymoon	0	1	0	0	1	0	1	0	1	1	bulan madu
+honor	0	0	0	0	0	0	1	0	0	1	kehormatan
+honorable	0	0	0	0	0	0	1	0	0	1	terhormat
+hood	1	0	1	1	0	1	0	0	0	0	jilbab
+hooded	0	0	0	1	0	0	0	0	0	0	berkerudung
+hoot	1	0	1	0	0	1	0	0	0	0	tiupan
+hope	0	1	0	0	1	0	1	0	1	1	harapan
+hopeful	0	1	0	0	1	0	1	0	1	1	penuh harapan
+hopeless	0	0	0	1	0	1	0	1	0	0	tanpa harapan
+hopelessness	1	0	1	1	0	1	0	1	0	0	keputusasan
+horde	0	0	0	0	0	1	0	0	1	0	gerombolan
+horizon	0	1	0	0	0	0	1	0	0	0	cakrawala
+horoscope	0	1	0	0	0	0	0	0	0	0	horoskop
+horrible	1	0	1	1	0	1	0	0	0	0	mengerikan
+horrid	1	0	1	1	0	1	0	1	0	0	mengerikan
+horrific	1	0	1	1	0	1	0	1	0	0	mengerikan
+horrified	0	0	0	1	0	1	0	0	0	0	ngeri
+horrifying	0	0	1	1	0	1	0	1	0	0	mengerikan
+horror	1	0	1	1	0	1	0	1	1	0	kengerian
+horrors	0	0	0	1	0	1	0	1	0	0	kengerian
+horse	0	0	0	0	0	0	0	0	0	1	kuda
+hospice	0	0	0	0	0	0	0	1	0	0	rumah sakit
+hospital	0	0	0	1	0	0	0	1	0	1	RSUD
+hostage	1	0	0	1	0	1	0	0	0	0	sandera
+hostile	1	0	1	1	0	1	0	0	0	0	agresif
+hostilities	1	0	0	1	0	1	0	0	0	0	pertempuran
+hostility	1	0	1	0	0	1	0	0	0	0	permusuhan
+hot	1	0	0	0	0	0	0	0	0	0	panas
+howl	1	0	1	1	0	1	0	1	1	0	melolong
+huff	1	0	1	0	0	1	0	0	0	0	huff
+hug	0	0	0	0	1	0	1	0	0	1	memeluk
+hulk	0	0	1	0	0	0	0	0	0	0	raksasa
+humanitarian	0	1	0	0	1	0	1	0	1	1	kemanusiaan
+humanity	0	0	0	0	1	0	1	0	0	1	kemanusiaan
+humble	0	0	1	0	0	1	1	1	0	0	rendah hati
+humbled	0	0	0	0	0	0	1	1	0	0	rendah hati
+humbug	1	0	1	0	0	1	0	1	0	0	omong kosong
+humiliate	1	0	0	0	0	1	0	1	0	0	menghina
+humiliating	0	0	1	0	0	1	0	0	0	0	memalukan
+humiliation	0	0	1	0	0	1	0	1	0	0	penghinaan
+humility	0	0	0	0	0	0	1	0	0	1	kerendahhatian
+humorous	0	0	0	0	1	0	1	0	0	0	lucu
+hungry	0	1	0	0	0	1	0	0	0	0	lapar
+hunter	0	1	0	1	0	1	0	1	0	0	pemburu
+hunting	1	1	0	1	0	1	0	0	0	0	memburu
+hurrah	0	0	0	0	1	0	1	0	0	0	Hore
+hurricane	0	0	0	1	0	1	0	0	0	0	badai
+hurried	0	1	0	0	0	1	0	0	0	0	keburu
+hurry	0	1	0	0	0	0	0	0	0	0	buru-buru
+hurt	1	0	0	1	0	1	0	1	0	0	terluka
+hurtful	1	0	1	1	0	1	0	1	0	0	menyakitkan
+hurting	1	0	0	1	0	1	0	1	0	0	menyakiti
+husbandry	0	0	0	0	0	0	1	0	0	1	peternakan
+hut	0	0	0	0	0	0	1	1	0	0	pondok
+hydra	0	0	0	1	0	1	0	0	0	0	ular naga
+hydrocephalus	0	0	1	1	0	1	0	1	0	0	hidrosefalus
+hymn	0	1	0	0	1	0	1	1	0	1	nyanyian pujian
+hype	0	1	0	0	0	1	0	0	0	0	promosi sensasional
+hypertrophy	0	0	1	1	0	0	0	0	1	0	hipertrofi
+hypocrite	0	0	1	0	0	1	0	0	0	0	orang munafik
+hypocritical	0	0	1	0	0	1	0	0	0	0	munafik
+hypothesis	0	1	0	0	0	0	0	0	1	0	hipotesa
+hysteria	0	0	0	1	0	1	0	0	0	0	histeri
+hysterical	1	0	0	1	0	1	0	0	0	0	histeris
+idiocy	1	0	1	0	0	1	0	1	0	0	kebodohan
+idiot	0	0	1	0	0	1	0	0	0	0	bodoh
+idiotic	1	0	1	0	0	1	0	0	0	0	bodoh
+idolatry	0	0	1	1	0	1	0	0	0	0	pemujaan berhala
+ignorant	0	0	1	0	0	1	0	0	0	0	kurang pengetahuan
+ill	1	0	1	1	0	1	0	1	0	0	Saya akan
+illegal	1	0	1	1	0	1	0	1	0	0	liar
+illegality	1	0	1	1	0	1	0	0	0	0	ketidaksahan
+illegitimate	1	0	1	1	0	1	0	1	1	0	Palsu
+illicit	1	0	1	1	0	1	0	0	0	0	dilarang
+illiterate	0	0	1	0	0	1	0	0	0	0	buta huruf
+illness	0	0	0	1	0	1	0	1	0	0	penyakit
+illuminate	0	1	0	0	1	0	1	0	1	0	menerangi
+illumination	0	0	0	0	1	0	1	0	1	1	penerangan
+illusion	0	0	0	0	0	1	0	0	1	0	ilusi
+immaculate	0	0	0	0	1	0	1	0	0	1	sangat rapi
+immature	0	1	0	0	0	1	0	0	0	0	belum dewasa
+immaturity	1	1	0	0	0	1	0	0	0	0	ketidakdewasaan
+immediacy	0	0	0	0	0	0	0	0	1	0	kesegeraan
+immediately	0	1	0	0	0	1	1	0	0	0	langsung
+immerse	0	1	0	1	1	0	1	0	1	1	membenamkan
+immigrant	0	0	0	1	0	0	0	0	0	0	imigran
+imminent	0	1	0	1	0	0	0	0	0	0	dekat
+immoral	1	0	1	1	0	1	0	1	0	0	asusila
+immorality	1	0	1	0	0	1	0	0	0	0	amoralitas
+immortality	0	1	0	0	0	0	0	0	0	0	keabadian
+immovable	0	0	0	0	0	1	1	0	0	1	tak tergoyahkan
+immunization	0	0	0	0	0	0	0	0	0	1	imunisasi
+impart	0	0	0	0	0	0	1	0	0	1	memberi
+impartial	0	0	0	0	0	0	1	0	0	1	tidak memihak
+impartiality	0	0	0	0	0	0	1	0	0	1	ketidakberpihakan
+impatient	0	1	0	0	0	1	0	0	0	0	tidak sabar
+impeach	0	0	1	1	0	1	0	0	0	0	mendakwa
+impeccable	0	0	0	0	0	0	1	0	0	1	sempurna
+impending	0	1	0	1	0	0	0	0	0	0	mendatang
+impenetrable	0	0	0	0	0	0	0	0	0	1	tidak bisa ditembus
+impermeable	1	0	0	1	0	0	0	0	0	0	kedap
+implicate	1	0	0	0	0	1	0	0	0	0	melibatkan
+impolite	0	0	1	0	0	1	0	0	0	0	tidak sopan
+importance	0	1	0	0	0	0	1	0	0	0	pentingnya
+important	0	0	0	0	0	0	1	0	0	1	penting
+impossible	0	0	0	0	0	1	0	1	0	0	mustahil
+impotence	1	0	0	1	0	1	0	1	0	0	ketidakmampuan
+impressionable	0	0	0	0	0	0	0	0	0	1	mudah terpengaruh
+imprisoned	1	0	1	1	0	1	0	1	0	0	dipenjara
+imprisonment	1	0	1	1	0	1	0	1	0	0	hukuman penjara
+improve	0	1	0	0	1	0	1	0	0	1	memperbaiki
+improvement	0	0	0	0	1	0	1	0	0	1	peningkatan
+improvisation	0	0	0	0	0	0	0	0	1	0	improvisasi
+improvise	0	1	0	0	0	0	1	0	1	0	berimprovisasi
+imprudent	0	0	0	0	0	1	0	1	0	0	lalai
+impure	0	0	1	0	0	1	0	0	0	0	najis
+impurity	0	0	1	0	0	1	0	0	0	0	ketidakmurnian
+inability	0	0	0	0	0	1	0	1	0	0	ketidakmampuan
+inadequate	0	0	0	0	0	1	0	1	0	0	tidak memadai
+inadmissible	1	0	1	0	0	1	0	0	0	0	tidak dapat diterima
+inappropriate	1	0	1	0	0	1	0	1	0	0	tidak pantas
+inattention	1	0	0	0	0	1	0	0	0	0	kekurangan perhatian
+inaugural	0	1	0	0	0	0	0	0	0	0	perdana
+inauguration	0	1	0	0	1	0	1	0	0	1	inaugurasi
+incarceration	1	0	1	1	0	1	0	1	0	0	penahanan
+incase	1	0	1	1	0	1	0	1	0	0	dalam hal
+incendiary	1	0	0	1	0	1	0	0	1	0	pembakar
+incense	1	0	0	0	0	1	0	0	0	0	dupa
+incest	1	0	1	1	0	1	0	1	0	0	inses
+incestuous	0	0	1	0	0	1	0	0	0	0	sumbang
+incident	0	0	0	0	0	0	0	0	1	0	kejadian
+incite	1	1	0	1	0	1	0	0	0	0	menghasut
+incline	0	0	0	0	0	0	0	0	0	1	lereng
+inclusion	0	0	0	0	0	0	0	0	0	1	penyertaan
+income	0	1	0	0	1	1	1	1	0	1	penghasilan
+incompatible	1	0	1	0	0	1	0	1	0	0	tidak kompatibel
+incompetent	1	0	0	0	0	1	0	1	0	0	tidak kompeten
+incongruous	1	0	0	0	0	1	0	0	0	0	tidak sesuai
+inconsequential	0	0	0	0	0	1	0	1	0	0	ngawur
+inconsiderate	1	0	1	0	0	1	0	1	0	0	tidak pengertian
+incontinence	0	0	0	0	0	0	0	0	1	0	inkontinensia
+inconvenient	1	0	1	0	0	1	0	1	0	0	tidak nyaman
+incredulous	1	0	1	0	0	1	0	0	0	0	tidak percaya
+incrimination	0	0	0	1	0	1	0	1	0	0	tuduhan
+incubus	0	0	1	1	0	1	0	0	0	0	syaitan
+incurable	1	0	1	1	0	1	0	1	0	0	tak tersembuhkan
+incursion	0	0	0	1	0	1	0	0	0	0	serangan
+indecency	1	0	1	0	0	0	0	0	0	0	ketidaksenonohan
+indecent	0	0	1	0	0	1	0	0	0	0	tidak senonoh
+indefensible	0	0	0	1	0	1	0	0	0	0	tidak dapat dipertahankan
+indelible	0	0	0	0	0	0	1	0	0	1	tak terhapuskan
+indemnity	0	0	0	0	0	0	1	0	0	1	ganti rugi
+indent	0	0	0	0	0	0	0	0	0	1	lekukan
+indenture	1	0	0	0	0	1	0	0	0	0	perjanjian
+independence	0	1	0	0	1	0	1	0	1	1	kemerdekaan
+indestructible	0	0	0	0	0	0	1	0	0	1	tidak bisa dihancurkan
+indict	1	0	0	1	0	1	0	0	0	0	mendakwa
+indictment	0	0	0	1	0	1	0	0	0	0	dakwaan
+indifference	1	0	1	1	0	1	0	1	0	0	pengabaian
+indigent	0	0	0	0	0	1	0	1	0	0	miskin
+indignant	1	0	0	0	0	1	0	0	0	0	marah
+indignation	1	0	1	0	0	1	0	0	0	0	kemarahan
+indivisible	0	0	0	0	0	0	0	0	0	1	tak terpisahkan
+indoctrination	1	0	0	1	0	1	0	0	0	0	indoktrinasi
+indomitable	0	0	0	1	0	0	1	0	0	0	gigih
+ineffectual	0	0	1	0	0	1	0	0	0	0	tidak efektif
+inefficiency	0	0	1	0	0	1	0	1	0	0	ketidakefisienan
+inefficient	0	0	0	0	0	1	0	1	0	0	tidak efisien
+inept	1	0	1	0	0	1	0	0	0	0	tidak kompeten
+ineptitude	0	0	1	1	0	1	0	1	0	0	tindakan yg bodoh
+inequality	1	0	0	1	0	1	0	1	0	0	ketidaksamaan
+inexcusable	1	0	1	0	0	1	0	1	0	0	tidak bisa dimaafkan
+inexplicable	0	0	0	0	0	1	0	0	1	0	tidak bisa dijelaskan
+infallibility	0	0	0	0	0	0	0	0	0	1	infalibilitas
+infamous	1	0	1	1	0	1	0	0	0	0	terkenal jahat
+infamy	0	0	0	0	0	1	0	1	0	0	keburukan
+infant	0	1	0	1	1	0	1	0	1	0	bayi
+infanticide	1	1	1	1	0	1	0	1	0	0	pembunuhan anak
+infantile	1	0	1	0	0	1	0	0	0	0	kekanak-kanakan
+infarct	0	0	0	1	0	1	0	0	1	0	infark
+infect	0	0	1	0	0	1	0	0	0	0	menulari
+infection	0	0	0	1	0	1	0	0	0	0	infeksi
+infectious	0	0	1	1	0	1	0	1	0	0	menular
+inferior	0	0	0	0	0	1	0	1	0	0	lebih rendah
+inferno	1	0	0	1	0	1	0	0	0	0	neraka
+infertility	0	0	0	0	0	1	0	1	0	0	kemandulan
+infestation	0	0	1	1	0	1	0	0	0	0	kutu
+infidel	1	0	1	1	0	1	0	0	0	0	kafir
+infidelity	1	0	1	1	0	1	0	1	0	0	ketidaksetiaan
+infinity	0	1	0	0	1	0	1	0	0	1	ketakterbatasan
+infirmity	0	0	0	1	0	1	0	0	0	0	kelemahan
+inflation	0	0	0	1	0	1	0	0	0	0	inflasi
+inflict	1	0	0	1	0	1	0	1	0	0	menimbulkan
+infliction	0	0	0	1	0	1	0	1	0	0	penderitaan
+influential	0	0	0	0	0	0	1	0	0	1	berpengaruh
+inform	0	0	0	0	0	0	0	0	0	1	memberitahukan
+infraction	1	0	0	0	0	1	0	0	0	0	pelanggaran
+infrequent	0	0	0	0	0	0	0	0	1	0	jarang
+inheritance	0	1	0	0	1	0	1	0	1	1	warisan
+inhibit	1	0	1	0	0	1	0	1	0	0	menghalangi
+inhospitable	0	0	0	0	0	1	0	1	0	0	tidak ramah
+inhuman	1	0	1	1	0	1	0	1	0	0	tidak manusiawi
+inhumanity	0	0	0	0	0	1	0	1	0	0	kebiadaban
+inimical	1	0	0	0	0	1	0	1	0	0	bermusuhan
+inimitable	0	0	0	0	0	0	1	0	0	1	yg tak ada bandingannya
+iniquity	0	0	1	0	0	1	0	0	0	0	kesalahan
+injection	0	0	0	1	0	0	0	0	0	0	injeksi
+injure	1	0	0	1	0	1	0	1	0	0	melukai
+injured	0	0	0	1	0	1	0	1	0	0	terluka
+injurious	1	0	0	1	0	1	0	1	0	0	berbahaya
+injury	1	0	0	1	0	1	0	1	0	0	cedera
+injustice	1	0	0	0	0	1	0	0	0	0	ketidakadilan
+inmate	0	0	1	1	0	1	0	0	0	0	tahanan
+innocent	0	0	0	0	0	0	1	0	0	1	polos
+inoculation	0	1	0	0	0	0	0	0	0	1	inokulasi
+inoperative	1	0	0	0	0	1	0	0	0	0	yg tdk berlaku
+inquiry	0	1	0	0	0	0	1	0	0	0	pertanyaan
+insane	1	0	0	1	0	1	0	0	0	0	gila
+insanity	1	0	1	1	0	1	0	1	0	0	penyakit jiwa
+insecure	1	0	0	1	0	1	0	1	0	0	merasa tidak aman
+insecurity	0	0	0	1	0	1	0	0	0	0	ketidakamanan
+inseparable	0	0	0	0	1	0	1	0	0	1	tak terpisahkan
+insidious	1	0	1	1	0	1	0	0	0	0	berbahaya
+insignificant	1	0	0	0	0	1	0	1	0	0	tidak penting
+insolvency	0	0	0	1	0	1	0	1	1	0	keadaan bangkrut
+insolvent	0	0	0	1	0	1	0	1	0	1	bangkrut
+inspiration	0	1	0	0	1	0	1	0	0	0	inspirasi
+inspire	0	1	0	0	1	0	1	0	0	1	mengilhami
+inspired	0	0	0	0	1	0	1	0	1	1	terinspirasi
+instability	0	0	1	1	0	1	0	0	0	0	ketidakstabilan
+install	0	1	0	0	0	0	0	0	0	0	Install
+instinctive	1	0	1	1	0	0	1	0	0	0	naluriah
+institute	0	0	0	0	0	0	0	0	0	1	lembaga
+instruct	0	0	0	0	0	0	1	0	0	1	menginstruksikan
+instruction	0	0	0	0	0	0	1	0	0	1	petunjuk
+instructions	0	1	0	0	0	0	0	0	0	1	instruksi
+instructor	0	1	0	0	0	0	1	0	0	1	pengajar
+insufficiency	1	0	0	0	0	1	0	0	0	0	ketidakcukupan
+insulation	0	0	0	0	0	0	0	0	0	1	isolasi
+insult	1	0	1	0	0	1	0	1	1	0	menyinggung
+insulting	1	0	1	1	0	1	0	1	0	0	menghina
+insure	0	0	0	0	0	0	1	0	0	1	memastikan
+insurmountable	0	0	0	1	0	1	0	1	0	0	tidak dapat diatasi
+insurrection	1	0	0	0	0	1	0	0	0	0	pemberontakan
+intact	0	0	0	0	0	0	1	0	0	1	utuh
+integrity	0	0	0	0	0	0	1	0	0	1	integritas
+intelligence	0	0	0	1	1	0	1	0	0	1	intelijen
+intelligent	0	0	0	0	0	0	1	0	0	1	cerdas
+intend	0	0	0	0	0	0	0	0	0	1	bermaksud
+intended	0	1	0	0	0	0	1	0	0	0	disengaja
+intense	1	0	1	1	1	1	1	0	1	1	intens
+inter	0	0	0	0	0	1	0	1	0	0	antar
+intercede	0	0	0	1	0	0	0	1	0	0	menengahi
+intercession	0	0	0	0	0	0	0	0	0	1	perantaraan
+interested	0	0	1	0	0	0	1	1	0	0	tertarik
+interim	0	1	0	0	0	0	0	0	0	0	interim
+interior	0	0	1	0	0	0	1	0	0	1	pedalaman
+interment	0	0	0	0	0	1	0	1	0	0	pemakaman
+interminable	1	1	0	0	0	1	1	0	0	0	tak berkesudahan
+intermission	0	1	0	0	0	0	0	0	0	0	istirahat
+interrogate	0	0	0	1	0	0	0	0	0	0	menanyai
+interrogation	0	0	0	1	0	0	0	0	0	0	interogasi
+interrupt	1	0	0	0	0	1	0	0	1	0	mengganggu
+interrupted	0	0	0	0	0	1	0	1	0	0	terganggu
+intervention	0	0	0	0	0	1	1	1	0	0	intervensi
+interviewer	0	0	0	1	0	0	0	0	0	0	pewawancara
+intestinal	0	0	1	0	0	0	0	0	0	0	usus
+intimate	0	1	0	0	1	0	1	0	0	1	intim
+intimately	0	1	0	1	1	0	0	0	0	0	secara intim
+intimidate	0	0	0	1	0	1	0	0	0	0	mengancam
+intimidation	1	0	0	1	0	1	0	0	0	0	intimidasi
+intolerable	1	0	0	0	0	1	0	0	0	0	tak tertahankan
+intolerance	1	0	1	1	0	1	0	0	0	0	intoleransi
+intolerant	1	0	1	1	0	1	0	1	0	0	intoleran
+intoxicated	0	0	1	0	0	1	0	0	0	0	mabuk
+intractable	1	0	0	0	0	1	0	0	0	0	keras kepala
+intrigue	0	1	0	1	0	1	0	0	1	0	intrik
+intruder	1	0	0	1	0	1	0	0	1	0	pengacau
+intrusion	0	0	0	1	0	1	0	0	0	0	intrusi
+intrusive	1	0	1	1	0	1	0	0	1	0	mengganggu
+intuition	0	0	0	0	0	0	1	0	0	1	intuisi
+intuitively	0	1	0	0	0	0	0	0	0	0	secara intuitif
+invade	1	0	0	1	0	1	0	1	1	0	menyerbu
+invader	1	0	0	1	0	1	0	1	0	0	penyerbu
+invalid	0	0	0	0	0	0	0	1	0	0	tidak sah
+invasion	1	0	0	0	0	1	0	0	0	0	invasi
+investigation	0	1	0	0	0	0	0	0	0	0	penyelidikan
+invitation	0	1	0	0	0	0	1	0	0	0	undangan
+invite	0	1	0	0	1	0	1	0	1	1	mengundang
+inviting	0	1	0	0	1	0	1	0	1	1	mengundang
+invocation	0	1	0	0	0	0	0	0	0	1	doa
+invoke	0	1	0	0	0	0	0	0	0	0	memohon
+involution	1	0	0	0	0	1	0	0	0	0	kerumitan
+involvement	1	0	0	0	0	0	0	0	0	0	keterlibatan
+irate	1	0	0	0	0	1	0	0	0	0	marah
+ire	1	0	0	0	0	1	0	0	0	0	kemarahan
+iris	0	0	0	1	0	0	0	0	0	0	iris
+iron	0	0	0	0	0	0	1	0	0	1	besi
+irrational	0	0	1	1	0	1	0	0	0	0	irasional
+irreconcilable	1	0	0	1	0	1	0	1	0	0	tidak dapat didamaikan
+irrefutable	0	0	0	0	0	0	1	0	0	1	tak terbantahkan
+irreparable	0	0	0	1	0	1	0	1	0	0	tidak dapat diperbaiki
+irritability	1	0	0	0	0	1	0	0	0	0	sifat lekas marah
+irritable	1	0	0	0	0	1	0	0	0	0	rongseng
+irritating	1	0	1	0	0	1	0	0	0	0	menjengkelkan
+irritation	1	0	1	0	0	1	0	1	0	0	gangguan
+isolate	0	0	0	0	0	0	0	1	0	0	memisahkan
+isolated	0	0	0	1	0	1	0	1	0	0	terpencil
+isolation	0	0	0	0	0	1	0	1	0	0	isolasi
+jab	1	0	0	0	0	0	0	0	0	0	tusukan
+jackpot	0	1	0	0	1	0	1	0	1	0	jackpot
+jail	0	0	0	1	0	1	0	1	0	0	penjara
+janitor	0	0	1	0	0	0	0	0	0	0	pesuruh
+jarring	0	0	0	1	0	1	0	1	0	0	menggelegar
+jaundice	0	0	0	1	0	1	0	0	0	0	penyakit kuning
+jaws	0	0	0	1	0	0	0	0	0	0	mulut
+jealous	1	0	1	0	0	1	0	0	0	0	cemburu
+jealousy	1	0	1	1	0	1	0	1	0	0	kecemburuan
+jeopardize	1	0	0	1	0	1	0	0	0	0	membahayakan
+jeopardy	0	1	0	1	0	1	0	0	0	0	bahaya
+jerk	1	0	0	0	0	0	0	0	1	0	berengsek
+jest	0	0	0	0	1	0	1	0	1	0	bersenda gurau
+john	0	0	1	0	0	1	0	0	0	0	john
+joker	0	0	0	0	1	0	1	0	1	0	pelawak
+jolt	0	0	0	0	0	0	0	0	1	0	sentakan
+journalism	0	0	0	0	0	0	0	0	0	1	jurnalistik
+journey	0	1	0	1	1	0	1	0	0	0	perjalanan
+journeyman	0	0	0	0	0	0	0	0	0	1	pekerja harian
+jovial	0	0	0	0	1	0	1	0	0	0	periang
+joy	0	0	0	0	1	0	1	0	0	0	sukacita
+joyful	0	0	0	0	1	0	1	0	0	1	gembira
+joyous	0	0	0	0	1	0	1	0	0	0	riang
+jubilant	0	0	0	0	1	0	1	0	1	1	bergembira sekali
+jubilee	0	0	0	0	1	0	1	0	1	0	Yobel
+judgment	0	0	0	0	0	0	0	0	1	0	pertimbangan
+judicial	0	1	0	0	0	0	1	0	0	1	peradilan
+judiciary	0	1	0	0	0	0	0	0	0	1	pengadilan
+judicious	0	0	0	0	0	0	1	0	0	1	bijaksana
+jump	0	0	0	0	1	0	1	0	0	0	melompat
+jungle	0	0	0	1	0	0	0	0	0	0	Hutan
+jurisprudence	0	0	0	0	0	0	0	1	0	0	yurisprudensi
+jurist	0	0	0	0	0	0	0	0	0	1	ahli hukum
+jury	0	0	0	0	0	0	0	0	0	1	juri
+justice	0	0	0	0	0	0	1	0	0	1	keadilan
+justifiable	0	0	0	0	0	0	1	0	0	1	dibenarkan
+kennel	0	0	0	0	0	0	0	1	0	0	kandang
+kerosene	0	0	0	1	0	0	0	0	0	0	minyak tanah
+khan	0	0	0	1	0	0	0	0	0	1	khan
+kick	1	0	0	0	0	1	0	0	0	0	tendangan
+kicking	1	0	0	0	0	0	0	0	0	0	sepakan
+kidnap	1	0	0	1	0	1	0	1	1	0	menculik
+kill	0	0	0	1	0	1	0	1	0	0	membunuh
+killing	1	0	0	1	0	1	0	1	0	0	pembunuhan
+kind	0	0	0	0	1	0	1	0	0	1	jenis
+kindred	0	1	0	0	1	0	1	0	0	1	keluarga
+kiss	0	1	0	0	1	0	1	0	1	0	ciuman
+kite	0	0	1	0	0	1	0	0	0	0	layang-layang
+kitten	0	0	0	0	1	0	1	0	0	1	anak kucing
+knell	0	0	0	1	0	1	0	1	0	0	tanda buruk
+knickers	0	0	0	0	0	0	0	0	0	1	celana tanggung
+kudos	0	0	0	0	1	0	1	0	0	0	pujian
+label	0	0	0	0	0	0	0	0	0	1	label
+labor	0	1	0	0	1	0	1	0	1	1	tenaga kerja
+labored	0	0	0	0	0	1	0	1	0	0	bekerja keras
+labyrinth	0	1	0	0	0	1	0	0	0	0	labirin
+lace	1	0	0	1	0	1	1	1	0	1	renda
+lagging	1	1	1	0	0	1	0	1	0	0	tertinggal
+lamb	0	0	0	0	1	0	1	0	0	1	domba
+lament	0	0	1	1	0	1	0	1	0	0	meratapi
+lamenting	0	0	0	0	0	0	0	1	0	0	meratap
+landmark	0	0	0	0	0	0	0	0	0	1	tengara
+landslide	0	0	0	1	0	1	0	1	0	0	tanah longsor
+languishing	0	0	0	1	0	1	0	1	0	0	mendekam
+larceny	0	0	1	0	0	1	0	0	0	0	pencurian
+larger	0	0	1	0	0	0	0	0	1	1	lebih besar
+laser	0	0	0	0	0	0	1	0	0	1	laser
+lash	1	0	0	1	0	1	0	0	0	0	bulu mata
+late	0	0	0	0	0	1	0	1	0	0	terlambat
+latent	1	1	1	0	0	1	0	0	1	0	terpendam
+latrines	0	0	1	0	0	1	0	0	0	0	kakus
+laugh	0	0	0	0	1	0	1	0	1	0	tertawa
+laughable	0	0	1	0	0	1	0	0	0	0	menggelikan
+laughing	0	0	0	0	1	0	1	0	0	0	tertawa
+laughter	0	1	0	0	1	0	1	0	1	0	tawa
+launch	0	1	0	0	0	0	1	0	0	0	meluncurkan
+laureate	0	0	0	0	0	0	1	0	0	1	pemenang hadiah
+laurels	0	0	0	0	1	0	1	0	0	0	kemenangan
+lava	1	0	0	1	0	1	0	0	0	0	lahar
+lavatory	0	0	1	0	0	0	0	0	0	0	WC
+law	0	0	0	0	0	0	0	0	0	1	hukum
+lawful	0	0	0	0	0	0	1	0	0	1	sah
+lawlessness	1	0	0	1	0	1	0	0	0	0	pelanggaran hukum
+lawsuit	1	0	1	1	0	1	0	1	1	0	gugatan
+lawyer	1	0	1	1	0	1	0	0	0	0	pengacara
+lax	0	0	0	0	0	1	0	1	0	0	longgar
+laxative	0	0	1	1	0	1	0	0	0	0	pencahar
+leader	0	0	0	0	0	0	1	0	0	1	pemimpin
+leading	0	0	0	0	0	0	0	0	0	1	terkemuka
+leaning	0	0	0	0	0	0	0	0	0	1	condong
+leave	0	0	0	0	0	1	0	1	1	0	meninggalkan
+leeches	0	0	1	1	0	1	0	0	0	0	lintah
+leer	0	0	1	0	0	1	0	0	0	0	lirik
+leery	0	0	0	0	0	0	0	0	1	0	curiga
+legal	0	0	0	0	0	0	1	0	0	1	hukum
+legalized	1	0	0	1	1	0	1	0	0	1	dilegalkan
+legislator	0	0	0	0	0	0	0	0	0	1	legislator
+legislature	0	0	0	0	0	0	0	0	0	1	badan legislatif
+legitimacy	0	0	0	0	0	0	0	0	0	1	legitimasi
+leisure	0	1	0	0	1	0	1	0	1	1	santai
+lemon	0	0	1	0	0	1	0	0	0	0	lemon
+lender	0	0	0	0	0	0	0	0	0	1	pemberi pinjaman
+leprosy	0	0	1	1	0	1	0	1	0	0	kusta
+lessen	0	1	0	0	0	1	0	0	0	0	mengurangi
+lesser	0	0	1	0	0	1	0	0	0	0	lebih rendah
+lesson	0	1	0	0	0	0	1	0	0	1	pelajaran
+lethal	0	0	1	1	0	1	0	1	0	0	letal
+lethargy	0	0	0	0	0	1	0	1	0	0	kelesuan
+letter	0	1	0	0	0	0	0	0	0	0	surat
+lettered	0	1	0	0	0	0	1	0	0	1	berhuruf
+leukemia	1	0	0	1	0	1	0	1	0	0	leukemia
+levee	0	0	0	0	0	0	0	0	0	1	tanggul
+level	0	0	0	0	0	0	1	0	0	1	tingkat
+lewd	0	0	1	0	0	1	0	0	0	0	cabul
+liar	0	0	1	0	0	1	0	0	0	0	pembohong
+libel	1	0	0	1	0	1	0	0	0	1	fitnah
+liberate	1	1	0	0	1	0	1	0	1	1	membebaskan
+liberation	0	1	0	0	1	0	1	0	1	0	pembebasan
+liberty	0	1	0	0	1	0	1	0	1	1	kebebasan
+lick	0	0	1	0	0	1	0	0	0	0	menjilat
+lie	1	0	1	0	0	1	0	1	0	0	berbohong
+lieutenant	0	0	0	0	0	0	0	0	0	1	letnan
+lifeless	0	0	0	1	0	1	0	1	0	0	tak bernyawa
+lightning	1	0	0	1	0	0	0	0	1	0	petir
+liking	0	0	0	0	1	0	1	0	0	1	menyukai
+limited	1	0	0	0	0	1	0	1	0	0	terbatas
+lines	0	0	0	1	0	0	0	0	0	0	garis
+linger	0	1	0	0	0	0	0	0	0	0	masih tertinggal
+linguist	0	0	0	0	0	0	1	0	0	1	ahli bahasa
+lion	0	0	0	1	0	0	1	0	0	0	singa
+liquor	1	0	0	0	1	1	0	1	0	0	minuman keras
+listless	0	0	0	0	0	1	0	1	0	0	lesu
+litigate	1	1	1	1	0	1	0	1	0	0	mengajukan perkara
+litigious	1	0	1	0	0	1	0	0	0	0	suka beperkara
+livid	1	0	1	0	0	1	0	0	0	0	marah
+loath	1	0	0	0	0	1	0	0	0	0	segan
+loathe	1	0	1	0	0	1	0	0	0	0	benci
+loathing	0	0	1	0	0	1	0	0	0	0	kebencian
+loathsome	1	0	1	0	0	1	0	0	0	0	menjijikkan
+localize	0	1	0	0	0	0	0	0	0	0	melokalisir
+lockup	0	0	0	1	0	1	0	1	0	0	terkunci
+locust	0	0	0	1	0	1	0	0	0	0	belalang
+lodging	0	0	0	0	0	0	0	0	0	1	penginapan
+lone	0	0	0	0	0	0	0	1	0	0	sendirian
+loneliness	0	0	0	1	0	1	0	1	0	0	kesendirian
+lonely	1	0	1	1	0	1	0	1	0	0	kesepian
+lonesome	0	0	0	0	0	1	0	1	0	0	kesepian
+long	0	1	0	0	0	0	0	0	0	0	panjang
+longing	0	1	0	0	0	0	0	1	0	0	kerinduan
+loo	0	0	1	0	0	1	0	0	0	0	toilet
+loom	0	1	0	1	0	1	0	0	0	0	mesin tenun
+loon	0	0	1	0	0	1	0	0	0	0	loon
+lord	0	0	1	0	0	1	1	0	0	1	Tuan
+lose	1	0	1	1	0	1	0	1	1	0	kehilangan
+losing	1	0	0	0	0	1	0	1	0	0	kekalahan
+loss	1	0	0	1	0	1	0	1	0	0	kehilangan
+lost	0	0	0	0	0	1	0	1	0	0	hilang
+lottery	0	1	0	0	0	0	0	0	0	0	lotre
+loudness	1	0	0	0	0	1	0	0	0	0	kekerasan
+louse	0	0	1	0	0	1	0	0	0	0	kutu
+lovable	0	0	0	0	1	0	1	0	0	1	manis
+love	0	0	0	0	1	0	1	0	0	0	cinta
+lovely	0	1	0	0	1	0	1	1	1	1	menyenangkan
+lovemaking	0	0	0	0	1	0	1	0	0	1	bercinta
+lover	0	1	0	0	1	0	1	0	0	1	kekasih
+loving	0	0	0	0	1	0	1	0	0	1	penuh kasih
+lower	0	0	0	0	0	1	0	1	0	0	lebih rendah
+lowest	0	0	0	0	0	1	0	1	0	0	terendah
+lowly	0	0	0	0	0	1	0	1	0	0	rendah
+loyal	0	0	0	1	1	0	1	0	1	1	loyal
+loyalty	0	0	0	0	0	0	1	0	0	1	loyalitas
+luck	0	1	0	0	1	0	1	0	1	0	keberuntungan
+lucky	0	0	0	0	1	0	1	0	1	0	beruntung
+lull	0	1	0	0	0	0	0	0	0	0	menidurkan
+lumpy	0	0	1	0	0	1	0	0	0	0	kental
+lunacy	1	0	1	1	0	1	0	1	0	0	kegilaan
+lunatic	1	0	1	1	0	1	0	0	0	0	gila
+lunge	0	0	0	0	0	0	0	0	1	0	terjang
+lurid	0	0	1	0	0	1	0	0	0	0	seram
+luscious	0	1	0	0	1	0	1	0	0	0	lezat
+lush	0	0	1	0	0	1	0	1	0	0	subur
+lust	0	1	0	0	0	1	0	0	0	0	nafsu
+luster	0	0	0	0	1	0	1	0	0	0	kilau
+lusty	0	0	1	0	0	0	0	0	0	0	sehat
+luxurious	0	0	0	0	1	0	1	0	0	0	mewah
+luxury	0	0	0	0	1	0	1	0	0	0	kemewahan
+lying	1	0	1	0	0	1	0	0	0	0	bohong
+lynch	1	0	1	1	0	1	0	1	0	0	lynch
+lyre	0	0	0	0	1	0	1	0	0	0	kecapi
+lyrical	0	0	0	0	1	0	1	0	0	0	liris
+mace	0	0	0	1	0	1	0	0	0	0	bunga pala
+machine	0	0	0	0	0	0	0	0	0	1	mesin
+mad	1	0	1	1	0	1	0	1	0	0	gila
+madden	1	0	0	1	0	1	0	0	0	0	menjengkelkan
+madman	1	0	0	1	0	1	0	0	0	0	orang gila
+madness	1	0	0	1	0	1	0	0	0	0	kegilaan
+mafia	0	0	0	1	0	1	0	0	0	0	mafia
+mage	0	0	0	1	0	0	0	0	0	0	penyihir
+maggot	0	0	1	0	0	1	0	0	0	0	belatung
+magical	0	1	0	0	1	0	1	0	1	0	gaib
+magician	0	0	0	0	0	0	0	0	1	0	pesulap
+magnet	0	0	0	0	0	0	1	0	0	1	magnet
+magnificence	0	1	0	0	1	0	1	0	0	1	keindahan
+magnificent	0	1	0	0	1	0	1	0	1	1	agung
+mail	0	1	0	0	0	0	0	0	0	0	surat
+mainstay	0	0	0	0	0	0	1	0	0	1	andalan
+maintenance	0	0	0	0	0	0	0	0	0	1	pemeliharaan
+majestic	0	1	0	0	1	0	1	0	1	1	megah
+majesty	0	0	0	0	0	0	1	0	0	1	keagungan
+majority	0	0	0	0	1	0	1	0	0	1	mayoritas
+malaise	0	0	0	0	0	1	0	1	0	0	rasa tidak enak
+malaria	0	0	1	1	0	1	0	1	0	0	malaria
+malevolent	1	0	1	1	0	1	0	1	0	0	jahat
+malfeasance	0	0	1	0	0	1	0	0	0	0	penyimpangan
+malice	1	0	0	1	0	1	0	0	0	0	kebencian
+malicious	1	0	1	1	0	1	0	1	0	0	jahat
+malign	1	0	1	0	0	1	0	0	0	0	memfitnah
+malignancy	0	0	0	1	0	1	0	1	0	0	keganasan
+malignant	1	0	0	1	0	1	0	0	0	0	ganas
+malpractice	1	0	0	0	0	1	0	0	0	0	malpraktik
+mamma	0	0	0	0	0	0	0	0	0	1	mama
+manage	0	0	0	0	0	0	1	0	0	1	mengelola
+management	0	0	0	0	0	0	1	0	0	1	pengelolaan
+mandamus	0	0	0	1	0	1	0	0	0	0	mandamus
+mandarin	0	0	0	0	0	0	1	0	0	1	Mandarin
+mange	0	0	1	1	0	1	0	0	0	0	kudis
+mangle	1	0	1	1	0	1	0	1	0	0	mengoyakkan
+maniac	1	0	0	1	0	1	0	0	0	0	Gila
+manifestation	0	0	0	1	0	0	0	0	0	0	manifestasi
+manipulation	1	0	0	1	0	1	0	0	0	0	manipulasi
+manslaughter	1	0	1	1	0	1	0	1	1	0	pembunuhan
+manual	0	0	0	0	0	0	0	0	0	1	panduan
+manure	0	0	1	0	0	1	0	0	0	0	pupuk
+margin	0	0	0	0	0	1	0	1	0	0	batas
+marine	0	0	0	0	0	0	0	0	0	1	laut
+marriage	0	1	0	0	1	0	1	0	0	1	pernikahan
+marrow	0	0	0	0	1	0	1	0	0	1	sumsum
+marry	0	1	0	1	1	0	1	0	1	1	nikah
+marshal	0	0	0	0	0	0	1	0	0	1	marsekal
+martial	1	0	0	0	0	0	0	0	0	0	bela diri
+martyr	0	0	0	1	0	1	0	1	0	0	martir
+martyrdom	0	0	0	1	0	1	0	1	0	0	kesyahidan
+marvel	0	0	0	0	0	0	1	0	1	0	keajaiban
+marvelous	0	0	0	0	1	0	1	0	0	0	menakjubkan
+marvelously	0	0	0	0	1	0	1	0	0	0	luar biasa
+masochism	1	0	1	1	0	1	0	0	0	0	kesenangan karena menderita
+massacre	1	0	1	1	0	1	0	1	0	0	pembantaian
+massage	0	0	0	0	1	0	1	0	0	0	pijat
+masterpiece	0	0	0	0	1	0	1	0	0	0	hasil karya
+mastery	1	0	0	0	1	0	1	0	0	1	penguasaan
+matchmaker	0	1	0	0	0	0	0	0	0	0	pencari jodoh
+mate	0	0	0	0	0	0	1	0	0	1	pasangan
+materialist	0	0	1	0	0	1	0	0	0	0	materialis
+maternal	0	1	0	0	0	1	1	0	0	0	keibuan
+mathematical	0	0	0	0	0	0	0	0	0	1	matematis
+matrimony	0	1	0	0	1	0	1	0	0	1	perkawinan
+matron	0	0	0	0	0	0	1	0	0	1	janda
+mausoleum	0	0	0	0	0	0	0	1	0	0	makam
+maxim	0	0	0	0	0	0	0	0	0	1	pepatah
+meaningless	0	0	0	0	0	1	0	1	0	0	tak berarti
+measles	0	0	1	1	0	1	0	1	0	0	campak
+measure	0	0	0	0	0	0	0	0	0	1	ukuran
+measured	0	0	0	0	0	0	1	0	0	1	diukur
+medal	0	1	0	0	1	0	1	0	1	1	medali
+meddle	1	0	0	0	0	1	0	0	0	0	mencampuri
+mediate	0	1	0	0	0	0	1	0	0	1	menengahi
+mediator	0	1	0	0	0	0	1	0	0	1	penengah
+medical	0	1	0	1	0	0	1	0	0	1	medis
+meditate	0	1	0	0	1	0	1	0	0	1	merenungkan
+meek	0	0	0	0	0	0	0	1	0	0	lembut
+melancholic	0	0	0	0	0	1	0	1	0	0	melankolik
+melancholy	0	0	0	0	0	1	0	1	0	0	melankolis
+melee	0	0	0	1	0	1	0	0	0	0	perkelahian
+melodrama	1	0	0	0	0	1	0	1	0	0	sandiwara sensasi
+meltdown	0	0	0	0	0	1	0	1	0	0	kehancuran
+memorable	0	0	0	0	1	0	1	0	1	1	mudah diingat
+memorials	0	0	0	0	0	0	0	1	0	0	kenangan
+menace	1	0	0	1	0	1	0	0	0	0	ancaman
+menacing	1	0	0	1	0	1	0	0	0	0	mengancam
+mentor	0	0	0	0	0	0	1	0	0	1	pembimbing
+mercenary	0	0	0	1	0	1	0	0	0	0	mata duitan
+merchant	0	0	0	0	0	0	0	0	0	1	pedagang
+merciless	0	0	0	1	0	1	0	0	0	0	tanpa belas kasihan
+merge	0	1	0	0	0	0	1	0	0	0	menggabungkan
+merit	0	0	0	0	0	0	1	0	0	1	kemampuan
+meritorious	0	0	0	0	1	0	1	0	0	1	bermanfaat
+merriment	0	0	0	0	1	0	1	0	1	0	kegembiraan
+merry	0	0	0	0	1	0	1	0	0	0	ceria
+mess	0	0	1	0	0	1	0	0	0	0	kekacauan
+messenger	0	0	0	0	0	0	0	0	0	1	kurir
+messy	0	0	1	0	0	1	0	0	0	0	berantakan
+microscope	0	0	0	0	0	0	0	0	0	1	mikroskop
+midwife	0	1	0	0	1	1	1	0	0	1	bidan
+mighty	1	0	0	1	1	0	1	0	0	1	kuat
+mildew	0	0	1	0	0	1	0	0	0	0	jamur
+military	0	0	0	1	0	0	0	0	0	0	militer
+militia	1	0	0	1	0	1	0	1	0	0	milisi
+mill	0	1	0	0	0	0	0	0	0	0	pabrik
+mimicry	0	0	0	0	0	1	0	0	1	0	peniruan
+ministry	0	0	0	0	1	0	1	0	0	1	kementerian
+miracle	0	1	0	0	1	0	1	0	1	1	keajaiban
+miraculous	0	0	0	0	1	0	1	0	1	0	ajaib
+mire	0	0	1	0	0	1	0	0	0	0	lumpur
+mirth	0	0	0	0	1	0	1	0	0	0	kegembiraan
+misbehavior	1	0	1	0	0	1	0	0	1	0	kelakuan buruk
+miscarriage	0	0	0	1	0	1	0	1	0	0	keguguran
+misconception	1	0	1	1	0	1	0	0	0	0	kesalahpahaman
+misconduct	0	0	1	0	0	1	0	0	0	0	kesalahan
+miserable	1	0	1	0	0	1	0	1	0	0	menderita
+miserably	0	0	0	0	0	1	0	1	0	0	secara menyedihkan
+misery	1	0	1	1	0	1	0	1	0	0	penderitaan
+misfortune	0	0	0	1	0	1	0	1	0	0	kemalangan
+misguided	0	0	1	0	0	1	0	0	0	0	sesat
+mishap	0	0	1	1	0	1	0	1	1	0	kecelakaan
+mislead	1	0	0	1	0	1	0	0	0	1	menyesatkan
+misleading	1	0	1	0	0	1	0	0	0	0	menyesatkan
+misplace	1	0	1	0	0	1	0	0	0	0	salah menaruhkan
+misrepresentation	0	0	0	0	0	1	0	1	0	0	keliru
+misrepresented	1	0	0	0	0	1	0	0	0	0	salah mengartikan
+missile	0	0	0	1	0	0	0	0	0	0	peluru kendali
+missing	0	0	0	1	0	1	0	1	0	0	hilang
+misstatement	1	0	1	0	0	1	0	0	0	0	salah saji
+mistake	0	0	0	0	0	1	0	1	0	0	kesalahan
+mistaken	0	0	0	1	0	1	0	0	0	0	salah
+mistress	1	0	1	0	0	1	0	0	0	0	nyonya
+mistrust	0	0	1	1	0	1	0	0	0	0	ketidakpercayaan
+misunderstanding	1	0	0	0	0	1	0	1	0	0	salah paham
+mite	0	0	1	0	0	1	0	0	0	0	tungau
+moan	0	0	0	1	0	0	0	1	0	0	mendesah
+moat	0	0	0	0	0	0	0	0	0	1	parit
+mob	1	0	0	1	0	1	0	0	0	0	massa
+mobile	0	1	0	0	0	0	0	0	0	0	seluler
+mockery	0	0	1	0	0	1	0	0	0	0	ejekan
+mocking	1	0	1	0	0	1	0	1	0	0	mengejek
+moderator	0	0	0	0	0	0	1	0	0	1	moderator
+modest	0	0	0	0	0	0	1	0	0	1	sederhana
+modify	0	0	0	0	0	0	0	0	1	0	memodifikasi
+molestation	1	0	1	1	0	1	0	1	0	0	penganiayaan
+momentum	0	1	0	0	0	0	1	0	0	0	momentum
+monetary	0	1	0	0	0	0	1	0	0	0	keuangan
+monk	0	0	0	0	0	0	1	0	0	1	biarawan
+monochrome	0	0	1	0	0	1	0	0	0	0	satu warna
+monogamy	0	0	0	0	0	0	0	0	0	1	monogami
+monsoon	0	0	0	0	0	1	0	1	0	0	musim
+monster	0	0	0	1	0	1	0	0	0	0	raksasa
+monstrosity	1	0	1	1	0	1	0	0	1	0	keburukan
+moody	1	0	0	0	0	1	0	1	0	0	mudah marah
+moorings	0	0	0	0	0	0	0	0	0	1	tambatan
+moral	1	0	0	0	0	0	1	0	0	1	moral
+morality	0	0	0	0	0	0	1	0	0	1	moralitas
+morals	1	1	1	0	1	0	1	0	1	1	moral
+morbid	0	0	0	0	0	1	0	1	0	0	mengerikan
+morbidity	1	0	1	1	0	1	0	1	0	0	morbiditas
+morgue	0	0	1	1	0	1	0	1	0	0	kamar mayat
+moribund	0	0	0	0	0	1	0	1	0	0	hampir mati
+morn	0	1	0	0	0	0	0	0	0	0	pagi
+morrow	0	1	0	0	0	0	0	0	0	0	besok
+mortality	1	0	0	1	0	1	0	1	0	0	kematian
+mortgage	0	0	0	1	0	0	0	0	0	0	hipotek
+mortgagee	0	0	0	0	0	0	0	0	0	1	tukang kredit
+mortgagor	0	0	0	1	0	0	0	0	0	0	orang hutangan
+mortification	0	1	1	1	0	1	0	1	0	0	malu
+mortuary	0	0	0	1	0	1	0	1	0	0	kamar mayat
+mosquito	1	0	1	0	0	1	0	0	0	0	nyamuk
+motherhood	0	0	0	0	1	0	1	0	0	1	keibuan
+motion	0	1	0	0	0	0	0	0	0	0	gerakan
+mountain	0	1	0	0	0	0	0	0	0	0	gunung
+mourn	0	0	0	0	0	1	0	1	0	0	meratapi
+mournful	1	0	0	1	0	1	0	1	0	0	sedih
+mourning	0	0	0	0	0	1	0	1	0	0	duka
+mouth	0	0	0	0	0	0	0	0	1	0	mulut
+mouthful	0	0	1	0	0	0	0	0	0	0	suap
+muck	0	0	1	0	0	1	0	0	0	0	kotoran
+mucous	0	0	1	0	0	0	0	0	0	0	lendir
+mucus	0	0	1	0	0	0	0	0	0	0	lendir
+muddy	0	0	1	0	0	1	0	0	0	0	berlumpur
+muff	1	0	1	0	0	1	0	0	0	0	sarung tangan bulu
+mug	1	0	0	1	0	1	1	1	0	0	cangkir
+mule	1	0	0	0	0	1	0	0	0	1	bagal
+mum	0	0	0	1	0	1	0	0	0	0	bungkam
+murder	1	0	1	1	0	1	0	1	1	0	pembunuhan
+murderer	1	0	1	1	0	1	0	1	0	0	pembunuh
+murderous	1	0	1	1	0	1	0	1	1	0	kejam
+murky	0	0	1	0	0	1	0	1	0	0	suram
+music	0	0	0	0	1	0	1	1	0	0	musik
+musical	1	1	0	0	1	0	1	1	1	1	musikal
+musket	0	0	0	1	0	0	0	0	0	0	senapan
+musty	0	0	1	0	0	1	0	0	0	0	apak
+mutable	0	1	0	0	0	0	1	0	0	0	yg mungkin berubah
+mutilated	0	0	1	0	0	1	0	0	0	0	dimutilasi
+mutilation	1	0	1	1	0	1	0	1	0	0	mutilasi
+mutiny	1	0	1	1	0	1	0	0	1	0	pemberontakan
+mutter	1	0	0	0	0	1	0	0	0	0	bergumam
+muzzle	0	0	0	1	0	1	0	0	0	0	moncong
+myopia	1	0	0	0	0	1	0	1	0	0	lamur
+mysterious	0	1	0	1	0	0	0	0	1	0	gaib
+mystery	0	1	0	0	0	0	0	0	1	0	Misteri
+mystic	0	0	0	0	0	0	0	0	1	0	mistik
+nab	0	0	0	0	0	1	0	0	1	0	menangkap
+nag	1	0	0	0	0	1	0	0	0	0	mengomel
+nameless	0	0	1	0	0	1	0	0	0	0	tanpa nama
+nap	0	0	0	0	1	0	1	0	0	0	tidur sebentar
+napkin	0	0	0	0	0	0	0	1	0	0	serbet
+nappy	0	0	1	0	0	1	0	0	0	0	popok
+nascent	0	1	0	0	0	0	0	0	0	0	baru lahir
+nasty	1	0	1	1	0	1	0	1	0	0	menjijikan
+nation	0	0	0	0	0	0	0	0	0	1	bangsa
+nausea	0	0	1	0	0	1	0	0	0	0	mual
+nauseous	0	0	1	0	0	1	0	1	0	0	mual
+navigable	0	1	0	0	0	0	1	0	0	0	dapat dinavigasi
+navigator	0	1	0	0	0	0	0	0	0	1	navigator
+necessity	0	0	0	0	0	0	0	1	0	0	kebutuhan
+nefarious	0	0	1	1	0	1	0	1	1	0	jahat
+negation	1	0	0	0	0	1	0	0	0	0	penyangkalan
+negative	0	0	0	0	0	1	0	1	0	0	negatif
+neglected	1	0	1	0	0	1	0	1	0	0	ditelantarkan
+negotiate	0	0	0	0	0	0	1	0	0	1	negosiasi
+negro	0	0	0	0	0	1	0	1	0	0	Negro
+neighbor	0	1	0	0	0	0	1	0	0	1	tetangga
+neighborhood	0	1	0	0	0	0	0	0	0	0	lingkungan
+nepotism	1	0	1	0	0	1	0	1	0	0	nepotisme
+nervous	0	1	0	1	0	1	0	0	0	0	grogi
+nervousness	0	0	0	1	0	0	0	0	0	0	kegugupan
+nest	0	0	0	0	0	0	0	0	0	1	sarang
+nestle	0	0	0	0	0	0	1	0	0	1	bersarang
+nether	1	0	0	1	0	1	0	1	0	0	bawah
+nettle	1	0	1	0	0	1	0	0	0	0	jelatang
+network	0	1	0	0	0	0	0	0	0	0	jaringan
+neuralgia	0	0	0	1	0	1	0	1	0	0	sakit saraf
+neurosis	0	0	0	1	0	1	0	1	0	0	sakit saraf
+neurotic	0	0	1	1	0	1	0	0	0	0	neurotik
+neutral	0	1	0	0	0	0	0	0	0	1	netral
+neutrality	0	0	0	0	0	0	0	0	0	1	kenetralan
+newcomer	0	0	0	1	0	0	0	0	1	0	pendatang
+nicotine	0	0	1	0	0	1	0	0	0	0	nikotin
+nightmare	0	0	0	1	0	1	0	0	0	0	mimpi buruk
+nobility	0	1	0	0	0	0	1	0	0	1	kaum bangsawan
+noble	0	0	0	0	0	0	1	0	0	1	bangsawan
+nobleman	0	0	0	0	0	0	1	0	0	1	bangsawan
+noisy	1	0	0	0	0	1	0	0	0	0	berisik
+noncompliance	1	1	0	1	0	1	0	1	0	0	ketidakpatuhan
+nonsensical	0	0	0	0	0	1	0	1	0	0	tidak masuk akal
+noose	0	0	0	0	0	1	0	1	0	0	jerat
+nose	0	0	1	0	0	0	0	0	0	0	hidung
+notable	0	0	0	0	1	0	1	0	0	1	penting
+notary	0	0	0	0	0	0	0	0	0	1	notaris
+nothingness	0	0	0	0	0	1	0	1	0	0	ketiadaan
+notification	0	1	0	0	0	0	0	0	0	0	pemberitahuan
+notoriety	1	0	1	1	0	1	1	0	0	0	kemasyhuran
+noxious	0	0	1	1	0	1	0	0	0	0	berbahaya
+nuisance	1	0	0	0	0	1	0	0	0	0	gangguan
+nullify	0	0	0	0	0	1	0	0	1	0	membatalkan
+numbness	0	0	0	0	0	1	0	1	0	0	mati rasa
+nun	0	0	0	0	0	1	0	0	0	1	biarawati
+nurse	0	0	0	0	0	0	1	0	0	1	perawat
+nursery	0	0	0	0	1	0	1	0	0	1	kamar bayi
+nurture	1	1	1	1	1	0	1	0	0	1	membina
+oasis	0	1	0	0	1	0	1	0	0	1	oasis
+oath	0	0	0	0	0	0	1	0	0	1	sumpah
+obedience	0	0	0	0	0	0	1	0	0	1	ketaatan
+obese	0	0	1	0	0	1	0	0	0	0	gendut
+obesity	0	0	1	0	0	1	0	1	0	0	kegemukan
+obey	0	0	0	1	0	0	0	0	0	1	mematuhi
+obi	0	0	1	1	0	1	0	0	0	0	obi
+obit	0	0	0	0	0	1	0	1	1	0	tanggal kematian
+obituary	0	0	0	0	0	1	0	1	0	0	berita kematian
+objection	1	0	0	0	0	1	0	0	0	0	keberatan
+objective	0	1	0	0	0	0	1	0	0	1	objektif
+oblige	0	0	0	0	0	1	0	0	0	1	mewajibkan
+obliging	1	1	1	1	1	0	1	0	1	1	mewajibkan
+obligor	0	0	0	1	0	1	0	0	0	0	wajib
+obliterate	1	0	0	1	0	1	0	1	0	0	melenyapkan
+obliterated	1	0	0	1	0	1	0	0	0	0	dilenyapkan
+obliteration	0	0	0	1	0	1	0	1	0	0	penghapusan
+oblivion	1	0	0	1	0	1	0	0	0	0	pelupaan
+obnoxious	1	0	1	0	0	1	0	1	0	0	menjengkelkan
+obscene	0	0	1	0	0	1	0	0	0	0	cabul
+obscenity	1	0	1	0	0	1	0	0	0	0	kecabulan
+obstacle	1	0	0	1	0	1	0	1	0	0	kendala
+obstetrician	0	0	0	0	0	0	0	0	0	1	dokter kandungan
+obstruct	1	0	0	1	0	1	0	0	0	0	menghalangi
+obstructive	1	0	0	0	0	1	0	0	0	0	obstruktif
+obtainable	0	0	0	0	1	0	1	0	0	0	diperoleh
+obvious	0	0	0	0	0	0	1	0	0	1	jelas
+occasional	0	0	0	0	0	0	0	0	1	0	sesekali
+occult	0	0	1	1	0	1	0	0	0	0	gaib
+occupant	0	0	0	0	0	0	1	0	0	1	penghuni
+octopus	0	0	1	0	0	0	0	0	0	0	gurita
+oddity	0	0	1	0	0	1	0	1	1	0	keanehan
+odious	1	0	1	1	0	1	0	0	0	0	menjijikkan
+offend	1	0	1	0	0	1	0	0	0	0	menyinggung
+offended	1	0	0	0	0	1	0	1	0	0	tersinggung
+offender	1	0	1	1	0	1	0	1	0	0	pelanggar
+offense	1	0	1	1	0	1	0	1	0	0	pelanggaran
+offensive	1	0	1	0	0	1	0	0	0	0	menyinggung
+offering	0	0	0	0	0	0	0	0	0	1	menawarkan
+officer	0	0	0	0	0	0	1	0	0	1	petugas
+official	0	0	0	0	0	0	0	0	0	1	resmi
+offset	0	1	0	0	0	0	1	0	0	0	mengimbangi
+ogre	0	0	1	1	0	1	0	0	0	0	raksasa
+olfactory	0	1	0	0	0	1	0	0	0	0	pencium
+omen	0	1	0	1	0	1	0	0	0	0	pertanda
+ominous	0	1	0	1	0	1	0	0	0	0	yg beralamat buruk
+omnipotence	0	0	0	1	0	1	1	0	0	0	kemahakuasaan
+omniscient	0	0	0	0	0	0	1	0	0	1	mahatahu
+onerous	1	0	0	0	0	1	0	1	0	0	berat
+ongoing	0	1	0	0	0	0	0	0	0	0	sedang berlangsung
+onset	0	1	0	0	0	0	0	0	0	0	serangan
+ooze	0	0	1	0	0	1	0	0	0	0	keluar
+opera	1	1	0	1	1	0	1	1	1	1	opera
+operation	0	0	0	1	0	0	0	0	0	1	operasi
+opinionated	1	0	0	0	0	1	0	0	0	0	dogmatis
+opium	1	0	1	1	0	1	0	1	0	0	candu
+opponent	1	1	1	1	0	1	0	0	0	0	lawan
+opportune	0	0	0	0	1	0	1	0	0	0	tepat
+opportunity	0	1	0	0	0	0	1	0	0	0	peluang
+opposed	1	0	0	1	0	1	0	0	0	0	menentang
+opposition	1	0	0	0	0	1	0	0	0	0	berlawanan
+oppress	1	0	1	1	0	1	0	1	0	0	menindas
+oppression	1	0	1	1	0	1	0	1	0	0	penindasan
+oppressive	1	0	1	1	0	1	0	1	0	0	menindas
+oppressor	1	0	0	1	0	1	0	1	0	0	penindas
+optimism	0	1	0	0	1	0	1	0	1	1	optimisme
+optimist	0	0	0	0	0	0	1	0	0	1	optimis
+oracle	0	1	0	0	0	0	1	0	0	1	peramal
+orc	1	0	1	1	0	1	0	0	0	0	orc
+orchestra	1	0	0	0	1	0	1	1	0	1	orkestra
+ordained	0	0	0	0	0	0	1	0	0	1	ditahbiskan
+ordeal	1	0	0	0	0	1	0	0	1	0	siksaan
+ordinance	0	0	0	0	0	0	0	0	0	1	peraturan
+ordination	0	1	0	0	1	0	1	0	0	1	pentahbisan
+ordnance	0	0	0	1	0	1	0	0	0	0	artileri
+organ	0	1	0	0	1	0	0	0	0	0	organ
+organization	0	1	0	0	1	0	1	0	1	1	organisasi
+orgasm	0	1	0	0	1	0	1	0	0	0	orgasme
+originality	0	0	0	0	0	0	1	0	1	0	keaslian
+orphan	0	0	0	1	0	1	0	1	0	0	anak yatim
+orthodoxy	0	0	0	0	0	0	0	0	0	1	ortodoksi
+oust	1	0	0	0	0	1	0	1	0	0	mengusir
+outburst	1	0	0	1	1	1	1	1	1	0	ledakan
+outcast	0	0	1	1	0	1	0	1	0	0	orang buangan
+outcry	1	0	0	1	0	1	0	0	1	0	teriakan
+outdo	0	1	0	0	0	0	1	0	0	0	mengalahkan
+outhouse	0	0	1	0	0	1	0	0	0	0	kakus
+outpost	0	0	0	1	0	0	0	0	0	0	pos terdepan
+outrage	1	0	1	0	0	1	0	0	0	0	kebiadaban
+outrageous	0	0	0	0	0	0	0	0	1	0	memalukan
+outsider	0	0	0	1	0	0	0	0	0	0	orang luar
+outstanding	0	0	0	0	1	1	1	0	0	0	luar biasa
+ovation	0	0	0	0	0	1	0	1	0	0	tepuk tangan
+overbearing	1	0	0	0	0	1	0	0	0	0	sombong
+overdue	0	1	0	0	0	1	0	1	1	0	terlambat
+overestimate	0	0	0	0	0	0	0	0	1	0	menaksir terlalu tinggi
+overjoyed	0	0	0	0	1	0	1	0	0	0	sangat gembira
+overload	0	0	0	0	0	1	0	1	0	0	kelebihan muatan
+overpowering	1	0	0	1	0	1	0	0	0	0	sangat kuat
+overpriced	1	0	1	0	0	1	0	1	0	0	terlalu mahal
+overt	0	0	0	1	0	0	0	0	0	0	terbuka
+overthrow	0	1	0	1	0	1	0	0	0	0	menggulingkan
+overture	0	1	0	0	0	0	0	0	0	0	tawaran
+overwhelmed	0	0	0	0	0	1	0	1	0	0	kewalahan
+owing	1	1	1	1	0	1	0	1	0	1	yg berhutang
+pact	0	0	0	0	0	0	0	0	0	1	pakta
+paddle	0	1	0	0	0	0	1	0	0	0	mendayung
+pain	0	0	0	1	0	1	0	1	0	0	rasa sakit
+pained	0	0	0	1	0	1	0	1	0	0	tersakiti
+painful	1	0	1	1	0	1	0	1	0	0	menyakitkan
+painfully	0	0	0	0	0	1	0	1	0	0	menyakitkan
+palpable	0	0	0	0	0	0	0	0	1	0	jelas
+palsy	0	0	1	1	0	1	0	1	0	0	kelumpuhan
+pandemic	0	0	0	1	0	1	0	1	0	0	pandemi
+pang	0	0	0	0	0	1	0	0	1	0	sakit
+panic	0	0	0	1	0	1	0	0	0	0	panik
+parachute	0	0	0	1	0	0	0	0	0	0	parasut
+parade	0	1	0	1	1	1	1	0	1	0	Parade
+paragon	0	1	0	0	1	0	1	0	0	1	suri teladan
+paralysis	1	1	0	1	0	1	0	1	0	0	kelumpuhan
+paranoia	0	0	0	1	0	1	0	0	0	0	paranoid
+parasite	0	0	1	1	0	1	0	0	0	0	parasit
+pare	1	1	0	1	0	1	0	1	0	0	mengurangi
+parietal	0	0	0	0	0	0	1	0	0	1	parietal
+parish	0	0	0	0	0	0	0	0	0	1	paroki
+parliament	0	0	0	0	0	0	0	0	0	1	parlemen
+parole	0	1	0	0	0	0	0	0	0	0	pembebasan bersyarat
+parrot	0	0	1	0	0	1	0	0	0	0	burung beo
+partake	0	0	0	0	0	0	1	0	0	1	mengambil bagian
+parting	0	0	0	0	0	0	0	1	0	0	perpisahan
+partnership	0	0	0	0	0	0	1	0	0	1	kemitraan
+passenger	0	1	0	0	0	0	0	0	0	0	penumpang
+passion	0	1	0	0	1	0	1	0	0	1	gairah
+passionate	0	1	0	0	1	0	1	0	0	1	penuh semangat
+pastor	0	0	0	0	1	0	1	0	0	1	pendeta
+pastry	0	0	0	0	1	0	1	0	0	0	kue-kue
+pathetic	0	0	1	0	0	1	0	1	0	0	menyedihkan
+patience	0	1	0	0	0	0	1	0	0	1	kesabaran
+patient	0	1	0	0	0	0	1	0	0	0	pasien
+patriarchal	0	0	0	0	0	0	1	0	0	1	patriarkhal
+patrol	0	0	0	0	0	0	0	0	0	1	patroli
+patron	0	0	0	0	0	0	1	0	0	1	pelindung
+patronage	0	0	0	0	0	0	1	0	0	1	perlindungan
+patter	1	0	0	0	0	1	0	0	0	0	rintik
+paucity	1	0	1	0	0	1	0	1	0	0	kekurangan
+pauper	0	0	0	0	0	1	0	1	0	0	orang miskin
+pavement	0	0	0	0	0	0	0	0	0	1	trotoar
+pawn	0	0	0	0	0	1	0	0	0	1	bidak
+pay	0	1	0	0	1	0	1	0	0	1	membayar
+payback	1	0	0	0	0	1	0	0	0	0	pengembalian
+peace	0	1	0	0	1	0	1	0	0	1	perdamaian
+peaceful	0	1	0	0	1	0	1	0	1	1	tenang
+pedigree	0	0	0	0	0	0	1	0	0	1	silsilah
+penal	0	0	0	1	0	1	0	1	0	0	hukuman
+penalty	1	0	0	1	0	1	0	1	0	0	penalti
+penance	0	0	0	1	0	0	0	1	0	0	penebusan dosa
+penetration	1	0	0	1	0	1	0	0	0	0	penetrasi
+penitentiary	1	0	0	0	0	1	0	0	0	0	penjara
+pensive	0	0	0	0	0	0	0	1	0	0	termenung
+perceive	0	0	0	0	0	0	1	0	0	1	melihat
+perchance	0	0	0	0	0	0	0	0	1	0	barangkali
+perdition	1	0	1	1	0	1	0	1	0	0	kebinasaan
+perennial	0	0	0	0	0	0	1	0	0	1	abadi
+perfect	0	1	0	0	1	0	1	0	0	1	sempurna
+perfection	0	1	0	0	1	0	1	0	1	1	kesempurnaan
+peri	0	0	0	0	0	0	0	0	1	0	peri
+peril	0	1	0	1	0	1	0	1	0	0	bahaya
+perilous	0	1	0	1	0	1	0	1	0	0	berbahaya
+periodicity	0	0	0	0	0	0	0	0	0	1	periodisitas
+perish	0	0	0	1	0	1	0	1	0	0	tewas
+perished	0	0	0	0	0	1	0	1	0	0	binasa
+perishing	0	0	0	1	0	1	0	1	0	0	binasa
+perjury	0	0	0	1	0	1	0	0	1	0	sumpah palsu
+pernicious	1	0	0	1	0	1	0	1	0	0	jahat
+perpetrator	1	0	1	1	0	1	0	1	0	0	pelaku
+perpetuate	0	1	0	0	0	0	0	0	0	0	mengabadikan
+perpetuity	0	1	0	0	0	0	1	0	0	1	kelangsungan
+perplexity	0	0	0	0	0	1	0	1	0	0	kebingungan
+persecute	1	0	0	1	0	1	0	0	0	0	menganiaya
+persecution	1	0	1	1	0	1	0	1	0	0	penganiayaan
+personal	0	0	0	0	0	0	0	0	0	1	pribadi
+perspiration	0	0	1	0	0	0	0	0	0	0	keringat
+persuade	0	0	0	0	0	0	0	0	0	1	membujuk
+pertinent	0	0	0	0	0	0	1	0	0	1	bersangkutan
+perturbation	0	0	0	1	0	1	0	0	0	0	gangguan
+perverse	1	0	1	1	0	1	0	0	0	0	jahat
+perversion	1	0	1	0	0	1	0	1	0	0	pemutarbalikan
+pervert	1	0	1	0	0	1	0	0	0	0	orang cabul
+perverted	0	0	1	0	0	1	0	0	0	0	sesat
+pessimism	1	0	0	1	0	1	0	1	0	0	pesimisme
+pessimist	0	0	0	1	0	1	0	1	0	0	pesimis
+pest	1	0	1	1	0	1	0	0	0	0	hama
+pestilence	0	0	1	1	0	1	0	0	0	0	sampar
+petroleum	0	0	1	0	0	1	1	0	0	0	minyak bumi
+phalanx	0	0	0	1	0	0	0	0	0	1	ruas
+phantom	0	0	0	1	0	1	0	0	0	0	hantu
+philanthropic	0	0	0	0	0	0	0	0	0	1	dermawan
+philanthropist	0	0	0	0	0	0	1	0	0	1	dermawan
+philosopher	0	0	0	0	0	0	1	0	0	1	filsuf
+phlegm	0	0	1	0	0	1	0	0	0	0	dahak
+phony	1	0	1	0	0	1	0	0	0	0	palsu
+physician	0	0	0	0	0	0	1	0	0	1	dokter
+physicist	0	0	0	0	0	0	0	0	0	1	fisikawan
+picket	1	1	0	1	0	1	0	0	0	0	piket
+picketing	1	0	0	0	0	1	0	0	0	0	piket
+picnic	0	1	0	0	1	0	1	0	1	1	piknik
+picturesque	0	0	0	0	1	0	1	0	0	0	indah
+pig	0	0	1	0	0	1	0	0	0	0	babi
+piles	0	0	1	0	0	1	0	0	0	0	tumpukan
+pill	0	0	0	0	0	0	1	0	0	1	pil
+pillage	1	0	1	1	0	1	0	0	0	0	menjarah
+pilot	0	0	0	0	0	0	1	0	0	1	pilot
+pimple	0	0	1	0	0	1	0	0	0	0	jerawat
+pine	0	0	0	0	0	1	0	1	0	0	pinus
+pinion	0	0	0	1	0	1	0	0	0	0	sayap
+pious	0	0	1	0	0	0	1	1	0	1	saleh
+pique	1	0	0	0	0	1	0	0	0	0	kekesalan
+pirate	1	0	0	0	0	1	0	0	0	0	bajak laut
+pitfall	1	0	1	1	0	1	0	1	1	0	batu sandungan
+pith	0	0	0	0	0	0	1	0	0	1	intisari
+pity	0	0	0	0	0	0	0	1	0	0	kasihan
+pivot	0	0	0	0	0	0	1	0	0	1	poros
+placard	0	0	0	0	0	0	0	0	1	0	plakat
+plagiarism	0	0	1	0	0	1	0	0	0	0	plagiat
+plague	0	0	1	1	0	1	0	1	0	0	wabah
+plaintive	0	0	0	0	0	0	0	1	0	0	sedih
+plan	0	1	0	0	0	0	0	0	0	0	rencana
+planning	0	1	0	0	0	0	1	0	0	1	perencanaan
+playful	1	0	0	0	1	0	1	0	1	1	ceria
+playground	0	1	0	0	1	0	1	0	1	1	tempat bermain
+playhouse	0	0	0	0	1	0	1	0	0	0	rumah bermain
+plea	0	1	0	1	0	1	0	1	0	0	permohonan
+pleasant	0	1	0	0	1	0	1	0	1	1	menyenangkan
+pleased	0	0	0	0	1	0	1	0	0	0	senang
+pleasurable	0	0	0	0	1	0	1	0	0	0	menyenangkan
+pledge	0	0	0	0	1	0	1	0	0	1	sumpah
+plight	0	1	1	1	0	1	0	1	0	0	keadaan buruk
+plummet	0	0	0	1	0	1	0	0	0	0	jatuh terjerambab
+plump	0	1	0	0	0	0	0	0	0	0	montok
+plunder	1	0	1	1	0	1	0	1	1	0	menjarah
+plunge	0	0	0	1	0	1	0	0	0	0	terjun
+pneumonia	0	0	0	1	0	1	0	0	0	0	radang paru-paru
+poaching	1	0	1	1	0	1	0	1	0	0	perburuan
+pointless	0	0	0	0	0	1	0	1	0	0	tak berarti
+poison	1	0	1	1	0	1	0	1	0	0	racun
+poisoned	1	0	1	1	0	1	0	1	0	0	keracunan
+poisoning	0	0	1	0	0	1	0	0	0	0	peracunan
+poisonous	1	0	1	1	0	1	0	1	0	0	beracun
+poke	0	1	0	0	0	1	0	0	0	0	mencolek
+polarity	0	0	0	0	0	0	0	0	1	0	polaritas
+polemic	1	0	1	0	0	1	0	0	0	0	polemik
+police	0	0	0	1	0	0	1	0	0	1	POLISI
+policeman	0	0	0	1	0	0	1	0	0	1	polisi
+policy	0	0	0	0	0	0	0	0	0	1	aturan
+polio	0	0	0	1	0	1	0	1	0	0	polio
+politic	0	0	1	0	0	0	1	0	0	0	politik
+politics	1	0	0	0	0	0	0	0	0	0	politik
+poll	0	0	0	0	0	0	0	0	0	1	pemilihan
+pollute	0	0	1	0	0	1	0	0	0	0	mengotori
+pollution	0	0	1	0	0	1	0	0	0	0	polusi
+polygamy	0	0	1	0	0	1	0	0	0	0	poligami
+pompous	0	0	1	0	0	1	0	0	0	0	sombong
+pontiff	0	0	0	0	0	0	0	0	0	1	paus
+pop	0	0	0	0	0	1	0	0	1	0	pop
+porn	0	0	1	0	0	1	0	0	0	0	porno
+pornography	0	0	1	0	0	1	0	0	0	0	pornografi
+posse	0	0	0	1	0	0	0	0	0	0	pagar betis
+possess	0	1	0	0	1	0	1	0	0	1	memiliki
+possessed	1	0	1	1	0	1	0	0	0	0	kerasukan
+possession	1	0	1	1	0	1	0	0	0	0	milik
+possibility	0	1	0	0	0	0	0	0	0	0	kemungkinan
+posthumous	0	0	0	0	0	1	0	1	0	0	anumerta
+postponement	0	0	0	0	0	1	0	0	1	0	penundaan
+pound	1	0	0	0	0	1	0	0	0	0	pound
+poverty	1	0	1	1	0	1	0	1	0	0	kemiskinan
+pow	1	0	0	0	0	0	0	0	0	0	pow
+powerful	1	1	1	1	1	0	1	0	0	1	kuat
+powerfully	0	0	0	1	0	0	1	0	0	0	dengan kuat
+powerless	1	0	1	1	0	1	0	1	0	0	tak berdaya
+practiced	0	0	0	0	1	0	1	0	1	1	dipraktekkan
+practise	0	1	0	0	0	0	1	0	0	0	Praktik
+praise	0	0	0	0	1	0	1	0	0	1	memuji
+praised	0	0	0	0	1	0	1	0	0	0	dipuji
+praiseworthy	0	1	0	0	1	0	1	0	1	1	terpuji
+prank	0	0	0	0	0	1	0	0	1	0	lelucon
+pray	0	1	0	1	1	0	1	0	1	1	berdoa
+precarious	0	1	0	1	0	1	0	1	0	0	genting
+precedence	0	0	0	0	0	0	1	0	0	1	hak lebih tinggi
+precious	0	1	0	0	1	0	1	0	1	0	berharga
+precipice	0	0	0	1	0	0	0	0	0	0	jurang
+preclude	1	0	0	0	0	0	0	0	0	0	menghalangi
+precursor	0	1	0	0	0	0	0	0	0	0	pendahulu
+predicament	0	0	0	1	0	1	0	0	0	0	keadaan sulit
+predict	0	1	0	0	0	0	0	0	0	0	meramalkan
+prediction	0	1	0	0	0	0	0	0	0	0	ramalan
+predilection	0	1	0	0	0	0	1	0	0	0	kegemaran
+predispose	0	1	0	0	0	0	0	0	0	0	mempengaruhi
+predominant	0	0	0	0	0	0	1	0	0	1	utama
+prefer	0	0	0	0	0	0	1	0	0	1	lebih menyukai
+pregnancy	0	0	1	0	0	1	0	0	0	0	kehamilan
+prejudice	1	0	0	0	0	1	0	0	0	0	prasangka
+prejudiced	0	0	1	1	0	1	0	0	0	0	berprasangka
+prejudicial	1	0	0	0	0	1	0	0	0	0	merugikan
+preliminary	0	1	0	0	0	0	0	0	0	0	pendahuluan
+premature	0	0	0	0	0	0	0	0	1	0	prematur
+premeditated	0	0	0	1	0	1	0	0	0	0	direncanakan
+preparation	0	1	0	0	0	0	0	0	0	0	persiapan
+preparatory	0	1	0	0	0	0	0	0	0	0	persiapan
+prepare	0	1	0	0	0	0	1	0	0	0	mempersiapkan
+prepared	0	1	0	0	0	0	1	0	0	1	siap
+preparedness	0	1	0	0	0	0	0	0	0	0	kesiapsiagaan
+preponderance	0	0	0	0	0	0	0	0	0	1	jumlah lebih besar
+prerequisite	0	1	0	0	0	0	0	0	0	0	prasyarat
+prescient	0	1	0	0	0	0	1	0	0	0	terus mata
+present	0	1	0	0	1	0	1	0	1	1	hadiah
+preservative	0	1	0	0	1	0	1	0	1	1	pengawet
+prestige	0	0	0	0	1	0	1	0	0	1	prestise
+presto	0	0	0	0	1	0	1	0	1	0	cepat
+presumption	0	0	0	0	0	0	0	0	0	1	anggapan
+presumptuous	1	0	1	0	0	1	0	0	0	0	lancang
+pretending	1	0	0	0	0	1	0	0	0	0	berpura-pura
+pretty	0	1	0	0	1	0	1	0	0	1	cantik
+prevail	0	1	0	0	1	0	1	0	0	0	bertahan
+prevalent	0	0	0	0	0	0	0	0	0	1	lazim
+prevent	0	0	0	1	0	0	0	0	0	0	mencegah
+prevention	0	1	0	0	0	0	1	0	0	0	pencegahan
+prey	0	0	0	1	0	1	0	0	0	0	mangsa
+prick	1	0	1	1	0	1	0	0	1	0	tusukan
+pride	0	0	0	0	1	0	1	0	0	0	kebanggaan
+priest	0	0	0	0	0	0	1	0	0	1	pendeta
+priesthood	0	1	0	0	1	0	1	1	0	1	imamat
+primer	0	0	0	0	0	0	1	0	0	1	primer
+princely	0	1	0	0	1	0	1	0	1	1	seperti bangsawan
+principal	0	0	0	0	0	0	1	0	0	1	Kepala Sekolah
+prison	1	0	0	1	0	1	0	1	0	0	penjara
+prisoner	1	0	1	1	0	1	0	1	0	0	tawanan
+privileged	0	0	0	0	1	0	1	0	0	1	istimewa
+privy	0	0	0	0	0	1	0	0	0	1	rahasia
+probability	0	1	0	0	0	0	0	0	0	0	kemungkinan
+probation	0	1	0	1	0	0	0	1	0	0	masa percobaan
+probity	0	0	0	0	0	0	1	0	0	1	kejujuran
+problem	0	0	0	1	0	1	0	1	0	0	masalah
+procedure	0	0	0	1	0	0	1	0	0	0	prosedur
+proceeding	0	1	0	0	0	0	0	0	0	0	melanjutkan
+procession	0	0	0	0	1	0	1	1	1	0	prosesi
+proctor	0	0	0	0	0	0	1	0	0	1	pengawas
+production	0	1	0	0	0	0	1	0	0	0	produksi
+profane	1	0	0	0	0	1	0	0	0	0	duniawi
+profanity	1	0	0	0	0	1	0	0	0	0	kata-kata kotor
+professional	0	0	0	0	0	0	1	0	0	1	profesional
+professorship	0	0	0	0	0	0	0	0	0	1	jabatan profesor
+proficiency	0	1	0	0	1	0	1	0	1	1	kecakapan
+proficient	0	0	0	0	0	0	1	0	0	1	ahli
+prognosis	0	1	0	1	0	0	0	0	0	0	prognosa
+prognostic	0	1	0	0	0	0	0	0	0	0	prognostik
+progress	0	1	0	0	1	0	1	0	0	0	kemajuan
+progression	0	1	0	0	1	0	1	1	0	1	kemajuan
+prohibited	1	0	1	1	0	1	0	0	0	0	dilarang
+projectile	0	0	0	1	0	0	0	0	0	0	proyektil
+projectiles	0	0	0	1	0	0	0	0	0	0	proyektil
+prologue	0	1	0	0	0	0	0	0	0	0	prolog
+prolong	0	0	1	0	0	1	0	0	0	0	memperpanjang
+promise	0	0	0	0	1	0	1	0	0	1	janji
+proof	0	0	0	0	0	0	0	0	0	1	bukti
+prophecy	0	1	0	0	0	0	0	0	0	0	nubuat
+prophet	0	1	0	0	0	0	1	0	0	1	nabi
+prophetic	0	1	0	0	0	0	0	0	0	0	kenabian
+prophylactic	0	1	0	0	0	0	1	0	0	1	penangkal
+prosecute	1	0	0	1	0	1	0	1	0	0	menuntut
+prosecution	0	0	1	0	0	1	0	0	0	0	penuntutan
+prospectively	0	1	0	0	0	0	0	0	0	0	secara prospektif
+prosper	0	1	0	0	1	0	1	0	0	0	makmur
+prosperous	0	0	0	0	1	0	1	0	0	0	makmur
+prostitute	0	0	1	0	0	1	0	0	0	0	pelacur
+prostitution	0	0	1	0	0	1	0	1	0	0	pelacuran
+protected	0	0	0	0	0	0	0	0	0	1	terlindung
+protecting	0	0	0	0	0	0	1	0	0	1	melindungi
+protector	0	0	0	0	0	0	1	0	0	1	pelindung
+proud	0	1	0	0	1	0	1	0	0	1	bangga
+proven	0	0	0	0	0	0	0	0	0	1	terbukti
+provide	0	0	0	0	0	0	1	0	0	1	menyediakan
+providing	0	1	0	0	1	0	1	0	0	1	menyediakan
+proviso	0	0	0	0	0	0	0	0	0	1	syarat
+provocation	1	0	0	0	0	1	0	0	0	0	provokasi
+provoking	1	0	1	0	0	1	0	0	0	0	memprovokasi
+prowl	0	0	0	1	0	0	0	0	1	0	berkeliaran mencari mangsa
+proxy	0	0	0	0	0	0	0	0	0	1	proxy
+prudent	0	0	0	0	0	0	1	0	0	1	bijaksana
+pry	1	1	0	0	0	1	0	0	0	1	membongkar
+psychosis	1	0	0	1	0	1	0	1	0	0	psikosis
+public	0	1	0	0	0	0	1	0	0	0	publik
+puke	0	0	1	0	0	0	0	0	0	0	muntah
+puma	0	0	0	1	0	0	0	0	1	0	puma
+punch	1	0	0	1	0	1	0	1	1	0	memukul
+punctual	0	1	0	0	0	0	1	0	0	1	tepat waktu
+pungent	0	0	1	0	0	1	0	0	0	0	tajam
+punish	0	0	0	1	0	1	0	0	0	0	menghukum
+punished	1	1	1	1	0	1	0	1	0	0	dihukum
+punishing	1	0	0	1	0	1	0	1	0	0	menghukum
+punishment	1	0	1	1	0	1	0	0	0	0	hukuman
+punitive	1	0	0	1	0	1	0	1	0	0	hukuman
+punt	0	1	0	0	0	0	0	0	0	0	menyepak bola
+puppy	0	1	0	0	0	0	1	0	0	1	anak anjing
+purely	0	0	0	0	0	0	1	0	0	1	murni
+purgatory	0	0	1	1	0	1	0	0	0	0	api penyucian
+purge	0	0	0	1	0	1	0	0	0	0	membersihkan
+purification	0	0	0	0	0	0	1	0	0	1	pemurnian
+purify	0	0	0	0	1	0	1	0	0	1	memurnikan
+purity	0	0	0	0	0	0	1	0	1	0	kemurnian
+purr	0	0	0	0	1	0	1	0	0	1	dengung
+pus	0	0	1	0	0	1	0	0	0	0	nanah
+putative	0	0	0	0	0	0	0	0	0	1	diduga
+quack	0	0	1	0	0	1	0	0	0	0	dukun
+quagmire	0	0	1	0	0	1	0	0	0	0	rawa
+quail	0	0	0	1	0	1	0	0	0	0	Burung puyuh
+quaint	0	0	0	0	1	0	1	0	0	1	aneh
+quake	0	0	0	1	0	0	0	0	0	0	gempa
+qualified	0	0	0	0	0	0	1	0	0	1	memenuhi syarat
+quandary	1	0	0	1	0	1	0	0	0	0	kebingungan
+quarantine	0	0	0	1	0	0	0	0	0	0	karantina
+quarrel	1	0	0	0	0	1	0	0	0	0	pertengkaran
+quash	0	0	0	1	0	1	0	0	0	0	membatalkan
+quest	0	1	0	0	0	0	1	0	0	0	pencarian
+questionable	0	0	1	0	0	1	0	0	0	0	dipertanyakan
+quicken	0	1	0	0	0	0	0	0	0	0	mempercepat
+quickness	0	0	0	0	0	0	1	0	1	0	kecepatan
+quicksilver	0	0	0	0	0	1	0	0	1	0	air raksa
+quiet	0	0	0	0	0	0	1	1	0	0	diam
+quiver	0	0	0	1	0	1	0	0	0	0	gemetar
+quivering	0	0	0	1	0	1	0	0	0	0	gemetaran
+quote	0	1	0	0	0	1	1	0	1	0	mengutip
+rabble	1	0	0	1	0	1	0	0	0	0	rakyat jelata
+rabid	1	1	1	1	0	1	0	1	0	0	fanatik
+rack	0	0	0	0	0	1	0	1	0	0	rak
+radar	0	0	0	0	0	0	0	0	0	1	radar
+radiance	0	1	0	0	1	0	1	0	0	1	cahaya
+radiant	0	0	0	0	1	0	1	0	0	0	berseri
+radiation	0	0	0	1	0	1	0	0	0	0	radiasi
+radioactive	0	0	0	1	0	1	0	0	0	0	radioaktif
+radon	0	0	0	1	0	1	0	0	0	0	radon
+raffle	0	1	0	0	0	0	0	0	1	0	mengundi
+rage	1	0	0	0	0	1	0	0	0	0	kemarahan
+raging	1	0	1	1	0	1	0	0	0	0	hebat
+rags	0	0	1	0	0	1	0	0	0	0	kain
+raid	1	0	0	1	0	1	0	0	1	0	serangan
+rail	1	1	0	0	0	1	0	0	0	0	rel
+rainy	0	0	0	0	0	0	0	1	0	0	hujan
+ram	1	1	0	0	0	1	0	0	0	0	ram
+rampage	1	0	0	1	0	1	0	0	0	0	mengamuk
+rancid	0	0	1	0	0	1	0	0	0	0	tengik
+randomly	0	0	0	0	0	0	0	0	1	0	secara acak
+ranger	0	0	0	0	0	0	0	0	0	1	penjaga hutan
+ransom	1	0	0	1	0	1	0	0	0	0	tebusan
+rape	1	0	1	1	0	1	0	1	0	0	memperkosa
+rapid	0	0	0	0	0	0	0	0	1	0	cepat
+rapping	1	0	0	0	0	0	0	0	0	0	nge-rap
+rapt	0	0	0	0	1	0	1	0	1	1	penuh
+raptors	0	0	0	1	0	1	0	0	0	0	burung raptor
+rapture	0	1	0	0	1	0	1	0	0	0	kegairahan
+rarity	0	0	0	0	0	0	0	0	1	0	keanehan
+rascal	1	0	1	1	0	1	0	0	0	0	bajingan
+rash	0	0	1	0	0	1	0	0	0	0	ruam
+rat	0	0	1	1	0	1	0	0	0	0	tikus
+ratify	0	0	0	0	0	0	0	0	0	1	mengesahkan
+rating	1	0	0	1	0	1	0	1	0	0	peringkat
+rational	0	0	0	0	0	0	1	0	0	1	rasional
+rattlesnake	0	0	0	1	0	0	0	0	0	0	ular derik
+rave	1	0	1	0	1	1	1	0	1	1	sambutan hangat
+ravenous	1	0	0	1	0	1	0	1	0	0	sangat lapar
+ravine	0	0	0	1	0	0	0	0	0	0	jurang
+raving	1	1	0	1	1	1	0	0	1	0	ocehan
+razor	0	0	0	1	0	0	0	0	0	0	pisau cukur
+react	1	0	0	1	0	0	0	0	0	0	reaksi
+readiness	0	1	0	0	1	0	1	0	0	1	kesiapan
+ready	0	1	0	0	0	0	0	0	0	0	siap
+real	0	0	0	0	0	0	1	0	0	1	nyata
+reappear	0	0	0	0	0	0	0	0	1	0	muncul lagi
+reassurance	0	0	0	0	0	0	1	0	0	1	kepastian
+reassure	0	0	0	0	0	0	1	0	0	1	meyakinkan
+rebel	1	0	0	1	0	1	0	0	0	0	pemberontak
+rebellion	1	0	1	1	0	0	0	0	0	0	pemberontakan
+recalcitrant	1	0	1	0	0	1	0	0	0	0	bandel
+receiving	0	1	0	0	1	0	1	0	1	0	menerima
+recesses	0	0	0	1	0	0	0	0	0	0	relung
+recession	1	0	1	1	0	1	0	1	0	0	resesi
+recidivism	1	0	1	0	0	1	0	1	0	0	kepulangan sakit
+recipient	0	1	0	0	0	0	0	0	0	0	penerima
+reckless	1	0	0	1	0	1	0	0	0	0	ceroboh
+recklessness	1	0	1	1	0	1	0	0	1	0	kenekatan
+recline	0	0	0	0	0	0	1	0	0	1	berbaring
+recognizable	0	1	0	0	0	0	1	0	0	0	dikenali
+recombination	0	1	0	0	0	0	0	0	0	0	rekombinasi
+recommend	0	0	0	0	0	0	1	0	0	1	menyarankan
+reconciliation	0	1	0	0	1	0	1	0	0	1	rekonsiliasi
+reconsideration	0	0	0	0	0	0	1	0	0	1	pertimbangan kembali
+reconstruct	0	1	0	0	0	0	1	0	0	0	merekonstruksi
+reconstruction	0	1	0	0	0	0	1	0	0	0	rekonstruksi
+recreation	0	1	0	0	1	0	1	0	0	0	rekreasi
+recreational	0	1	0	0	1	0	1	0	0	0	rekreasi
+recruits	0	0	0	0	0	0	0	0	0	1	merekrut
+recurrent	0	1	0	0	0	0	0	0	0	0	berulang
+referee	0	0	0	0	0	0	0	0	0	1	wasit
+reflex	0	0	0	0	0	0	0	0	1	0	refleks
+reflux	0	0	1	0	0	1	0	0	0	0	surutnya
+refugee	0	0	0	0	0	0	0	1	0	0	pengungsi
+refused	0	0	0	0	0	1	0	1	0	0	menolak
+refutation	0	0	0	1	0	0	0	0	0	0	sanggahan
+regal	0	0	0	0	0	0	1	0	0	1	megah
+regatta	0	1	0	0	0	0	0	0	0	0	lomba layar
+regiment	0	0	0	1	0	0	0	0	0	0	resimen
+registry	0	0	0	0	0	0	0	0	0	1	pendaftaran
+regret	0	0	0	0	0	1	0	1	0	0	menyesali
+regrettable	0	0	0	0	0	1	0	1	0	0	disesalkan
+regretted	0	0	0	0	0	1	0	1	0	0	menyesal
+regretting	0	0	0	0	0	1	0	1	0	0	menyesal
+regularity	0	1	0	0	0	0	1	0	0	1	keteraturan
+regulatory	0	0	0	1	0	1	0	0	0	0	peraturan
+regurgitation	0	0	1	0	0	0	0	0	0	0	regurgitasi
+rehabilitation	0	1	0	0	0	0	1	0	0	0	rehabilitasi
+reimbursement	0	0	0	0	0	0	1	0	0	1	pengembalian
+reinforcement	0	0	0	0	0	0	1	0	0	1	bala bantuan
+reinforcements	0	0	0	0	0	0	0	0	0	1	bala bantuan
+reject	1	0	0	1	0	1	0	1	0	0	menolak
+rejection	1	0	1	1	0	1	0	1	0	0	penolakan
+rejects	1	0	0	1	0	1	0	1	0	0	menolak
+rejoice	0	1	0	0	1	0	1	0	1	1	bersuka cita
+rejoicing	0	1	0	0	1	0	1	0	1	0	kegembiraan
+rekindle	0	1	0	1	1	1	1	0	1	0	menghidupkan
+relapse	0	0	0	1	0	1	0	1	0	0	kambuh
+related	0	0	0	0	0	0	0	0	0	1	terkait
+relative	0	0	0	0	0	0	0	0	0	1	relatif
+relevant	0	0	0	0	0	0	1	0	0	1	relevan
+reliability	0	0	0	0	0	0	1	0	0	1	keandalan
+reliable	0	0	0	0	0	0	1	0	0	1	dapat diandalkan
+reliance	0	0	0	0	0	0	1	0	0	1	kepercayaan
+relics	0	0	0	0	0	0	0	1	0	0	peninggalan
+religion	0	0	0	0	0	0	0	0	0	1	agama
+reluctant	0	0	0	1	0	1	0	0	0	0	enggan
+remains	0	0	1	1	0	1	1	0	0	1	tetap
+remand	1	0	0	0	0	1	0	0	0	0	mengembalikan ke penjara
+remarkable	0	0	0	0	1	0	1	0	1	1	luar biasa
+remedy	0	1	0	0	1	0	1	0	0	1	memperbaiki
+remiss	1	0	1	0	0	1	0	1	0	0	lalai
+remorse	0	0	0	0	0	1	0	1	0	0	penyesalan
+remove	1	0	0	1	0	1	0	1	0	0	menghapus
+renegade	1	0	0	0	0	1	0	0	0	0	pengkhianat
+renounce	1	0	0	0	0	1	0	0	0	0	meninggalkan
+renovate	0	1	0	0	0	0	1	0	0	0	merenovasi
+renovation	0	1	0	0	1	0	1	0	0	0	renovasi
+reparation	0	0	0	0	0	0	1	0	0	1	ganti rugi
+repay	1	1	0	0	1	0	1	0	0	1	membayar kembali
+repellant	0	0	1	1	0	1	0	0	0	0	penolak
+repellent	1	0	1	1	0	1	0	0	0	0	penolak
+repelling	0	0	1	0	0	1	0	0	0	0	memukul mundur
+repent	0	0	0	1	0	0	1	0	0	0	menyesali
+reporter	0	0	0	0	0	0	1	0	0	1	reporter
+representing	0	1	0	0	0	0	0	0	0	0	mewakili
+repress	0	0	0	0	0	1	0	1	0	0	menekan
+repression	0	0	0	1	0	1	0	0	0	0	represi
+reprimand	1	0	0	0	0	1	0	0	0	0	teguran
+reprisal	1	0	0	1	0	1	0	1	0	0	pembalasan
+reproach	1	0	1	0	0	1	0	1	0	0	mencela
+reproductive	0	0	0	0	1	0	1	0	0	0	reproduksi
+repudiation	1	0	1	0	0	1	0	0	0	0	penolakan
+repulsion	0	0	1	1	0	1	0	0	0	0	penolakan
+reputable	0	0	0	0	0	0	1	0	0	1	terkemuka
+requiem	0	0	0	0	0	0	0	1	0	0	requiem
+rescue	0	1	0	0	1	0	1	0	1	1	menyelamatkan
+resection	0	0	0	1	0	0	0	0	0	0	reseksi
+resent	1	0	0	0	0	1	0	0	0	0	membenci
+resentful	1	0	0	0	0	1	0	0	0	0	marah
+resentment	1	0	1	0	0	1	0	1	0	0	kebencian
+resign	1	0	1	1	0	1	0	1	0	0	berhenti
+resignation	0	0	0	0	0	1	0	1	1	0	pengunduran diri
+resigned	0	0	0	0	0	1	0	1	0	0	mengundurkan diri
+resistance	1	0	0	0	0	1	0	0	0	0	perlawanan
+resistant	0	0	0	1	0	1	0	0	0	0	tahan
+resisting	1	0	0	1	0	1	0	1	0	0	menolak
+resources	0	0	0	0	1	0	1	0	0	1	sumber daya
+respect	0	1	0	0	1	0	1	0	0	1	menghormati
+respectable	0	0	0	0	0	0	1	0	0	1	terhormat
+respectful	0	0	0	0	0	0	1	0	0	1	hormat
+respects	0	0	0	0	0	0	1	0	0	1	hormat
+respite	0	0	0	0	1	0	1	0	0	1	tangguh
+resplendent	0	0	0	0	1	0	1	0	0	0	megah
+responsible	0	0	0	0	0	0	1	0	0	1	bertanggung jawab
+responsive	0	1	0	0	0	0	1	0	0	1	responsif
+restitution	1	0	0	0	0	0	1	0	0	0	restitusi
+restlessness	0	1	0	0	0	0	0	0	0	0	kegelisahan
+restorative	0	1	0	0	1	0	1	0	0	1	restoratif
+restrain	1	0	0	1	0	1	0	0	0	0	menahan
+restrained	0	0	0	1	0	0	0	0	0	0	terkendali
+restrict	0	0	0	0	0	1	0	1	0	0	membatasi
+restriction	1	0	0	1	0	1	0	1	0	0	larangan
+result	0	1	0	0	0	0	0	0	0	0	hasil
+resultant	0	1	0	0	0	0	0	0	0	0	yg dihasilkan
+retain	0	0	0	0	0	0	0	0	0	1	mempertahankan
+retaliate	1	0	0	0	0	1	0	0	0	0	membalas
+retaliation	1	0	0	1	0	1	0	0	0	0	pembalasan
+retaliatory	1	0	0	0	0	1	0	0	0	0	pembalasan
+retard	0	0	1	1	0	1	0	1	0	0	memperlambat
+reticent	0	0	0	1	0	1	0	0	0	0	segan
+retirement	0	1	0	1	1	1	1	1	0	1	masa pensiun
+retract	1	0	0	0	0	1	0	0	0	0	menarik
+retrenchment	0	0	0	1	0	1	0	0	0	0	penghematan
+retribution	1	0	0	1	0	1	0	1	0	0	retribusi
+reunion	0	1	0	0	0	0	1	0	0	1	reuni
+revel	0	0	0	0	1	0	1	0	0	0	bersenang-senang
+revels	0	0	0	0	1	0	1	0	0	0	bersenang-senang
+revenge	1	1	0	1	0	1	0	0	1	0	pembalasan dendam
+revere	0	1	0	0	1	0	1	0	0	1	memuja
+reverence	0	0	0	0	1	0	1	0	0	1	menghormati
+reverend	0	0	0	0	1	0	1	0	0	0	pendeta
+reverie	0	0	0	0	1	0	1	0	0	1	lamunan
+reversal	1	0	1	0	0	1	0	0	1	0	kemunduran
+revival	0	1	0	0	1	0	1	0	0	1	kebangkitan
+revive	0	1	0	0	0	1	1	0	0	0	membangkitkan
+revoke	1	0	1	1	0	1	0	1	0	0	menarik kembali
+revolt	1	0	0	0	0	1	0	0	1	0	memberontak
+revolting	1	0	1	1	0	1	0	0	0	0	menjijikkan
+revolution	1	1	0	1	0	1	1	1	1	0	revolusi
+revolver	1	0	0	1	0	1	0	1	0	0	pistol
+revulsion	1	0	1	1	0	1	0	0	0	0	perubahan
+reward	0	1	0	0	1	0	1	0	1	1	Penghargaan
+rheumatism	1	0	0	1	0	1	0	1	0	0	reumatik
+rhythmical	0	0	0	0	1	0	1	0	1	0	berirama
+ribbon	1	1	0	0	1	0	1	0	0	0	pita
+riddle	0	0	0	0	0	0	0	0	1	0	teka-teki
+ridicule	1	0	1	0	0	1	0	1	0	0	ejekan
+ridiculous	1	0	1	0	0	1	0	0	0	0	konyol
+rifle	1	0	0	1	0	1	0	0	0	0	senapan
+rigor	0	0	1	1	0	1	0	0	0	0	kekakuan
+ringer	1	0	0	0	0	1	0	0	0	0	dering
+riot	1	0	0	1	0	1	0	0	0	0	kerusuhan
+riotous	1	0	0	1	0	1	0	0	1	0	liar
+ripen	0	1	0	0	0	0	1	0	0	0	mematangkan
+rising	0	1	0	0	1	0	1	0	0	0	kenaikan
+risk	0	1	0	1	0	1	0	0	0	0	mempertaruhkan
+risky	0	1	0	1	0	1	0	0	0	0	berisiko
+rivalry	1	0	0	0	0	1	0	0	0	0	persaingan
+roadster	0	0	0	0	1	0	1	0	0	1	roadster
+rob	1	0	1	1	0	1	0	1	0	0	rampok
+robber	0	0	1	1	0	1	0	0	0	0	perampok
+robbery	1	0	1	1	0	1	0	1	0	0	perampokan
+rocket	1	0	0	0	0	0	0	0	0	0	roket
+rod	0	0	0	1	0	0	1	0	0	1	tongkat
+rogue	0	0	1	0	0	1	0	0	0	0	penipu
+rollicking	0	0	0	0	1	0	1	0	0	0	bersuka ria
+romance	0	1	0	1	1	0	1	1	1	1	percintaan
+romantic	0	1	0	0	1	0	1	0	0	1	romantis
+romanticism	0	0	0	0	1	0	1	0	0	0	romantisme
+romp	0	0	0	0	1	0	1	0	0	0	bergelut
+rook	1	0	1	0	0	1	0	0	0	0	benteng
+rooted	0	0	0	0	0	0	1	0	0	1	berakar
+rot	0	0	1	1	0	1	0	1	0	0	membusuk
+rota	0	0	0	0	0	0	1	0	0	1	giliran
+rotting	0	0	1	0	0	1	0	0	0	0	membusuk
+roulette	0	1	0	0	0	0	0	0	0	0	rolet
+routine	0	0	0	0	0	0	1	0	0	1	rutin
+row	1	0	0	0	0	1	0	0	0	0	baris
+rubbish	0	0	1	0	0	1	0	0	0	0	sampah
+rubble	0	0	0	1	0	1	0	1	0	0	puing
+rue	0	0	0	0	0	1	0	1	0	0	menyesali
+ruin	0	0	0	1	0	1	0	1	0	0	kehancuran
+ruined	1	0	1	1	0	1	0	1	0	0	hancur
+ruinous	1	0	1	1	0	1	0	1	0	0	merusak
+rule	0	0	0	1	0	0	0	0	0	1	aturan
+rumor	0	0	0	0	0	1	0	1	0	0	isu
+runaway	0	0	0	0	0	1	0	1	0	0	melarikan diri
+rupture	0	0	0	1	0	1	0	1	1	0	pecah
+ruthless	1	0	1	1	0	1	0	0	0	0	kejam
+saber	1	0	0	1	0	1	0	0	0	0	pedang
+sabotage	1	0	1	1	0	1	0	1	1	0	sabotase
+sacrifices	0	0	1	1	0	1	0	1	0	0	pengorbanan
+sadly	0	0	0	0	0	1	0	1	0	0	dengan sedih
+sadness	0	0	0	0	0	1	0	1	0	1	kesedihan
+safe	0	0	0	0	1	0	1	0	0	1	aman
+safeguard	0	0	0	0	0	0	1	0	0	1	menjaga
+safekeeping	0	0	0	0	0	0	0	0	0	1	diamankan
+sag	0	0	0	1	0	1	0	0	0	0	melengkung
+sage	0	0	0	0	0	0	1	0	0	1	Sage
+saint	0	1	0	0	1	0	1	0	1	1	santo
+saintly	0	1	0	0	1	0	1	0	1	1	suci
+salary	0	1	0	0	1	0	1	0	0	1	gaji
+saliva	0	1	0	0	0	0	0	0	0	0	air liur
+sally	0	0	0	0	0	0	0	0	1	0	sally
+saloon	1	0	0	0	0	0	0	0	0	0	bar
+salutary	0	0	0	0	1	0	1	0	0	1	bermanfaat
+salute	0	0	0	0	1	0	1	0	0	0	salut
+salvation	0	1	0	0	1	0	1	0	0	1	penyelamatan
+samurai	0	0	0	1	0	0	1	0	0	0	samurai
+sanctification	0	0	0	0	1	0	1	0	0	1	pengudusan
+sanctify	0	1	0	0	1	0	1	1	1	1	menguduskan
+sanctuary	0	1	0	0	1	0	1	0	0	1	suaka
+sap	0	0	0	0	0	1	0	1	0	0	getah
+sappy	0	0	0	0	0	0	0	0	0	1	berdaya
+sarcasm	1	0	1	0	0	1	0	1	0	0	sarkasme
+sarcoma	0	0	0	1	0	1	0	1	0	0	sarkoma
+satanic	1	0	0	0	0	1	0	0	0	0	setan
+satisfied	0	0	0	0	1	0	1	0	0	0	puas
+saturated	0	0	1	0	0	1	0	0	0	0	jenuh
+savage	1	0	0	1	0	1	0	0	0	0	Kejam
+savagery	1	0	0	1	0	1	0	0	0	0	kebiadaban
+save	0	0	0	0	1	0	1	0	0	1	menyimpan
+savor	0	1	1	0	1	0	1	1	0	1	menikmati
+scaffold	0	0	0	1	0	1	0	0	0	0	perancah
+scalpel	0	0	0	1	0	1	0	0	0	0	pisau bedah
+scandal	0	0	0	1	0	1	0	0	0	0	skandal
+scandalous	1	0	0	0	0	1	0	0	0	0	memalukan
+scapegoat	1	0	0	1	0	1	0	0	0	0	kambing hitam
+scar	1	0	1	1	0	1	0	1	0	0	bekas luka
+scarce	0	0	0	1	0	1	0	1	0	0	langka
+scarcely	0	0	0	0	0	1	0	1	0	0	hampir tidak
+scarcity	1	0	0	1	0	1	0	1	0	0	kelangkaan
+scare	1	1	0	1	0	1	0	0	1	0	ketakutan
+scarecrow	0	0	0	1	0	1	1	0	0	0	orang-orangan sawah
+sceptical	0	0	0	0	0	0	0	0	0	1	skeptis
+schism	1	0	0	0	0	1	0	0	0	0	perpecahan
+schizophrenia	1	0	1	1	0	1	0	1	0	0	skizofrenia
+scholarship	0	0	0	0	1	0	1	0	0	0	beasiswa
+scientific	0	0	0	0	0	0	1	0	0	1	ilmiah
+scientist	0	1	0	0	0	0	1	0	0	1	ilmuwan
+scoff	1	0	1	0	0	1	0	0	0	0	mencemoohkan
+scold	1	0	1	1	0	1	0	1	0	0	memarahi
+scolding	1	0	0	0	0	1	0	0	0	0	omelan
+scorching	1	0	0	0	0	1	0	0	0	0	terik
+score	0	1	0	0	1	0	1	0	1	0	skor
+scorn	1	0	0	0	0	1	0	0	0	0	cemooh
+scorpion	1	0	1	1	0	1	0	0	1	0	kalajengking
+scoundrel	1	0	1	1	0	1	0	0	0	1	bajingan
+scourge	1	0	0	1	0	1	0	1	0	0	momok
+scrapie	1	0	0	1	0	1	0	1	0	0	scrapie
+scream	1	0	1	1	0	1	0	0	1	0	berteriak
+screaming	1	0	1	1	0	1	0	0	0	0	teriakan
+screech	0	0	0	1	0	1	0	0	1	0	memekik
+screwed	1	0	0	0	0	1	0	0	0	0	kacau
+scrimmage	0	0	0	0	0	1	0	0	1	0	pergumulan
+scripture	0	0	0	0	0	0	0	0	0	1	kitab suci
+scrub	0	0	1	0	0	1	0	0	0	0	menggosok
+scrutinize	0	1	0	0	0	1	0	0	0	0	meneliti
+scum	0	0	1	0	0	1	0	0	0	0	sampah
+seal	0	0	0	0	0	0	1	0	0	1	segel
+seals	0	0	0	0	0	0	0	0	0	1	segel
+secluded	0	0	0	0	0	1	0	1	0	0	terpencil
+seclusion	0	0	0	1	0	1	1	0	0	0	pengasingan
+secrecy	0	0	0	0	0	0	0	0	1	1	kerahasiaan
+secret	0	0	0	0	0	0	0	0	0	1	rahasia
+secrete	0	0	1	0	0	0	0	0	0	0	mengeluarkan
+secretion	0	0	1	0	0	1	0	0	0	0	sekresi
+sectarian	1	0	0	1	0	1	0	0	0	0	sektarian
+secular	0	1	0	0	0	0	0	0	0	0	sekuler
+securities	0	0	0	0	0	0	0	0	0	1	surat berharga
+sedition	1	0	0	0	0	1	0	1	0	0	hasutan
+seductive	0	1	0	0	0	0	0	0	0	0	yg menggiurkan
+seek	0	1	0	0	0	0	0	0	0	0	mencari
+segregate	1	0	1	0	0	1	0	1	0	0	memisahkan
+seize	0	0	0	1	0	1	0	0	0	0	menangkap
+seizure	0	0	0	1	0	0	0	0	0	0	penangkapan
+selfish	1	0	1	0	0	1	0	0	0	0	egois
+senate	0	0	0	0	0	0	0	0	0	1	senat
+senile	0	0	0	1	0	1	0	1	0	0	pikun
+seniority	0	0	0	0	0	0	1	0	0	1	senioritas
+sensational	0	0	0	0	1	0	1	0	0	0	sensasional
+senseless	1	0	1	1	0	1	0	1	1	0	bodoh
+sensual	0	1	0	0	1	1	1	0	1	1	sensual
+sensuality	0	1	0	0	1	0	1	0	0	0	sensualitas
+sensuous	0	0	0	0	1	0	1	0	0	0	sensual
+sentence	1	1	1	1	0	1	0	1	0	0	kalimat
+sentinel	0	0	0	0	0	0	1	0	0	1	penjaga
+sentry	0	0	0	0	0	0	0	0	0	1	penjaga
+separatist	1	0	1	0	0	1	0	0	0	0	separatis
+sepsis	0	0	0	1	0	1	0	1	0	0	sepsis
+septic	0	0	1	0	0	1	0	0	0	0	septik
+sequel	0	1	0	0	0	0	0	0	0	0	sekuel
+sequestration	0	0	0	0	0	1	0	1	0	0	sekuestrasi
+serene	0	0	0	0	0	1	0	0	0	1	tenang
+serenity	0	1	0	0	1	0	1	0	0	1	ketenangan
+serial	0	1	0	0	0	0	0	0	0	0	serial
+series	0	0	0	0	0	0	0	0	0	1	seri
+seriousness	0	0	0	1	0	0	0	1	0	0	keseriusan
+sermon	0	0	0	0	0	0	1	0	0	1	khotbah
+serpent	0	0	1	1	0	1	0	0	0	0	ular
+servant	0	0	0	0	0	1	0	0	0	1	pelayan
+serve	0	0	0	0	0	1	0	0	0	1	melayani
+servile	0	0	1	1	0	1	0	1	0	0	seperti budak
+setback	0	0	0	0	0	1	0	1	0	0	kemunduran
+settlor	0	0	0	1	0	0	1	0	0	0	pemukim
+severance	0	0	0	0	0	0	0	1	0	0	pemutusan
+sewage	0	0	1	0	0	1	0	0	0	0	penyaluran pecomberan
+sewer	0	0	1	0	0	0	0	0	0	0	selokan
+sewerage	0	0	1	0	0	1	0	0	0	0	saluran pembuangan
+sex	0	1	0	0	1	0	1	0	0	1	seks
+shabby	0	0	1	0	0	1	0	0	0	0	lusuh
+shack	0	0	1	0	0	1	0	1	0	0	gubuk
+shackle	1	1	1	1	0	1	0	1	0	0	belenggu
+shady	0	0	0	1	0	1	0	0	0	0	teduh
+shaking	0	0	0	1	0	1	0	0	0	0	gemetar
+shaky	1	1	0	1	0	1	0	0	0	0	goyah
+sham	1	0	1	0	0	1	0	0	0	0	palsu
+shame	0	0	1	1	0	1	0	1	0	0	malu
+shameful	0	0	0	0	0	1	0	1	0	0	memalukan
+shameless	0	0	1	0	0	1	0	0	0	0	tak tahu malu
+shanghai	0	0	1	1	0	1	0	0	0	0	shanghai
+shank	0	0	0	1	0	0	0	0	0	0	betis
+share	0	1	0	0	1	0	1	0	0	1	Bagikan
+sharpen	1	1	0	0	0	0	0	0	0	0	mengasah
+shatter	1	0	0	1	0	1	0	1	1	0	pecah
+shattered	0	0	0	0	0	1	0	1	0	0	hancur
+shell	1	0	0	1	0	1	0	1	1	0	kerang
+shelter	0	0	0	0	0	0	1	0	0	1	tempat berlindung
+shepherd	0	0	0	0	0	0	1	0	0	1	gembala
+sheriff	0	0	0	0	0	0	0	0	0	1	sheriff
+shining	0	1	0	0	1	0	1	0	0	0	bersinar
+ship	0	1	0	0	0	0	0	0	0	0	mengirimkan
+shipwreck	0	0	0	1	0	1	0	1	0	0	Kecelakaan kapal
+shit	1	0	1	0	0	1	0	0	0	0	kotoran
+shiver	1	1	0	1	0	1	0	1	0	0	menggigil
+shock	1	0	0	1	0	1	0	0	1	0	terkejut
+shockingly	0	0	0	0	0	0	0	0	1	0	teramat
+shoddy	1	0	1	0	0	1	0	0	0	0	jelek
+shoot	1	0	0	1	0	1	0	0	0	0	menembak
+shooter	0	0	0	1	0	0	0	0	0	0	penembak
+shooting	1	0	0	1	0	1	0	0	0	0	penembakan
+shopkeeper	0	0	0	0	0	0	0	0	0	1	penjaga toko
+shoplifting	1	0	1	0	0	1	0	0	0	0	mengutil
+shopping	0	1	0	0	1	0	1	0	1	1	belanja
+shortage	1	0	0	1	0	1	0	1	0	0	kekurangan
+shortly	0	1	0	0	0	0	0	0	0	0	segera
+shot	1	0	0	1	0	1	0	1	1	0	tembakan
+shoulder	0	0	0	0	0	0	1	0	0	1	bahu
+shout	1	0	0	0	0	0	0	0	1	0	berteriak
+shove	1	0	0	0	0	1	0	0	0	0	mendorong
+show	0	0	0	0	0	0	0	0	0	1	menunjukkan
+shrapnel	0	0	0	1	0	0	0	0	0	0	pecahan peluru meriam
+shriek	1	0	0	1	0	1	0	1	1	0	menjerit
+shrill	1	0	0	1	0	1	0	0	1	0	melengking
+shrink	0	0	0	1	0	1	0	1	0	0	menyusut
+shroud	0	0	0	0	0	0	0	1	0	0	kain kafan
+shudder	0	0	0	1	0	1	0	0	0	0	merasa ngeri
+shun	1	0	1	0	0	1	0	1	0	0	menghindari
+sib	0	0	0	0	0	0	0	0	0	1	saudara
+sick	0	0	1	0	0	1	0	1	0	0	sakit
+sickening	1	0	1	1	0	1	0	1	0	0	memuakkan
+sickly	0	0	1	0	0	1	0	1	0	0	sakitan
+sickness	0	0	1	1	0	1	0	1	0	0	penyakit
+signature	0	0	0	0	0	0	0	0	0	1	tanda tangan
+signify	0	1	0	0	0	0	0	0	0	0	menandakan
+silly	0	0	0	0	1	1	0	0	0	0	konyol
+simmer	1	1	0	0	0	0	0	0	0	0	membara
+simmering	0	1	0	0	0	0	0	0	0	0	mendidih
+simplify	0	1	0	0	1	0	1	0	1	1	menyederhanakan
+sin	1	0	1	1	0	1	0	1	0	0	dosa
+sincere	0	0	0	0	0	0	1	0	0	1	jujur
+sinful	1	0	1	1	0	1	0	1	0	0	penuh dosa
+sing	0	1	0	0	1	0	1	1	0	1	menyanyi
+singularly	0	0	0	0	0	0	0	0	1	0	luar biasa
+sinister	1	0	1	1	0	1	0	0	0	0	jahat
+sinner	1	0	1	1	0	1	0	1	0	0	pendosa
+sinning	0	0	1	0	0	1	0	0	0	0	berbuat dosa
+sir	0	0	0	0	0	0	1	0	0	1	pak
+siren	0	0	0	1	0	1	0	0	0	0	sirene
+sisterhood	1	0	0	0	0	0	1	1	1	1	persaudaraan wanita
+sizzle	1	0	0	0	0	0	0	0	0	0	mendesis
+skewed	1	1	0	0	0	1	0	0	0	0	miring
+skid	1	0	0	1	0	1	0	1	0	0	selip
+skillful	0	0	0	0	0	0	1	0	0	1	mahir
+skirmish	1	0	0	0	0	1	0	0	0	0	pertempuran kecil
+slam	1	0	0	1	0	1	0	0	1	0	membanting
+slander	1	0	1	0	0	1	0	0	0	0	fitnah
+slap	1	0	0	0	0	1	0	0	1	0	tamparan
+slash	1	0	0	0	0	0	0	0	0	0	memotong
+slaughter	1	0	1	1	0	1	0	1	1	0	pembantaian
+slaughterhouse	1	0	1	1	0	1	0	1	0	0	rumah jagal
+slaughtering	1	0	1	1	0	1	0	1	1	0	menyembelih
+slave	1	0	0	1	0	1	0	1	0	0	budak
+slavery	1	0	1	1	0	1	0	1	0	0	perbudakan
+slay	1	0	0	0	0	1	0	0	0	0	membunuh
+slayer	1	0	1	1	0	1	0	1	1	0	pembunuh
+slime	0	0	1	0	0	0	0	0	0	0	lendir
+slimy	0	0	1	0	0	1	0	0	0	0	berlendir
+slip	0	0	0	0	0	1	0	0	1	0	tergelincir
+slop	0	0	1	0	0	1	0	0	0	0	air kotor
+sloppy	0	0	1	0	0	1	0	0	0	0	ceroboh
+sloth	0	0	1	0	0	1	0	0	0	0	kemalasan
+sludge	0	0	1	0	0	1	0	0	0	0	lumpur
+slug	0	0	1	0	0	1	0	0	0	0	siput
+sluggish	0	0	0	0	0	1	0	1	0	0	lamban
+slum	0	0	1	0	0	1	0	0	0	0	daerah kumuh
+slump	0	0	0	0	0	1	0	1	0	0	kemerosotan
+slur	1	0	1	0	0	1	0	1	0	0	cercaan
+slush	0	0	1	0	0	1	0	0	1	0	lumpur salju
+slut	1	0	1	0	0	1	0	0	0	0	pelacur
+sly	1	0	1	1	0	1	0	0	0	0	licik
+smack	1	0	0	0	0	1	0	0	0	0	memukul
+smash	1	0	0	1	0	1	0	0	0	0	menghancurkan
+smell	1	0	1	0	0	1	0	0	0	0	bau
+smelling	0	0	1	0	0	1	0	0	0	0	berbau
+smile	0	0	0	0	1	0	1	0	1	1	senyum
+smiling	0	0	0	0	1	0	1	0	0	0	tersenyum
+smite	1	0	0	1	0	1	0	1	0	0	memukul
+smith	0	0	0	0	0	0	0	0	0	1	pandai besi
+smother	1	0	0	0	0	1	0	0	0	0	melimpahi
+smuggle	0	0	0	1	0	1	0	0	0	0	menyelundupkan
+smuggler	1	0	1	1	0	1	0	0	0	0	penyelundup
+smut	0	0	1	1	0	1	0	0	0	0	jelaga
+snag	0	0	0	0	0	1	0	0	1	0	merobek
+snake	0	0	1	1	0	1	0	0	0	0	ular
+snare	0	0	0	1	0	1	0	0	0	0	jerat
+snarl	1	0	1	0	0	1	0	0	0	0	menggeram
+snarling	1	0	0	0	0	1	0	0	0	0	gertakan
+sneak	1	0	0	1	0	1	0	0	1	0	menyelinap
+sneaking	0	1	0	1	0	1	0	0	0	1	curiga
+sneer	1	0	1	0	0	1	0	0	0	0	mengejek
+sneeze	0	0	1	0	0	1	0	0	1	0	bersin
+snort	0	0	0	0	0	0	0	1	0	0	mendengus
+sob	0	0	0	0	0	1	0	1	0	0	menangis
+sobriety	0	0	0	0	0	0	1	0	0	1	ketenangan
+socialism	0	0	1	1	0	0	0	0	0	0	sosialisme
+socialist	1	0	1	1	0	1	0	1	0	0	sosialis
+soil	0	0	1	0	0	1	0	0	0	0	tanah
+soiled	0	0	1	0	0	1	0	0	0	0	kotor
+soldier	1	0	0	0	0	0	1	1	0	0	tentara
+solidarity	0	0	0	0	0	0	0	0	0	1	solidaritas
+solidity	0	0	0	0	0	0	1	0	0	1	kepadatan
+somatic	0	0	0	0	0	1	0	0	1	0	somatik
+somber	0	0	0	0	0	1	0	1	0	0	muram
+sonar	0	1	0	0	0	0	1	0	0	0	sonar
+sonnet	0	0	0	0	1	0	1	1	0	0	sonet
+sonorous	0	0	0	0	1	0	1	0	0	0	nyaring
+soot	0	0	1	0	0	1	0	0	0	0	jelaga
+soothing	0	0	0	0	1	0	1	0	0	1	menenangkan
+sorcery	0	1	0	1	0	1	0	0	1	0	sihir
+sordid	1	0	1	1	0	1	0	1	0	0	mesum
+sore	1	0	0	0	0	1	0	1	0	0	sakit
+sorely	0	0	0	0	0	1	0	1	0	0	sangat
+soreness	0	0	1	0	0	1	0	1	0	0	rasa sakit
+sorrow	0	0	0	1	0	1	0	1	0	0	duka
+sorrowful	0	0	0	0	0	1	0	1	0	0	sedih
+sortie	0	0	0	1	0	1	0	0	0	0	serangan mendadak
+soulless	0	0	1	1	0	1	0	1	0	0	tak berjiwa
+soulmate	0	0	0	1	0	1	0	0	0	0	belahan jiwa
+soundness	0	1	0	0	1	0	1	0	0	1	kesehatan
+sour	0	0	1	0	0	1	0	0	0	0	kecut
+sovereign	0	0	0	0	0	0	0	0	0	1	berdaulat
+spa	0	1	0	0	1	0	1	0	1	1	spa
+spaniel	0	0	0	0	1	0	1	0	0	1	spaniel
+spank	1	0	0	1	0	1	0	1	0	0	tamparan
+spanking	1	0	0	0	0	0	0	0	0	0	tamparan
+sparkle	0	1	0	0	1	0	1	0	1	0	berkilau
+spasm	0	0	0	1	0	1	0	0	0	0	kekejangan
+spat	1	0	0	0	0	1	0	0	0	0	bertengkar
+spear	1	1	0	1	0	1	0	0	0	0	tombak
+special	0	0	0	0	1	0	1	0	0	0	spesial
+specialist	0	0	0	0	0	0	0	0	0	1	spesialis
+specialize	0	0	0	0	0	0	0	0	0	1	mengkhususkan
+speck	0	0	1	0	0	1	0	0	0	0	bintik
+spectacular	0	1	0	0	0	0	0	0	1	0	spektakuler
+specter	0	0	0	1	0	1	0	1	0	0	momok
+speculation	0	0	0	1	0	1	0	1	0	0	spekulasi
+speculative	0	1	0	0	0	0	0	0	0	0	spekulatif
+spew	0	0	1	0	0	0	0	0	0	0	memuntahkan
+spider	0	0	1	1	0	0	0	0	0	0	laba-laba
+spike	0	0	0	1	0	0	0	0	0	0	paku
+spine	1	0	0	0	0	1	1	0	0	0	tulang belakang
+spinster	0	0	0	1	0	1	0	1	0	0	perawan tua
+spirits	0	1	0	0	1	0	1	0	1	0	roh
+spit	0	0	1	0	0	0	0	0	0	0	meludah
+spite	1	0	0	0	0	1	0	0	0	0	meskipun
+spiteful	1	0	0	0	0	1	0	0	0	0	pendendam
+splash	0	0	0	0	0	0	0	0	1	0	guyuran
+splendid	0	0	0	0	1	0	1	0	1	0	megah
+splendor	0	1	0	0	1	0	1	0	1	0	kemegahan
+splitting	0	0	0	0	0	1	0	1	0	0	pemisahan
+spoil	0	0	1	0	0	1	0	0	0	0	memanjakan
+spoiler	0	0	0	0	0	1	0	1	0	0	bocoran
+spokesman	0	0	0	0	0	0	0	0	0	1	juru bicara
+sponsor	0	0	0	0	0	0	1	0	0	1	sponsor
+spook	0	0	0	1	0	1	0	0	0	0	menakuti
+spotless	0	0	0	0	0	0	1	0	0	1	bersih
+spouse	0	0	0	0	1	0	1	0	0	1	pasangan
+sprain	0	0	0	0	0	1	0	1	0	0	keseleo
+sprite	0	0	0	1	0	1	0	0	0	0	sprite
+spur	0	0	0	1	0	0	0	0	0	0	memacu
+spurious	0	0	1	0	0	1	0	0	0	0	palsu
+squall	0	0	0	1	0	1	0	1	0	0	badai
+squeamish	0	0	1	1	0	1	0	0	0	0	mudah tersinggung
+squelch	1	0	1	0	0	1	0	0	0	0	memadamkan
+squirm	0	0	1	0	0	1	0	0	0	0	menggeliat
+stab	1	0	0	1	0	1	0	1	1	0	menusuk
+stable	0	0	0	0	0	0	1	0	0	1	stabil
+stagger	0	0	0	0	0	0	0	0	1	0	sempoyongan
+stagnant	0	0	0	0	0	1	0	1	0	0	tergenang
+stain	0	0	1	0	0	1	0	0	0	0	noda
+stalemate	1	0	1	0	0	0	0	0	0	0	jalan buntu
+stalk	0	0	0	1	0	1	0	0	0	0	tangkai
+stall	0	0	1	0	0	0	0	0	0	0	kios
+stamina	0	0	0	0	0	0	1	0	0	1	daya tahan
+standoff	1	0	0	1	0	1	0	0	0	0	kebuntuan
+standstill	1	0	0	0	0	1	0	0	0	0	terhenti
+star	0	1	0	0	1	0	1	0	0	1	bintang
+stark	0	0	0	0	0	1	0	0	0	1	telanjang
+starry	0	1	0	0	1	0	1	0	0	0	penuh bintang
+start	0	1	0	0	0	0	0	0	0	0	Mulailah
+startle	0	0	0	1	0	1	0	0	1	0	kejut
+startling	0	0	0	0	0	0	0	0	1	0	menakjubkan
+starvation	0	0	0	1	0	1	0	1	0	0	kelaparan
+statement	0	0	0	0	0	0	1	0	0	1	penyataan
+statistical	0	0	0	0	0	0	0	0	0	1	statistik
+steadfast	0	0	0	0	0	0	1	0	0	1	tabah
+steady	0	0	0	0	0	0	0	0	1	1	stabil
+steal	1	0	0	1	0	1	0	1	0	0	mencuri
+stealing	0	0	1	1	0	1	0	0	0	0	pencurian
+stealth	0	0	0	0	0	0	0	0	1	0	sembunyi-sembunyi
+stealthily	0	0	0	0	0	0	0	0	1	0	diam-diam
+stealthy	0	1	0	1	0	1	0	0	1	0	sembunyi
+sterile	0	0	0	0	0	1	0	1	0	0	steril
+sterling	1	1	0	0	1	1	1	0	0	1	sterling
+steward	0	0	0	0	0	0	1	0	0	1	pelayan
+sticky	0	0	1	0	0	0	0	0	0	0	lengket
+stifled	1	0	0	1	0	1	0	1	0	0	tertahan
+stigma	1	0	1	1	0	1	0	1	0	0	stigma
+stillborn	0	0	0	0	0	1	0	1	0	0	gagal
+stillness	0	0	0	1	0	0	1	1	0	0	keheningan
+sting	1	0	0	1	0	1	0	0	0	0	menyengat
+stingy	1	0	1	1	0	1	0	1	0	0	pelit
+stink	0	0	1	0	0	1	0	0	0	0	bau
+stinking	0	0	1	0	0	1	0	0	0	0	bau
+stint	0	0	0	1	0	1	0	1	0	0	tugas
+stolen	1	0	0	0	0	1	0	0	0	0	dicuri
+stomach	0	0	1	0	0	0	0	0	0	0	perut
+stone	1	0	0	0	0	1	0	0	0	0	batu
+stools	0	0	1	0	0	1	0	0	0	0	bangku
+store	0	1	0	0	0	0	1	0	0	0	toko
+storm	1	0	0	0	0	1	0	0	0	0	badai
+storming	1	0	0	0	0	0	0	0	0	0	menyerbu
+stormy	0	0	0	1	0	1	0	0	0	0	badai
+straightforward	0	0	0	0	0	0	1	0	0	1	mudah
+strained	1	0	0	0	0	1	0	0	0	0	tegang
+straits	0	0	0	1	0	1	0	0	0	0	selat
+stranger	0	0	0	1	0	1	0	0	0	0	orang asing
+strangle	1	0	1	1	0	1	0	1	1	0	mencekik
+strategist	0	1	0	0	0	0	1	0	0	1	penyiasat
+strength	0	0	0	0	0	0	1	0	0	1	kekuatan
+strengthening	0	0	0	0	1	0	1	0	0	1	penguatan
+stretcher	0	0	0	1	0	0	0	1	0	0	usungan
+stricken	0	0	0	0	0	0	0	1	0	0	terkena
+strife	1	0	0	0	0	1	0	0	0	0	perselisihan
+strike	1	0	0	0	0	1	0	0	0	0	memukul
+strip	0	0	0	0	0	1	0	1	0	0	mengupas
+stripped	1	1	1	1	0	1	0	1	0	0	dilucuti
+strive	0	1	0	0	0	0	0	0	0	0	berjuang
+stroke	0	0	0	1	0	1	0	1	0	0	pukulan
+structural	0	0	0	0	0	0	0	0	0	1	struktural
+structure	0	0	0	0	0	0	1	0	0	1	struktur
+struggle	1	0	0	1	0	1	0	1	0	0	berjuang
+stunned	0	0	0	1	0	1	0	0	1	0	tercengang
+sty	0	0	1	0	0	1	0	0	0	0	tembel
+subito	0	0	0	0	0	0	0	0	1	0	subito
+subjected	0	0	0	0	0	1	0	1	0	0	dikenakan
+subjugation	1	0	1	1	0	1	0	1	0	0	penaklukan
+sublimation	0	0	0	0	1	0	1	0	0	0	sublimasi
+submit	0	1	0	0	0	0	0	0	0	0	Kirimkan
+subordinate	0	0	0	1	0	1	0	0	0	0	bawahan
+subscribe	0	1	0	0	0	0	0	0	0	0	langganan
+subsidence	0	0	0	0	0	1	0	1	0	0	penurunan
+subsidy	1	0	1	0	0	1	0	0	0	0	subsidi
+substantiate	0	0	0	0	0	0	0	0	0	1	memperkuat
+subversion	1	0	0	1	0	1	0	0	0	0	subversi
+subversive	1	0	0	0	0	1	0	0	1	0	subversif
+subvert	0	0	1	1	0	1	0	1	0	0	menumbangkan
+succeed	0	1	0	0	1	0	1	0	1	1	berhasil
+succeeding	0	1	0	0	1	0	1	0	0	1	berhasil
+success	0	1	0	0	1	0	1	0	0	0	kesuksesan
+successful	0	1	0	0	1	0	1	0	0	1	berhasil
+sucker	1	0	0	0	0	1	0	0	0	0	memperdaya
+sudden	0	0	0	0	0	0	0	0	1	0	tiba-tiba
+suddenly	0	0	0	0	0	0	0	0	1	0	tiba-tiba
+sue	1	0	0	0	0	1	0	1	0	0	menuntut
+sufferer	0	0	0	1	0	1	0	1	0	0	penderita
+suffering	0	0	1	1	0	1	0	1	0	0	menderita
+suffocating	0	0	1	1	0	1	0	1	0	0	mencekik
+suffocation	1	0	0	1	0	1	0	0	0	0	mati lemas
+suggest	0	0	0	0	0	0	0	0	0	1	menyarankan
+suicidal	1	0	1	1	0	1	0	1	0	0	kecenderungan bunuh diri
+suicide	1	0	0	1	0	1	0	1	0	0	bunuh diri
+sullen	1	0	0	0	0	1	0	1	0	0	cemberut
+sultan	0	0	0	1	0	0	0	0	0	0	sultan
+sump	0	0	1	0	0	0	0	0	0	0	bah
+sun	0	1	0	0	1	0	1	0	1	1	matahari
+sundial	0	1	0	0	0	0	0	0	0	1	jam bayangan matahari
+sunk	0	0	1	1	0	1	0	1	0	0	tenggelam
+sunny	0	1	0	0	1	0	1	0	1	0	cerah
+sunset	0	1	0	0	0	0	1	0	0	0	matahari terbenam
+sunshine	0	0	0	0	1	0	1	0	0	0	cahaya matahari
+superman	0	0	0	0	1	0	1	0	0	1	manusia super
+superstar	0	0	0	0	1	0	1	0	0	1	superstar
+superstition	0	0	0	1	0	1	1	0	0	0	takhyul
+superstitious	0	1	0	1	0	1	0	0	0	0	bertakhyul
+supplication	0	0	0	0	0	0	1	0	0	1	permohonan
+supporter	0	0	0	0	1	0	1	0	0	1	pendukung
+supporting	0	0	0	0	0	0	1	0	0	1	mendukung
+suppress	1	0	0	1	0	1	0	1	0	0	menekan
+suppression	1	0	1	1	0	1	0	0	0	0	penekanan
+supremacy	1	1	0	1	1	1	1	0	1	1	supremasi
+surcharge	1	0	0	0	0	1	0	0	0	0	biaya tambahan
+surety	0	0	0	0	0	0	1	0	0	1	jaminan
+surge	0	0	0	0	0	0	0	0	1	0	lonjakan
+surgery	0	0	0	1	0	0	0	1	0	0	operasi
+surly	1	0	1	0	0	1	0	0	0	0	bermuka masam
+surprise	0	0	0	1	1	0	1	0	1	0	kejutan
+surprised	0	0	0	0	0	0	0	0	1	0	terkejut
+surprising	0	0	0	0	0	0	0	0	1	0	mengejutkan
+surprisingly	0	1	0	0	0	0	0	0	1	0	heran
+surrender	0	0	0	1	0	1	0	1	0	0	menyerah
+surrendering	0	0	0	0	0	1	0	1	0	0	menyerah
+surrogate	0	0	0	0	0	0	0	0	0	1	pengganti
+surround	0	1	0	0	0	1	1	0	0	0	mengelilingi
+surveillance	0	0	0	1	0	0	0	0	0	0	pengawasan
+suspect	0	0	0	1	0	1	0	0	0	0	mengira
+suspense	0	1	0	1	0	0	0	0	1	0	ketegangan
+suspension	0	0	0	1	0	1	0	0	0	0	penangguhan
+suspicion	0	0	0	1	0	1	0	0	0	0	kecurigaan
+suspicious	1	1	0	0	0	1	0	0	0	0	mencurigakan
+swamp	0	0	1	1	0	1	0	0	0	0	rawa
+swampy	0	0	1	1	0	1	0	0	0	0	berawa
+swarm	0	0	1	0	0	0	0	0	0	0	kawanan
+swastika	1	0	0	1	0	1	0	0	0	0	tanda Nazi
+swear	0	0	0	0	0	0	1	0	0	1	bersumpah
+sweat	0	0	0	1	0	0	0	0	0	0	keringat
+sweet	0	1	0	0	1	0	1	0	1	1	manis
+sweetheart	0	1	0	0	1	0	1	1	0	1	sayang
+sweets	0	1	0	0	1	0	1	0	0	0	permen
+swelling	0	0	0	1	0	1	0	0	0	0	pembengkakan
+swerve	0	0	0	1	0	0	0	0	1	0	mengelak
+swig	0	0	1	0	0	1	0	0	0	0	meneguk
+swim	0	1	0	1	1	0	1	0	0	0	berenang
+swine	0	0	1	0	0	1	0	0	0	0	babi
+symmetry	0	0	0	0	1	0	1	0	0	1	simetri
+sympathetic	0	0	0	1	1	0	1	1	0	1	simpatik
+sympathize	0	0	0	0	0	0	0	1	0	0	menyantuni
+sympathy	0	0	0	0	0	0	1	1	0	0	simpati
+symphony	0	1	0	0	1	0	1	0	0	0	simfoni
+synchronize	0	1	0	0	1	0	1	0	1	1	menyinkronkan
+syncope	0	0	0	1	0	1	0	1	1	0	sinkop
+synergistic	0	0	0	0	0	0	1	0	0	1	sinergis
+synod	0	0	0	0	0	0	1	0	0	1	sinode
+synonymous	0	0	0	1	0	1	1	0	0	1	sinonim
+syringe	0	0	0	1	0	0	0	0	0	0	jarum suntik
+system	0	0	0	0	0	0	0	0	0	1	sistem
+taboo	0	0	1	1	0	1	0	0	0	0	tabu
+tabulate	0	1	0	0	0	0	0	0	0	0	mentabulasi
+tackle	1	0	0	0	0	0	0	0	1	0	mengatasi
+tactics	0	0	0	1	0	0	0	0	0	1	taktik
+taint	0	0	0	0	0	1	0	1	0	0	noda
+talons	1	0	0	1	0	1	0	0	0	0	cakar
+tandem	0	0	0	0	0	0	0	0	0	1	tandem
+tantalizing	0	1	0	0	1	1	1	0	1	0	menggoda
+tantamount	0	0	0	0	0	0	0	0	0	1	sama
+tariff	1	0	1	0	0	1	0	0	0	0	tarif
+tarnish	0	0	1	0	0	1	0	1	0	0	menodai
+tasteless	0	0	1	0	0	1	0	0	0	0	hambar
+taught	0	0	0	0	0	0	0	0	0	1	diajari
+taunt	1	0	0	1	0	1	0	1	0	0	mengejek
+tawny	0	0	1	0	0	0	0	0	0	0	kuning kecoklatan
+teach	0	0	0	0	1	0	1	0	1	1	mengajar
+team	0	0	0	0	0	0	0	0	0	1	tim
+tearful	0	0	1	1	0	0	0	1	0	0	menangis
+tease	1	1	0	0	0	1	0	1	0	0	menggoda
+teasing	1	0	0	1	0	1	0	0	0	0	menggoda
+teeming	0	0	1	0	0	0	0	0	0	0	padat
+temperate	0	0	0	0	0	0	0	0	0	1	sedang
+tempest	1	1	0	1	0	1	0	1	1	0	badai
+tender	0	0	0	0	1	0	1	0	0	1	lembut
+tenderness	0	0	0	0	1	0	1	0	0	0	kelembutan
+tension	1	0	0	0	0	0	0	0	0	0	ketegangan
+terminal	0	0	0	1	0	1	0	1	0	0	terminal
+terminate	0	0	0	0	0	0	0	1	0	0	mengakhiri
+termination	0	0	0	0	0	1	0	1	0	0	penghentian
+termite	0	0	1	0	0	1	0	0	0	0	rayap
+terrible	1	0	1	1	0	1	0	1	0	0	mengerikan
+terribly	0	0	0	0	0	0	0	1	0	0	sangat
+terrific	0	0	0	0	0	0	0	1	0	0	hebat
+terror	0	0	0	1	0	1	0	0	0	0	teror
+terrorism	1	0	1	1	0	1	0	1	0	0	terorisme
+terrorist	1	0	1	1	0	1	0	1	1	0	teroris
+terrorize	1	0	0	1	0	1	0	1	0	0	meneror
+testament	0	1	0	0	0	0	0	0	0	1	Perjanjian
+testimony	0	0	0	0	0	0	0	0	0	1	kesaksian
+tetanus	0	0	1	0	0	1	0	0	0	0	tetanus
+thankful	0	0	0	0	1	0	1	0	0	0	berterima kasih
+thanksgiving	0	0	0	0	1	0	1	0	0	0	ucapan syukur
+theft	1	0	1	1	0	1	0	1	0	0	pencurian
+theism	0	0	1	0	0	1	0	0	0	0	theisme
+theocratic	1	0	0	1	0	1	0	1	0	1	teokratis
+theological	0	0	0	0	0	0	0	0	0	1	teologis
+theology	0	1	0	0	0	0	0	0	0	0	teologi
+theorem	0	0	0	0	0	0	0	0	0	1	dalil
+theory	0	1	0	0	0	0	0	0	0	1	teori
+therapeutic	0	0	0	0	1	0	1	0	0	1	terapeutik
+thermocouple	0	1	0	0	0	0	0	0	0	0	termokopel
+thermometer	0	0	0	0	0	0	0	0	0	1	termometer
+thief	1	0	1	1	0	1	0	1	1	0	maling
+thirst	0	1	0	0	0	0	0	1	1	0	haus
+thirteenth	0	0	0	1	0	0	0	0	0	0	ketigabelas
+thorny	0	0	0	1	0	1	0	0	0	0	berduri
+thought	0	1	0	0	0	0	0	0	0	0	pikiran
+thoughtful	0	0	0	0	0	0	1	0	0	1	penuh pertimbangan
+thoughtless	1	0	1	0	0	1	0	0	0	0	tanpa berpikir
+thrash	1	0	1	1	0	1	0	1	0	0	menggasak
+threat	1	0	0	1	0	1	0	0	0	0	ancaman
+threaten	1	1	0	1	0	1	0	0	0	0	mengancam
+threatening	1	0	1	1	0	1	0	0	0	0	mengancam
+thresh	1	0	0	1	0	1	0	1	0	0	mengirik
+thrift	0	0	1	0	0	0	1	0	0	1	penghematan
+thrill	0	1	0	1	1	0	1	0	1	0	sensasi
+thrilling	0	1	0	0	1	0	1	0	1	0	mendebarkan
+thriving	0	1	0	0	1	0	1	0	0	0	berkembang
+throb	0	0	0	1	0	1	0	1	0	0	berdenyut
+throne	0	0	0	0	0	0	1	0	0	1	takhta
+throttle	1	0	0	0	0	1	0	0	0	0	mencekik
+thug	1	0	1	1	0	1	0	0	0	0	penjahat
+thump	1	0	0	0	0	1	0	0	0	0	berdebar
+thumping	0	0	0	1	0	0	0	0	0	0	berdebar-debar
+thundering	1	0	0	1	0	1	0	0	0	0	gemuruh
+thwart	0	0	0	0	0	1	0	0	1	0	menggagalkan
+tickle	0	1	0	0	1	0	1	0	1	1	menggelitik
+tiff	1	0	0	0	0	1	0	0	0	0	bertengkar
+tighten	1	0	0	0	0	0	0	0	0	0	mengencangkan
+time	0	1	0	0	0	0	0	0	0	0	waktu
+timid	0	0	0	1	0	1	0	1	0	0	pemalu
+timidity	0	1	0	1	0	1	0	0	0	0	sifat takut-takut
+tinsel	0	0	0	0	1	0	1	0	0	0	perada
+tirade	1	0	1	0	0	1	0	0	0	0	omelan
+title	0	0	0	0	0	0	1	0	0	1	judul
+toad	0	0	1	0	0	1	0	0	0	0	kodok
+toast	0	0	0	0	1	0	1	0	0	0	roti panggang
+toilet	0	0	1	0	0	1	0	0	0	0	toilet
+tolerate	1	0	0	0	0	1	0	1	0	0	mentolerir
+tomb	0	0	0	0	0	0	0	1	0	0	makam
+tomorrow	0	1	0	0	0	0	0	0	0	0	besok
+toothache	0	0	0	1	0	1	0	0	0	0	sakit gigi
+top	0	1	0	0	0	0	1	0	0	1	atas
+topple	0	0	0	0	0	0	0	0	1	0	menjatuhkan
+torment	1	0	0	1	0	1	0	1	0	0	menyiksa
+tornado	0	0	0	1	0	0	0	0	0	0	angin topan
+torpedo	1	0	0	0	0	1	0	0	0	0	torpedo
+torrent	0	0	0	1	0	0	0	0	0	0	torrent
+tortious	1	0	1	0	0	1	0	0	0	0	menyiksa
+torture	1	1	1	1	0	1	0	1	0	0	menyiksa
+touchy	1	0	0	0	0	1	0	1	0	0	mudah tersinggung
+tough	0	0	0	0	0	1	0	1	0	0	keras
+toughness	1	0	0	1	0	0	1	0	0	1	kekerasan
+towering	0	1	0	1	0	0	1	0	0	0	tinggi
+toxic	0	0	1	0	0	1	0	0	0	0	beracun
+toxin	0	0	0	1	0	1	0	0	0	0	toksin
+track	0	1	0	0	0	0	0	0	0	0	melacak
+tract	0	0	0	1	0	0	0	0	0	0	sistem
+trade	0	0	0	0	0	0	0	0	0	1	berdagang
+tragedy	0	0	0	1	0	1	0	1	0	0	tragedi
+trainer	0	0	0	0	0	0	0	0	0	1	pelatih
+traitor	1	0	1	1	0	1	0	1	0	0	pengkhianat
+tramp	0	0	1	1	0	1	0	1	0	0	gelandangan
+tranquil	0	0	0	0	1	0	1	0	0	0	tenang
+tranquility	0	0	0	0	1	0	1	0	0	1	ketenangan
+transaction	0	0	0	0	0	0	0	0	0	1	transaksi
+transcendence	0	1	0	0	1	0	1	0	1	1	transendensi
+transcript	0	0	0	0	0	0	0	0	0	1	salinan
+transitional	0	1	0	0	0	0	0	0	0	0	transisi
+translation	0	0	0	0	0	0	0	0	0	1	terjemahan
+trash	0	0	1	0	0	1	0	1	0	0	sampah
+trashy	0	0	1	0	0	1	0	0	0	0	tak bermutu
+traumatic	1	0	0	1	0	1	0	1	0	0	traumatis
+travesty	0	0	1	1	0	1	0	1	0	0	parodi
+treacherous	1	0	1	1	0	1	0	0	0	0	berbahaya
+treachery	1	0	0	1	0	1	0	1	1	0	pengkhianatan
+treadmill	0	1	0	0	0	0	0	0	0	0	pekerjaan yg membosankan
+treason	1	0	1	1	0	1	0	0	1	0	pengkhianatan
+treasure	0	1	0	0	1	0	1	0	0	1	harta karun
+treasurer	0	0	0	0	0	0	0	0	0	1	bendahara
+treat	1	1	1	1	1	1	1	1	1	1	merawat
+tree	1	1	1	0	1	0	1	0	1	1	pohon
+trembling	0	0	0	1	0	1	0	0	0	0	gemetaran
+tremor	1	1	0	1	0	1	0	1	0	0	getaran
+trepidation	0	1	0	1	0	1	0	0	1	0	kegelisahan
+trespass	1	0	0	0	0	1	0	0	0	0	pelanggaran
+tribe	0	0	0	0	0	0	0	0	0	1	suku
+tribulation	0	0	0	1	0	1	0	1	0	0	kesengsaraan
+tribunal	0	1	1	1	0	1	0	0	0	1	pengadilan
+tribune	0	0	0	0	0	0	0	0	0	1	mimbar
+tributary	0	1	0	0	0	0	1	0	0	0	anak sungai
+trick	0	0	0	0	0	1	0	0	1	0	menipu
+trickery	1	0	1	1	0	1	0	1	1	0	tipu daya
+trip	0	0	0	0	0	0	0	0	1	0	perjalanan
+tripping	1	0	0	0	0	1	0	1	0	0	tersandung
+triumph	0	1	0	0	1	0	1	0	0	0	kemenangan
+triumphant	0	1	0	0	1	0	1	0	0	1	berjaya
+troll	1	0	0	1	0	1	0	0	0	0	troll
+trophy	0	1	0	0	1	0	1	0	1	1	piala
+troublesome	1	0	0	1	0	1	0	0	0	0	sulit
+truce	0	0	0	0	1	0	1	0	0	1	gencatan senjata
+truck	0	0	0	0	0	0	0	0	0	1	truk
+true	0	0	0	0	1	0	1	0	0	1	BENAR
+trump	0	0	0	0	0	0	0	0	1	0	truf
+truss	0	0	0	0	0	0	0	0	0	1	tiang penopang
+trust	0	0	0	0	0	0	0	0	0	1	memercayai
+trustee	0	0	0	0	0	0	0	0	0	1	wali
+truth	0	0	0	0	0	0	1	0	0	1	kebenaran
+truthful	0	0	0	0	0	0	0	0	0	1	jujur
+truthfulness	0	0	0	0	0	0	1	0	0	1	kejujuran
+tumor	0	0	0	1	0	1	0	0	0	0	tumor
+tumour	0	0	0	1	0	1	0	1	0	0	tumor
+tumult	1	0	0	1	0	1	0	0	1	0	keributan
+tumultuous	1	0	0	1	0	1	0	0	0	0	rusuh
+turbulence	1	0	0	1	0	1	0	0	0	0	pergolakan
+turbulent	0	0	0	1	0	1	0	0	0	0	bergolak
+turmoil	1	0	0	1	0	1	0	1	0	0	kekacauan
+tussle	1	0	0	0	0	0	0	0	0	0	pergumulan
+tutelage	0	0	0	0	0	0	1	0	0	1	pengawasan
+twinkle	0	1	0	0	1	0	1	0	0	0	kelip
+typhoon	0	0	0	1	0	1	0	0	0	0	topan
+tyrannical	1	0	1	1	0	1	0	0	0	0	kejam
+tyranny	0	0	0	1	0	1	0	1	0	0	kezaliman
+tyrant	1	0	1	1	0	1	0	1	0	0	tiran
+ugliness	0	0	1	1	0	1	0	1	0	0	kejelekan
+ugly	0	0	1	0	0	1	0	0	0	0	jelek
+ulcer	1	0	1	1	0	1	0	1	0	0	maag
+ultimate	0	1	0	0	0	0	0	1	0	0	terakhir
+ultimately	0	1	0	0	0	0	1	0	0	0	akhirnya
+ultimatum	1	0	0	1	0	1	0	0	0	0	ultimatum
+umpire	0	0	0	0	0	0	1	0	0	1	wasit
+unable	0	0	0	0	0	1	0	1	0	0	tidak dapat
+unacceptable	0	0	0	0	0	1	0	1	0	0	tidak dapat diterima
+unaccountable	0	1	1	0	0	1	0	1	0	1	tidak bertanggung jawab
+unacknowledged	0	0	0	0	0	0	0	1	0	0	tidak diakui
+unanticipated	0	0	0	0	0	0	0	0	1	0	tak terduga
+unattainable	1	0	0	0	0	1	0	1	0	0	tak terjangkau
+unattractive	0	0	1	0	0	1	0	1	0	0	kurang menarik
+unbearable	0	0	1	0	0	1	0	1	0	0	tak tertahankan
+unbeaten	0	1	0	0	1	1	1	1	1	0	tak terkalahkan
+unbridled	1	1	0	1	0	1	1	0	1	0	tak terkekang
+unbroken	0	0	0	0	0	0	1	0	0	1	tak terputus
+uncanny	0	0	0	1	0	1	0	0	1	0	luar biasa
+uncaring	1	0	1	0	0	1	0	1	0	0	tidak peduli
+uncertain	1	0	1	1	0	1	0	0	1	0	tidak pasti
+unclean	0	0	1	0	0	1	0	0	0	0	najis
+unconscionable	0	0	1	0	0	1	0	0	0	0	rendah budi
+unconstrained	0	0	0	0	1	0	1	0	0	0	tidak dibatasi
+uncontrollable	1	1	0	0	0	1	0	0	1	0	tak terkendali
+uncover	0	0	0	0	0	0	0	0	1	0	menemukan
+undecided	0	1	0	1	0	1	0	0	0	0	bimbang
+underestimate	0	0	0	0	0	0	0	0	1	0	meremehkan
+underpaid	1	0	0	0	0	1	0	1	0	0	kurang bayar
+understanding	0	0	0	0	0	0	1	0	0	1	memahami
+undertaker	0	0	0	0	0	0	0	1	0	0	pengurus
+undertaking	0	1	0	0	0	0	0	0	0	0	usaha
+underwrite	0	0	0	0	0	0	1	0	0	1	menanggung
+undesirable	1	0	1	1	0	1	0	1	0	0	tidak diinginkan
+undesired	0	0	0	0	0	1	0	1	0	0	tidak diinginkan
+undisclosed	0	1	0	0	0	0	0	0	0	0	dirahasiakan
+undiscovered	0	0	0	0	0	0	0	0	1	0	tidak ditemukan
+undoubted	0	1	1	0	0	0	0	0	0	0	tidak diragukan lagi
+undying	0	1	0	0	1	0	1	1	0	1	abadi
+uneasiness	0	1	0	0	0	1	0	1	0	0	rasa gelisah
+uneasy	0	0	1	1	0	1	0	0	0	0	gelisah
+uneducated	0	0	0	0	0	1	0	1	0	0	tidak berpendidikan
+unemployed	0	0	0	1	0	1	0	1	0	0	penganggur
+unequal	1	0	1	1	0	1	0	1	0	0	tidak setara
+unequivocal	0	0	0	0	0	0	0	0	0	1	tegas
+unexpected	0	1	0	1	1	1	1	0	1	0	tidak terduga
+unexpectedly	0	0	0	0	0	0	0	0	1	0	tiba-tiba
+unexplained	0	1	0	0	0	1	0	1	0	0	tidak dapat dijelaskan
+unfair	1	0	1	0	0	1	0	1	0	0	tidak adil
+unfairness	1	0	0	0	0	1	0	1	0	0	ketidakadilan
+unfaithful	0	0	1	0	0	1	0	0	0	0	tidak setia
+unfavorable	0	0	1	0	0	1	0	1	0	0	tidak menguntungkan
+unfold	0	1	0	0	0	0	1	0	0	0	membuka
+unforeseen	0	0	0	0	0	0	0	0	1	0	tak terduga
+unforgiving	1	0	0	0	0	1	0	1	0	0	tak kenal ampun
+unfortunate	0	0	0	0	0	1	0	1	0	0	malang
+unfriendly	1	0	1	1	0	1	0	1	0	0	tidak ramah
+unfulfilled	1	1	0	0	0	1	0	1	1	0	tidak terpenuhi
+ungodly	0	0	0	0	0	1	0	1	0	0	fasik
+ungrateful	1	0	1	0	0	1	0	0	0	0	tidak tahu berterima kasih
+unguarded	0	0	0	0	0	0	0	0	1	0	lengah
+unhappiness	0	0	0	0	0	1	0	1	0	0	ketidakbahagiaan
+unhappy	1	0	1	0	0	1	0	1	0	0	tidak bahagia
+unhealthy	0	0	1	1	0	1	0	1	0	0	tidak sehat
+unholy	0	0	0	1	0	1	0	0	0	0	keterlaluan
+unification	0	1	0	0	1	0	1	0	0	1	penyatuan
+unimaginable	0	0	0	0	0	1	1	0	1	0	tak terbayangkan
+unimportant	0	0	0	0	0	1	0	1	0	0	tidak penting
+uninspired	0	0	0	0	0	1	0	1	0	0	tidak terinspirasi
+unintended	0	0	0	0	0	0	0	0	1	0	tidak disengaja
+unintentional	0	0	0	0	0	0	0	0	1	0	tak disengaja
+unintentionally	0	0	0	0	0	1	0	0	1	0	tidak sengaja
+uninterested	0	0	0	0	0	1	0	1	0	0	tidak tertarik
+uninteresting	0	0	0	0	0	1	0	1	0	0	sepa
+uninvited	0	0	0	0	0	0	0	1	0	0	tidak diundang
+unique	0	0	0	0	0	0	1	0	1	0	unik
+united	0	0	0	0	0	0	1	0	0	1	serikat
+unity	0	0	0	0	0	0	1	0	0	1	persatuan
+university	0	1	0	0	0	0	1	0	0	0	Universitas
+unjust	1	0	0	0	0	1	0	0	0	0	tidak adil
+unjustifiable	1	0	1	1	0	1	0	0	0	0	tidak dapat dibenarkan
+unkind	1	0	1	1	0	1	0	1	0	0	kasar
+unknown	0	1	0	1	0	1	0	0	0	0	tidak dikenal
+unlawful	1	0	1	1	0	1	0	1	0	0	melanggar hukum
+unlucky	1	0	1	1	0	1	0	1	0	0	sial
+unmanageable	0	0	1	0	0	1	0	0	0	0	tidak terkendali
+unnatural	0	0	1	1	0	1	0	0	0	0	tidak wajar
+unpaid	1	0	0	0	0	1	0	1	0	0	belum dibayar
+unpleasant	0	0	1	0	0	1	0	1	0	0	tidak menyenangkan
+unpopular	0	0	1	0	0	1	0	1	0	0	tidak populer
+unprecedented	0	0	0	0	0	0	0	0	1	0	belum pernah terjadi sebelumnya
+unpredictable	0	0	0	0	0	1	0	0	1	0	tak terduga
+unpublished	0	1	0	0	0	1	0	1	0	0	tidak diterbitkan
+unquestionable	0	0	0	0	0	0	1	0	0	1	tidak perlu dipertanyakan lagi
+unquestionably	0	0	0	0	0	0	1	0	0	1	tidak diragukan lagi
+unquestioned	0	0	0	0	0	0	1	0	0	1	tidak diragukan lagi
+unreliable	0	0	0	0	0	1	0	0	0	1	tidak bisa diandalkan
+unrequited	0	0	0	0	0	1	0	1	0	0	tak berbalas
+unresolved	0	1	0	0	0	0	0	0	0	0	belum terselesaikan
+unrest	0	0	0	1	0	0	0	1	0	0	kerusuhan
+unruly	1	0	1	1	0	1	0	0	0	0	tegar
+unsafe	0	0	0	1	0	1	0	0	0	0	tidak aman
+unsatisfactory	0	0	1	0	0	1	0	0	0	0	tidak memuaskan
+unsatisfied	0	0	1	0	0	1	0	1	0	0	tidak puas
+unseat	0	0	0	0	0	0	0	1	0	0	menggeser
+unsettled	1	0	1	1	0	1	0	0	0	0	gelisah
+unsightly	0	0	1	0	0	1	0	0	0	0	tak sedap dipandang
+unspeakable	0	0	0	1	0	1	0	0	0	0	tak terkatakan
+unstable	0	0	0	1	0	1	0	0	1	0	tidak stabil
+unsteady	0	0	0	1	0	0	0	0	0	0	goyah
+unsuccessful	0	0	0	0	0	1	0	1	0	0	gagal
+unsurpassed	0	1	0	1	1	0	1	0	0	1	tak tertandingi
+unsuspecting	0	0	0	0	0	0	0	0	1	0	tidak curiga
+unsympathetic	1	0	0	0	0	1	0	0	0	0	tidak simpati
+unthinkable	1	0	1	1	0	1	0	0	0	0	tak terpikirkan
+untidy	0	0	1	0	0	1	0	0	0	0	berantakan
+untie	0	0	0	0	1	1	1	0	0	0	membuka
+untitled	0	0	0	0	0	1	0	1	0	0	tanpa judul
+untold	0	1	0	0	0	1	0	0	0	0	tak terhitung
+untoward	1	0	1	0	0	1	0	0	0	0	tidak diinginkan
+untrustworthy	1	0	0	0	0	1	0	0	0	0	tidak dapat dipercaya
+unverified	0	1	0	0	0	0	0	0	0	0	tidak diverifikasi
+unwashed	0	0	1	0	0	1	0	0	0	0	belum dicuci
+unwavering	0	0	0	0	0	0	1	0	0	1	teguh
+unwelcome	0	0	0	0	0	1	0	1	0	0	tidak disukai
+unwell	0	0	0	0	0	1	0	1	0	0	sakit
+unworthy	0	0	1	0	0	1	0	0	0	0	tak layak
+upheaval	1	0	0	1	0	1	0	1	0	0	pergolakan
+uphill	0	1	0	1	0	1	1	0	0	0	menanjak
+uplift	0	1	0	0	1	0	1	0	0	1	mengangkat
+upright	0	0	0	0	0	0	1	0	0	1	jujur
+uprising	1	1	0	1	0	1	0	0	0	0	pemberontakan
+upset	1	0	0	0	0	1	0	1	0	0	kecewa
+urgency	0	1	0	1	0	0	0	0	1	0	urgensi
+urgent	0	1	0	1	0	1	0	0	1	0	mendesak
+urn	0	0	0	0	0	0	0	1	0	0	pasu
+usher	0	0	0	0	0	0	1	0	0	1	mengantar
+usual	0	0	0	0	0	0	1	0	0	1	biasa
+usurp	1	0	0	0	0	1	0	0	0	0	merebut
+usurped	1	0	0	1	0	1	0	0	0	0	merebut
+utopian	0	1	0	0	1	0	1	0	0	1	utopis
+vacation	0	1	0	0	1	0	1	0	0	0	liburan
+vacuous	0	0	1	0	0	1	0	0	0	0	hampa
+vainly	0	0	1	0	0	1	0	1	0	0	dengan sia-sia
+validity	0	0	0	1	0	0	0	0	0	0	keabsahan
+valor	0	0	0	0	0	0	1	0	0	1	keberanian
+vampire	1	0	1	1	0	1	0	0	0	0	vampir
+vanish	0	0	0	0	0	0	0	0	1	0	menghilang
+vanished	0	0	0	1	0	1	0	1	1	0	menghilang
+variable	0	0	0	0	0	0	0	0	1	0	variabel
+varicella	0	0	1	1	0	1	0	1	0	0	varisela
+veal	0	0	0	0	0	0	0	1	0	1	Daging sapi muda
+veer	0	0	0	1	0	0	0	0	1	0	membelok
+vegetative	0	0	1	0	0	1	0	1	0	0	vegetatif
+vehement	1	0	0	1	0	1	0	0	0	0	keras
+vendetta	1	0	0	1	0	1	0	1	0	0	dendam
+venerable	0	1	0	0	1	0	1	0	0	1	tua
+vengeance	1	0	0	0	0	1	0	0	0	0	pembalasan dendam
+vengeful	1	0	0	1	0	1	0	0	0	0	pendendam
+venom	1	0	1	1	0	1	0	0	0	0	bisa ular
+venomous	1	0	1	1	0	1	0	0	0	0	berbisa
+vent	1	0	0	0	0	0	0	0	0	0	lubang angin
+veracity	0	1	0	0	1	0	1	0	1	1	kebenaran
+verdict	0	0	0	1	0	0	0	0	0	0	dakwaan
+verge	0	1	0	1	0	1	0	0	0	0	ambang
+verification	0	0	0	0	0	0	1	0	0	1	verifikasi
+verified	0	0	0	0	0	0	1	0	0	1	diverifikasi
+verily	0	0	0	0	0	0	1	0	0	1	sesungguhnya
+vermin	1	0	1	1	0	1	0	0	0	0	hama
+vernal	0	0	0	0	1	0	1	0	0	0	muda
+versus	1	0	0	0	0	1	0	0	0	0	melawan
+vertigo	0	0	0	1	0	1	0	0	0	0	vertigo
+vesicular	0	0	1	0	0	0	0	0	0	0	vesikular
+veteran	0	0	0	0	0	0	1	0	0	1	veteran
+veto	1	0	0	0	0	1	0	0	0	0	memveto
+vicar	0	0	0	0	0	0	1	0	0	1	vikaris
+vicious	1	0	1	0	0	1	0	0	0	0	jahat
+victim	1	0	0	1	0	1	0	1	0	0	korban
+victimized	1	0	1	1	0	1	0	1	1	0	menjadi korban
+victor	0	0	0	0	1	0	1	0	0	0	pemenang
+victorious	0	0	0	0	1	0	1	0	0	0	berjaya
+victory	0	1	0	0	1	0	1	0	0	1	kemenangan
+vigil	0	1	0	0	0	0	0	0	0	0	penjagaan
+vigilance	0	1	0	0	0	0	1	0	0	1	kewaspadaan
+vigilant	0	0	0	1	0	0	1	0	0	1	waspada
+vigorous	0	0	0	0	0	0	1	0	0	1	kuat
+villager	0	0	0	0	0	0	1	0	0	1	orang desa
+villain	0	0	0	1	0	1	0	0	0	0	penjahat
+villainous	1	0	1	1	0	1	0	0	0	0	jahat
+vindicate	1	0	0	0	0	0	0	0	0	0	membersihkan nama baik
+vindication	0	1	0	0	1	0	1	0	0	1	pemulihan nama baik
+vindictive	1	0	1	0	0	1	0	0	0	0	pendendam
+violation	1	0	0	1	0	1	0	1	1	0	pelanggaran
+violence	1	0	0	1	0	1	0	1	0	0	kekerasan
+violent	1	0	1	1	0	1	0	0	1	0	brutal
+violently	1	0	1	1	0	1	0	1	0	0	dengan kekerasan
+viper	0	0	0	1	0	1	0	0	0	0	ular berbisa
+virgin	0	0	0	0	0	0	1	0	0	1	perawan
+virginity	0	1	0	0	0	0	1	0	0	0	keperawanan
+virtue	0	0	0	0	0	0	1	0	0	1	kebajikan
+virtuous	0	0	0	0	1	0	1	0	0	1	berbudi luhur
+virulence	1	0	0	1	0	1	0	0	0	0	keracunan
+vision	0	1	0	0	0	0	1	0	0	0	penglihatan
+visionary	0	1	0	0	1	0	1	0	0	1	visioner
+visitor	0	1	0	0	1	0	1	0	0	0	pengunjung
+visor	0	1	0	0	0	0	0	0	1	0	kedok
+vitality	0	0	0	0	1	0	1	0	0	1	daya hidup
+vivacious	0	0	0	0	1	0	1	0	0	0	lincah
+vivid	0	0	0	0	1	0	1	0	0	0	jelas
+volatility	1	1	0	1	0	1	0	0	1	0	keriangan
+volcano	0	0	0	1	0	1	0	0	1	0	gunung berapi
+volunteer	0	1	0	1	1	0	1	0	0	1	sukarelawan
+volunteers	0	0	0	0	0	0	0	0	0	1	sukarelawan
+voluptuous	0	1	0	0	1	0	1	0	0	0	bahenol
+vomit	0	0	1	0	0	0	0	0	0	0	muntah
+vote	1	1	0	0	1	1	1	1	1	1	Pilih
+votive	0	0	0	0	0	0	0	0	0	1	nazar
+vouch	0	0	0	0	0	0	1	0	0	1	menjamin
+voucher	0	0	0	0	0	0	0	0	0	1	voucher
+vow	0	1	0	0	1	0	1	0	0	1	sumpah
+voyage	0	1	0	0	0	0	0	0	0	0	perjalanan
+vulgar	0	0	1	0	0	1	0	0	0	0	vulgar
+vulgarity	1	0	1	0	0	1	0	1	0	0	kekasaran
+vulnerability	0	0	0	1	0	1	0	1	0	0	kerentanan
+vulture	0	0	1	1	0	1	0	0	0	0	burung bangkai
+waffle	1	0	0	0	0	1	0	1	0	0	omongan
+wages	0	0	0	0	1	0	1	0	0	0	upah
+wail	0	0	0	1	0	1	0	1	0	0	meratap
+wait	0	1	0	0	0	1	0	0	0	0	tunggu
+wallow	0	0	1	0	0	1	0	1	0	0	berkubang
+wan	0	0	0	1	0	1	0	1	0	0	lemah
+wane	0	0	0	0	0	1	0	1	0	0	menyusut
+wanting	0	0	0	0	0	1	0	1	0	0	ingin
+war	0	0	0	1	0	1	0	0	0	0	perang
+warden	1	0	0	1	0	1	0	0	0	1	sipir
+ware	0	0	0	1	0	1	0	0	0	0	barang
+warfare	1	0	0	1	0	1	0	1	0	0	perang
+warlike	1	0	0	1	0	1	0	0	0	0	berkenaan dengan perang
+warlock	0	0	0	1	0	0	0	0	0	0	ahli sihir
+warn	0	1	0	1	0	1	0	0	1	1	memperingatkan
+warned	0	1	0	1	0	0	0	0	1	0	diperingatkan
+warning	0	0	0	1	0	0	0	0	0	0	peringatan
+warp	1	0	0	0	0	1	0	1	0	0	melengkung
+warranty	0	0	0	0	0	0	1	0	0	1	jaminan
+warrior	1	0	0	1	0	0	1	0	0	0	pejuang
+wart	0	0	1	0	0	1	0	0	0	0	kutil
+wary	0	0	0	1	0	0	0	0	0	0	waspada
+waste	0	0	1	0	0	1	0	0	0	0	limbah
+wasted	1	0	1	0	0	1	0	0	0	0	sia-sia
+wasteful	1	0	1	0	0	1	0	1	0	0	boros
+wasting	0	0	1	1	0	1	0	1	0	0	menyia nyiakan
+watch	0	1	0	1	0	0	0	0	0	0	jam tangan
+watchdog	0	0	0	0	0	0	1	0	0	1	penjaga
+watchful	0	0	0	0	0	0	1	0	0	1	waspada
+watchman	0	0	0	0	0	0	1	0	0	1	penjaga
+waver	0	0	0	1	0	1	0	0	0	0	bimbang
+weakly	0	0	0	1	0	1	0	1	0	0	dengan lemah
+wealth	0	0	0	0	1	0	1	0	0	1	kekayaan
+wear	0	0	0	0	0	1	0	0	0	1	memakai
+wearily	0	0	0	0	0	1	0	1	0	0	letih
+weariness	0	0	0	0	0	1	0	1	0	0	kelelahan
+weary	0	0	0	0	0	1	0	1	0	0	lelah
+weeds	0	0	0	0	0	1	0	1	0	0	rumput liar
+weep	0	0	0	0	0	1	0	1	0	0	menangis
+weeping	0	0	0	0	0	0	0	1	0	0	tangisan
+weigh	0	1	0	0	0	0	0	0	0	1	Menimbang
+weight	0	1	1	1	1	1	1	1	1	1	bobot
+weighty	0	0	0	1	0	0	0	0	0	0	berat
+weird	0	0	1	0	0	1	0	0	0	0	aneh
+weirdo	0	0	0	1	0	1	0	0	0	0	orang aneh
+welcomed	0	0	0	0	1	0	1	0	0	0	menyambut
+wench	1	0	1	0	0	1	0	0	0	0	dara
+whim	0	1	0	0	1	1	0	0	1	0	keinginan
+whimper	0	0	0	1	0	0	0	1	0	0	merengek
+whimsical	0	0	0	0	1	0	0	0	0	0	aneh
+whine	0	0	1	0	0	1	0	1	0	0	merengek
+whip	1	0	0	0	0	1	0	0	0	0	cambuk
+whirlpool	0	0	0	1	0	0	0	0	0	0	pusaran air
+whirlwind	0	0	0	1	0	1	0	0	0	0	angin puyuh
+whiteness	0	0	0	0	1	0	1	0	0	0	putihnya
+wholesome	0	0	0	0	0	0	1	0	0	1	baik
+whore	0	0	1	0	0	1	0	0	0	0	pelacur
+wicked	0	0	0	1	0	1	0	0	0	0	jahat
+wickedness	0	0	1	0	0	1	0	0	0	0	kejahatan
+widow	0	0	0	0	0	0	0	1	0	0	janda
+widower	0	0	0	0	0	0	0	1	0	0	duda
+wild	0	0	0	0	0	1	0	0	1	0	liar
+wilderness	0	1	0	1	0	0	0	1	0	0	gurun
+wildfire	0	0	0	1	0	1	0	1	1	0	kebakaran
+willful	1	0	0	0	0	1	0	1	0	0	disengaja
+wimp	0	0	1	1	0	1	0	0	0	0	pengecut
+wimpy	1	0	1	1	0	1	0	1	0	0	lemah
+wince	1	0	1	1	0	1	0	1	0	0	menggerenyet
+winner	0	1	0	0	1	0	1	0	1	0	pemenang
+winning	0	1	1	0	1	0	1	1	1	1	kemenangan
+winnings	0	1	0	0	1	0	1	0	0	0	kemenangan
+wireless	1	1	0	0	0	0	1	0	1	0	nirkabel
+wisdom	0	0	0	0	0	0	1	0	0	1	kebijaksanaan
+wishful	0	1	0	0	0	0	0	0	0	0	penuh harapan
+witch	1	0	1	1	0	1	0	0	0	0	penyihir
+witchcraft	1	0	0	1	0	1	0	1	0	0	sihir
+withdraw	0	0	0	0	0	1	0	1	0	0	menarik
+wither	0	0	0	0	0	1	0	1	0	0	melayu
+withered	0	0	1	0	0	1	0	0	0	0	layu
+withstand	0	1	0	1	0	0	1	0	0	0	menahan
+witness	0	0	0	0	0	0	0	0	0	1	saksi
+witty	0	0	0	0	1	0	1	0	0	0	cerdas
+wizard	0	1	0	0	0	0	1	0	1	0	Penyihir
+woe	0	0	1	1	0	1	0	1	0	0	duka
+woeful	0	0	0	0	0	1	0	1	0	0	sedih
+woefully	0	0	1	0	0	1	0	1	0	0	dengan menyedihkan
+wonderful	0	0	0	0	1	0	1	0	1	1	luar biasa
+wonderfully	0	0	0	0	1	0	1	0	1	0	sangat
+wont	0	1	0	0	0	0	0	0	0	0	tidak akan
+wop	1	0	0	0	0	0	0	0	0	0	wow
+word	0	0	0	0	0	0	1	0	0	1	kata
+words	1	0	0	0	0	1	0	0	0	0	kata-kata
+worm	0	1	0	0	0	1	0	0	1	0	cacing
+worn	0	0	0	0	0	1	0	1	0	0	dipakai
+worried	0	0	0	0	0	1	0	1	0	0	khawatir
+worry	0	1	0	1	0	1	0	1	0	0	khawatir
+worrying	0	1	0	1	0	1	0	1	0	0	mengkhawatirkan
+worse	0	0	0	1	0	1	0	1	0	0	lebih buruk
+worsening	0	0	1	0	0	1	0	1	0	0	memburuk
+worship	0	1	0	1	1	0	1	0	0	1	memuja
+worthless	1	0	1	0	0	1	0	1	0	0	tidak berguna
+worthy	0	0	0	0	0	0	1	0	0	1	layak
+wot	0	0	0	0	0	0	1	0	0	1	wot
+wound	1	0	0	1	0	1	0	1	0	0	luka
+wrangling	1	0	1	1	0	1	0	1	0	0	pertengkaran
+wrath	1	0	0	1	0	1	0	0	0	0	kemarahan
+wreak	1	0	0	0	0	1	0	0	0	0	melampiaskan
+wreck	1	0	1	1	0	1	0	1	1	0	kecelakaan
+wrecked	1	0	0	1	0	1	0	1	0	0	hancur
+wretch	1	0	1	0	0	1	0	1	0	0	orang celaka
+wretched	0	0	1	0	0	1	0	1	0	0	malang
+wring	1	0	0	0	0	0	0	0	0	0	memeras
+wrinkled	0	0	0	0	0	0	0	1	0	0	berkerut
+wrongdoing	1	0	1	0	0	1	0	1	0	0	pelanggaran
+wrongful	1	0	1	0	0	1	0	1	0	0	salah
+wrongly	1	0	0	1	0	1	0	1	0	0	salah
+xenophobia	0	0	0	1	0	1	0	0	0	0	xenofobia
+yearning	0	1	0	0	1	1	1	0	0	1	kerinduan
+yell	1	0	0	1	0	1	0	0	1	0	berteriak
+yelp	1	0	0	1	0	1	0	0	1	0	menyalak
+youth	1	1	0	1	1	0	1	0	1	0	anak muda
+zany	0	0	0	0	0	0	0	0	1	0	amat lucu
+zeal	0	1	0	0	1	0	1	0	1	1	semangat
+zealous	0	0	0	0	1	0	1	0	0	1	tekun
+zest	0	1	0	0	1	0	1	0	0	1	semangat
