@@ -16,6 +16,7 @@ except ImportError:
     WORDCLOUD_AVAILABLE = False
 
 try:
+    import nltk
     from nltk.tokenize import word_tokenize
     NLTK_AVAILABLE = True
 except ImportError:
@@ -50,32 +51,25 @@ KAMUS_NEGASI_PATH = BASE_DIR / "kamus_negasi.txt"
 LABEL_ORDER = ["negatif", "positif"]
 LABEL_DISPLAY = {"negatif": "Negatif", "positif": "Positif"}
 
-EMOSI_8 = ["anger", "anticipation", "disgust", "fear", "joy", "sadness", "surprise", "trust"]
+NRC_EMOTION_COLUMNS = {"anger", "anticipation", "disgust", "fear", "joy", "sadness", "surprise", "trust"}
+EMOSI_4 = ["anger", "fear", "joy", "trust"]
 EMOSI_LABEL = {
     "anger": "Marah",
-    "anticipation": "Antisipasi",
-    "disgust": "Jijik",
     "fear": "Takut",
     "joy": "Senang",
-    "sadness": "Sedih",
-    "surprise": "Terkejut",
     "trust": "Percaya",
 }
-EMOSI_COLS = [EMOSI_LABEL[e] for e in EMOSI_8]
-RAW_EMOSI_COLS = [f"raw_{EMOSI_LABEL[e]}" for e in EMOSI_8]
-PRESENCE_EMOSI_COLS = [f"presence_{EMOSI_LABEL[e]}" for e in EMOSI_8]
-WEIGHTED_EMOSI_COLS = [f"weighted_{EMOSI_LABEL[e]}" for e in EMOSI_8]
+EMOSI_COLS = [EMOSI_LABEL[e] for e in EMOSI_4]
+RAW_EMOSI_COLS = [f"raw_{EMOSI_LABEL[e]}" for e in EMOSI_4]
+PRESENCE_EMOSI_COLS = [f"presence_{EMOSI_LABEL[e]}" for e in EMOSI_4]
+WEIGHTED_EMOSI_COLS = [f"weighted_{EMOSI_LABEL[e]}" for e in EMOSI_4]
 
-EMOSI_TIE_PRIORITY = ["anger", "fear", "disgust", "sadness", "joy", "trust", "anticipation", "surprise"]
+EMOSI_TIE_PRIORITY = ["anger", "fear", "joy", "trust"]
 
 EMOSI_COLOR = {
     "Marah": "#D62728",
-    "Antisipasi": "#FF7F0E",
-    "Jijik": "#8C564B",
     "Takut": "#9467BD",
     "Senang": "#2CA02C",
-    "Sedih": "#1F77B4",
-    "Terkejut": "#E377C2",
     "Percaya": "#17BECF",
     "Tidak Ada": "#BBBBBB",
 }
@@ -122,6 +116,28 @@ SLANG_DICT = {
 # =============================================================================
 
 @st.cache_resource
+def setup_nltk_tokenizer():
+    """Pastikan data tokenizer NLTK tersedia, termasuk pada Streamlit Cloud."""
+    if not NLTK_AVAILABLE:
+        return False
+
+    resources = {
+        "tokenizers/punkt": "punkt",
+        "tokenizers/punkt_tab": "punkt_tab",
+    }
+    try:
+        for resource_path, package_name in resources.items():
+            try:
+                nltk.data.find(resource_path)
+            except LookupError:
+                if not nltk.download(package_name, quiet=True):
+                    return False
+        return True
+    except Exception:
+        return False
+
+
+@st.cache_resource
 def get_stemmer_and_stopwords():
     """Inisialisasi stemmer Sastrawi dan daftar stopword sesuai pipeline notebook."""
     if not SASTRAWI_AVAILABLE:
@@ -164,6 +180,12 @@ def tokenisasi(text: str) -> list:
         st.error(
             "Pustaka **NLTK** tidak tersedia, sehingga tokenisasi tidak dapat "
             "dijalankan sesuai pipeline notebook."
+        )
+        st.stop()
+    if not setup_nltk_tokenizer():
+        st.error(
+            "Data tokenizer NLTK (`punkt` dan `punkt_tab`) tidak dapat diunduh. "
+            "Pastikan aplikasi memiliki akses internet saat pertama kali dijalankan."
         )
         st.stop()
     try:
@@ -462,10 +484,10 @@ def load_nrc_lexicon():
 
     df_nrc = df_nrc.rename(columns={col: normalize_colname(col) for col in df_nrc.columns})
     nrc_dict = defaultdict(set)
-    available_emotions = [e for e in EMOSI_8 if e in df_nrc.columns]
+    available_emotions = [e for e in EMOSI_4 if e in df_nrc.columns]
 
     if len(available_emotions) >= 4:
-        non_emotion_cols = [c for c in df_nrc.columns if c not in set(EMOSI_8) | {"positive", "negative"}]
+        non_emotion_cols = [c for c in df_nrc.columns if c not in NRC_EMOTION_COLUMNS | {"positive", "negative"}]
         term_col = choose_indonesian_term_column(non_emotion_cols)
         for _, row in df_nrc.iterrows():
             key = normalize_lexicon_term(row.get(term_col, ""), stemmer, stopword_list)
@@ -479,7 +501,7 @@ def load_nrc_lexicon():
         term_col = choose_indonesian_term_column(term_candidates)
         for _, row in df_nrc.iterrows():
             emotion = normalize_colname(row.get("emotion", ""))
-            if emotion in EMOSI_8 and is_active_value(row.get("association", 0)):
+            if emotion in EMOSI_4 and is_active_value(row.get("association", 0)):
                 key = normalize_lexicon_term(row.get(term_col, ""), stemmer, stopword_list)
                 if key:
                     nrc_dict[key].add(emotion)
@@ -487,8 +509,7 @@ def load_nrc_lexicon():
         raw = pd.read_csv(NRC_PATH, sep="\t", header=None, dtype=str, encoding="utf-8", on_bad_lines="skip")
         if raw.shape[1] >= 12:
             term_col_idx = raw.shape[1] - 1
-            emotion_position = {"anger": 1, "anticipation": 2, "disgust": 3, "fear": 4, "joy": 5,
-                                 "sadness": 8, "surprise": 9, "trust": 10}
+            emotion_position = {"anger": 1, "fear": 4, "joy": 5, "trust": 10}
             for _, row in raw.iterrows():
                 key = normalize_lexicon_term(row.iloc[term_col_idx], stemmer, stopword_list)
                 if not key:
@@ -500,7 +521,7 @@ def load_nrc_lexicon():
             raw.columns = ["term", "emotion", "association"]
             for _, row in raw.iterrows():
                 emotion = normalize_colname(row.get("emotion", ""))
-                if emotion in EMOSI_8 and is_active_value(row.get("association", 0)):
+                if emotion in EMOSI_4 and is_active_value(row.get("association", 0)):
                     key = normalize_lexicon_term(row.get("term", ""), stemmer, stopword_list)
                     if key:
                         nrc_dict[key].add(emotion)
@@ -533,8 +554,8 @@ def score_nrc_per_comment(text_or_tokens, nrc_dict, max_ngram):
     stemmer, stopword_list = get_stemmer_and_stopwords()
     tokens = tokens_for_phrase_matching(text_or_tokens, stemmer, stopword_list)
     kamus_negasi, _, _ = load_kamus_negasi()
-    raw_counts = {emotion: 0 for emotion in EMOSI_8}
-    weighted_scores = {emotion: 0.0 for emotion in EMOSI_8}
+    raw_counts = {emotion: 0 for emotion in EMOSI_4}
+    weighted_scores = {emotion: 0.0 for emotion in EMOSI_4}
     matches = []
 
     i = 0
@@ -565,8 +586,8 @@ def score_nrc_per_comment(text_or_tokens, nrc_dict, max_ngram):
         if not found:
             i += 1
 
-    presence = {emotion: int(raw_counts[emotion] > 0) for emotion in EMOSI_8}
-    detected = [EMOSI_LABEL[e] for e in EMOSI_8 if presence[e] == 1]
+    presence = {emotion: int(raw_counts[emotion] > 0) for emotion in EMOSI_4}
+    detected = [EMOSI_LABEL[e] for e in EMOSI_4 if presence[e] == 1]
 
     if sum(raw_counts.values()) == 0:
         dominant_label = "Tidak Ada"
@@ -575,7 +596,7 @@ def score_nrc_per_comment(text_or_tokens, nrc_dict, max_ngram):
         metode_pemilihan = "Tidak ada term NRC yang cocok"
     else:
         max_score = max(weighted_scores.values())
-        candidate_codes = [e for e in EMOSI_8 if np.isclose(weighted_scores[e], max_score) and max_score > 0]
+        candidate_codes = [e for e in EMOSI_4 if np.isclose(weighted_scores[e], max_score) and max_score > 0]
         if len(candidate_codes) == 1:
             dominant_code = candidate_codes[0]
             metode_pemilihan = "Skor tertimbang tertinggi"
@@ -670,13 +691,16 @@ def load_smote_distribution():
 @st.cache_data
 def load_nrc_summary():
     path = OUTPUT_DIR / "ringkasan_nrc_emosi_dominan_raw_presence.csv"
-    return pd.read_csv(path)
+    df_nrc_summary = pd.read_csv(path)
+    return df_nrc_summary[df_nrc_summary["Emosi"].isin(EMOSI_COLS)].copy()
 
 
 @st.cache_data
 def load_emosi_per_sentimen():
     path = OUTPUT_DIR / "emosi_dominan_per_sentimen.csv"
-    return pd.read_csv(path).set_index("sentimen_pred")
+    df_emosi = pd.read_csv(path).set_index("sentimen_pred")
+    keep_cols = [col for col in EMOSI_COLS + ["Tidak Ada"] if col in df_emosi.columns]
+    return df_emosi[keep_cols]
 
 
 @st.cache_data
@@ -757,15 +781,14 @@ def plot_confusion_matrix(cm, title):
 
 
 def plot_bar_metrics(results_df, title):
-    plot_df = results_df.set_index("Skenario")[["Accuracy", "Precision_Macro", "Recall_Macro", "F1_Macro"]]
+    plot_df = results_df.set_index("Skenario")[["Accuracy", "Precision_Macro", "Recall_Macro"]]
     fig, ax = plt.subplots(figsize=(9, 4.5))
     plot_df.plot(kind="bar", ax=ax)
     ax.set_title(title, fontweight="bold")
     ax.set_ylabel("Nilai Metrik")
     ax.set_ylim(0, 1)
     ax.set_xlabel("Skenario")
-    ax.legend(["Accuracy", "Precision (Macro)", "Recall (Macro)", "F1-Score (Macro)"],
-              loc="lower right", fontsize=8)
+    ax.legend(["Accuracy", "Precision (Macro)", "Recall (Macro)"], loc="lower right", fontsize=8)
     plt.xticks(rotation=0)
     fig.tight_layout()
     return fig
@@ -775,13 +798,13 @@ def plot_smote_effect(smote_effect_df):
     x = np.arange(len(smote_effect_df))
     width = 0.35
     fig, ax = plt.subplots(figsize=(7, 4))
-    ax.bar(x - width / 2, smote_effect_df["F1_Tanpa_SMOTE"], width, label="Tanpa SMOTE", color="#9ecae1")
-    ax.bar(x + width / 2, smote_effect_df["F1_Dengan_SMOTE"], width, label="Dengan SMOTE", color="#3182bd")
+    ax.bar(x - width / 2, smote_effect_df["Accuracy_Tanpa_SMOTE"], width, label="Tanpa SMOTE", color="#9ecae1")
+    ax.bar(x + width / 2, smote_effect_df["Accuracy_Dengan_SMOTE"], width, label="Dengan SMOTE", color="#3182bd")
     ax.set_xticks(x)
     ax.set_xticklabels(smote_effect_df["Kernel"])
     ax.set_ylim(0, 1)
-    ax.set_ylabel("F1-Score Makro")
-    ax.set_title("Pengaruh SMOTE terhadap F1-Score Makro per Kernel", fontweight="bold")
+    ax.set_ylabel("Accuracy")
+    ax.set_title("Pengaruh SMOTE terhadap Accuracy per Kernel", fontweight="bold")
     ax.legend()
     fig.tight_layout()
     return fig
@@ -847,9 +870,9 @@ def plot_wordcloud(text, title):
 
 
 def plot_emosi_bar_single(weighted_scores, dominant_label):
-    """Bar chart skor tertimbang 8 emosi untuk satu komentar, highlight emosi dominan."""
-    labels = [EMOSI_LABEL[e] for e in EMOSI_8]
-    values = [weighted_scores[e] for e in EMOSI_8]
+    """Bar chart skor tertimbang 4 emosi untuk satu komentar, highlight emosi dominan."""
+    labels = [EMOSI_LABEL[e] for e in EMOSI_4]
+    values = [weighted_scores[e] for e in EMOSI_4]
     colors = []
     for label in labels:
         if label == dominant_label:
@@ -859,7 +882,7 @@ def plot_emosi_bar_single(weighted_scores, dominant_label):
     fig, ax = plt.subplots(figsize=(7, 3.5))
     bars = ax.bar(labels, values, color=colors)
     ax.set_ylabel("Skor Tertimbang")
-    ax.set_title("Skor Tertimbang 8 Emosi NRC per Komentar", fontweight="bold")
+    ax.set_title("Skor Tertimbang 4 Emosi NRC per Komentar", fontweight="bold")
     for bar, val in zip(bars, values):
         if val > 0:
             ax.text(bar.get_x() + bar.get_width() / 2, val + 0.02, f"{val:.2f}", ha="center", fontsize=9)
@@ -907,14 +930,13 @@ nrc_summary_df = load_nrc_summary()
 emosi_per_sentimen_df = load_emosi_per_sentimen()
 metadata = load_metadata()
 
-selected_scenario = metadata.get("selected_scenario")
-if not selected_scenario:
-    st.toast("Metadata notebook belum memuat selected_scenario. Jalankan notebook terlebih dahulu.", icon="⚠️")
-    st.error("File metadata tidak memuat `selected_scenario`.")
-    st.stop()
-
-best_smote_scenario = metadata.get("best_smote_scenario", selected_scenario)
-best_overall_scenario = metadata.get("best_overall_scenario", selected_scenario)
+best_overall_scenario = results_df.sort_values("Accuracy", ascending=False).iloc[0]["Skenario"]
+best_smote_scenario = (
+    results_df.loc[results_df["Kondisi_SMOTE"].eq("Dengan SMOTE")]
+    .sort_values("Accuracy", ascending=False)
+    .iloc[0]["Skenario"]
+)
+selected_scenario = best_overall_scenario
 model_output_path = OUTPUT_DIR / f"model_svm_terpilih_{selected_scenario}.joblib"
 if not model_output_path.exists():
     show_missing_notebook_outputs([model_output_path])
@@ -942,11 +964,11 @@ if page == "Ringkasan Umum":
     col2.metric("Sentimen Negatif", f"{jml_negatif:,}", f"{jml_negatif/total_data*100:.1f}%")
     col3.metric("Sentimen Positif", f"{jml_positif:,}", f"{jml_positif/total_data*100:.1f}%")
 
-    best_row = results_df.sort_values("F1_Macro", ascending=False).iloc[0]
+    best_row = results_df.sort_values("Accuracy", ascending=False).iloc[0]
     col4.metric(
         f"Model Terbaik ({best_row['Skenario']})",
         f"Akurasi {best_row['Accuracy']*100:.2f}%",
-        f"F1-Macro {best_row['F1_Macro']*100:.2f}%",
+        f"{best_row['Kernel']} {best_row['Kondisi_SMOTE']}",
     )
 
     st.markdown("---")
@@ -992,16 +1014,16 @@ if page == "Ringkasan Umum":
 
     st.subheader("Ringkasan Model SVM Terbaik")
     info = SCENARIO_INFO.get(selected_scenario, SCENARIO_INFO["2B"])
-    c1, c2, c3, c4, c5 = st.columns(5)
+    c1, c2, c3, c4 = st.columns(4)
     c1.metric("Skenario", selected_scenario)
     c2.metric("Kernel", info["Kernel"])
     c3.metric("Kondisi Data Latih", info["Kondisi_SMOTE"])
     c4.metric("Accuracy", format_pct(best_row["Accuracy"]))
-    c5.metric("F1-Score Makro", format_pct(best_row["F1_Macro"]))
 
     st.info(
-        f"Model terbaik dengan SMOTE: **Skenario {best_smote_scenario}**. "
-        f"Model terbaik keseluruhan (semua skenario): **Skenario {best_overall_scenario}**. "
+        f"Berdasarkan Accuracy, model terbaik dengan SMOTE adalah **Skenario {best_smote_scenario}**. "
+        f"Model terbaik keseluruhan adalah **Skenario {best_overall_scenario}** "
+        f"dengan Accuracy **{format_pct(best_row['Accuracy'])}**. "
         f"Model yang digunakan untuk memprediksi seluruh dataset: **Skenario {selected_scenario}**."
     )
 
@@ -1046,30 +1068,27 @@ elif page == "Perbandingan Model SVM":
 
     st.subheader("Tabel Hasil Evaluasi Skenario 1A - 3B")
     display_df = results_df.copy()
-    for col in ["Accuracy", "Precision_Macro", "Recall_Macro", "F1_Macro",
-                "Precision_Weighted", "Recall_Weighted", "F1_Weighted"]:
+    for col in ["Accuracy", "Precision_Macro", "Recall_Macro", "Precision_Weighted", "Recall_Weighted"]:
         if col in display_df.columns:
             display_df[col] = (display_df[col] * 100).round(2)
 
     st.dataframe(
         display_df[["Skenario", "Kernel", "Kondisi_SMOTE", "Accuracy",
-                     "Precision_Macro", "Recall_Macro", "F1_Macro", "F1_Weighted"]].rename(columns={
+                     "Precision_Macro", "Recall_Macro"]].rename(columns={
                          "Accuracy": "Accuracy (%)",
                          "Precision_Macro": "Precision Macro (%)",
                          "Recall_Macro": "Recall Macro (%)",
-                         "F1_Macro": "F1-Macro (%)",
-                         "F1_Weighted": "F1-Weighted (%)",
                      }),
         use_container_width=True,
         hide_index=True,
     )
 
-    best_row = results_df.sort_values("F1_Macro", ascending=False).iloc[0]
+    best_row = results_df.sort_values("Accuracy", ascending=False).iloc[0]
     st.success(
-        f"Model dengan F1-Score Makro tertinggi: **Skenario {best_row['Skenario']} "
+        f"Model dengan Accuracy tertinggi: **Skenario {best_row['Skenario']} "
         f"({best_row['Kernel']}, {best_row['Kondisi_SMOTE']})** dengan "
-        f"Accuracy = {format_pct(best_row['Accuracy'])} dan "
-        f"F1-Macro = {format_pct(best_row['F1_Macro'])}."
+        f"Accuracy = {format_pct(best_row['Accuracy'])}. "
+        "Hasil ini menunjukkan bahwa RBF tanpa SMOTE menjadi model terbaik keseluruhan."
     )
 
     st.markdown("---")
@@ -1089,15 +1108,13 @@ elif page == "Perbandingan Model SVM":
     )
 
     scenario_row = results_df.loc[results_df["Skenario"] == scenario_choice].iloc[0]
-    metric_cols = st.columns(4)
+    metric_cols = st.columns(3)
     metric_cols[0].metric("Accuracy", format_pct(scenario_row["Accuracy"]))
     metric_cols[1].metric("Precision Macro", format_pct(scenario_row["Precision_Macro"]))
     metric_cols[2].metric("Recall Macro", format_pct(scenario_row["Recall_Macro"]))
-    metric_cols[3].metric("F1-Macro", format_pct(scenario_row["F1_Macro"]))
     st.dataframe(
         pd.DataFrame([scenario_row]).rename(columns={
             "Best_Params": "Parameter Terbaik",
-            "Best_CV_F1_Macro": "Best CV F1-Macro",
         }),
         use_container_width=True,
         hide_index=True,
@@ -1150,18 +1167,16 @@ elif page == "Pengaruh SMOTE":
 
     st.markdown("---")
 
-    st.subheader("Perbandingan F1-Score Makro dan Accuracy per Kernel")
+    st.subheader("Perbandingan Accuracy per Kernel")
     display_smote = smote_effect_df.copy()
-    for col in ["F1_Tanpa_SMOTE", "F1_Dengan_SMOTE", "Delta_F1", "Accuracy_Tanpa_SMOTE",
-                "Accuracy_Dengan_SMOTE", "Delta_Accuracy"]:
+    for col in ["Accuracy_Tanpa_SMOTE", "Accuracy_Dengan_SMOTE", "Delta_Accuracy"]:
         if col in display_smote.columns:
             display_smote[col] = (display_smote[col] * 100).round(2)
 
     st.dataframe(
-        display_smote.rename(columns={
-            "F1_Tanpa_SMOTE": "F1-Macro Tanpa SMOTE (%)",
-            "F1_Dengan_SMOTE": "F1-Macro Dengan SMOTE (%)",
-            "Delta_F1": "Selisih F1-Macro (poin %)",
+        display_smote[["Kernel", "Skenario_Tanpa_SMOTE", "Accuracy_Tanpa_SMOTE",
+                       "Skenario_Dengan_SMOTE", "Accuracy_Dengan_SMOTE",
+                       "Delta_Accuracy"]].rename(columns={
             "Accuracy_Tanpa_SMOTE": "Accuracy Tanpa SMOTE (%)",
             "Accuracy_Dengan_SMOTE": "Accuracy Dengan SMOTE (%)",
             "Delta_Accuracy": "Selisih Accuracy (poin %)",
@@ -1172,7 +1187,7 @@ elif page == "Pengaruh SMOTE":
 
     st.markdown("---")
 
-    st.subheader("Grafik Pengaruh SMOTE terhadap F1-Score Makro")
+    st.subheader("Grafik Pengaruh SMOTE terhadap Accuracy")
     fig = plot_smote_effect(smote_effect_df)
     st.pyplot(fig)
 
@@ -1180,24 +1195,23 @@ elif page == "Pengaruh SMOTE":
 
     st.subheader("Interpretasi")
     st.markdown(
-        "Berdasarkan kriteria pada rancangan penelitian, peningkatan F1-Score "
-        "makro lebih dari **5 poin persentase** dianggap sebagai bukti kontribusi "
-        "nyata SMOTE. Pada penelitian ini, seluruh selisih F1-Score makro "
-        "berkisar antara **-0,61 hingga +0,80 poin persentase**, jauh di bawah "
-        "ambang batas tersebut."
+        "Berdasarkan Accuracy sebagai metrik utama, model tanpa SMOTE justru "
+        "memberikan performa terbaik pada kernel RBF. Skenario **2A (RBF tanpa "
+        "SMOTE)** mencapai Accuracy tertinggi sebesar **77,52%**, sedangkan "
+        "Skenario **2B (RBF dengan SMOTE)** lebih rendah. Artinya, SMOTE tidak "
+        "selalu diperlukan pada kasus ini."
     )
     col1, col2, col3 = st.columns(3)
     for col, row in zip([col1, col2, col3], smote_effect_df.itertuples()):
-        delta_f1 = row.Delta_F1 * 100
-        arrow = "🔼" if delta_f1 > 0 else "🔽"
-        col.metric(f"{row.Kernel}", f"{arrow} {delta_f1:+.2f} poin F1-Macro",
+        delta_accuracy = row.Delta_Accuracy * 100
+        arrow = "🔼" if delta_accuracy > 0 else "🔽"
+        col.metric(f"{row.Kernel}", f"{arrow} {delta_accuracy:+.2f} poin Accuracy",
                    f"{row.Skenario_Tanpa_SMOTE} → {row.Skenario_Dengan_SMOTE}")
 
     st.info(
-        "**Kesimpulan**: SMOTE tidak memberikan pengaruh signifikan terhadap "
-        "metrik agregat (accuracy & F1-Macro), namun tetap membantu meningkatkan "
-        "**recall kelas Positif (kelas minoritas)** pada ketiga kernel, sehingga "
-        "model menjadi sedikit lebih sensitif dalam mengenali komentar bersentimen positif."
+        "**Kesimpulan**: Dengan Accuracy sebagai metrik utama, SMOTE tidak "
+        "diperlukan untuk kernel RBF pada penelitian ini karena model tanpa "
+        "SMOTE (2A) menghasilkan performa terbaik keseluruhan."
     )
 
 
@@ -1209,9 +1223,18 @@ elif page == "Peta Emosi Publik":
     st.title("Peta Emosi Publik terhadap Program MBG")
     st.markdown(
         "Analisis emosi menggunakan **NRC Emotion Lexicon versi Bahasa Indonesia** "
-        "(8 emosi dasar) pada seluruh 1.286 komentar bersih. Setiap komentar "
+        "pada seluruh 1.286 komentar bersih. Setiap komentar "
         "diberikan satu **emosi dominan final** berdasarkan skor tertimbang "
         "tertinggi dari kata-kata yang cocok dengan kamus NRC."
+    )
+    st.info(
+        "Analisis emosi dibatasi pada empat emosi: **Percaya (Trust)** dan "
+        "**Senang (Joy)** sebagai representasi polaritas positif, serta "
+        "**Marah (Anger)** dan **Takut (Fear)** sebagai representasi polaritas "
+        "negatif. Berdasarkan *Plutchik's Wheel of Emotions*, keempat emosi ini "
+        "mewakili dukungan/kepercayaan dan kekhawatiran/kritik yang paling "
+        "relevan untuk analisis kebijakan publik Program MBG. Emosi lain tidak "
+        "ditampilkan untuk menghindari redundansi makna."
     )
     st.markdown("---")
 
@@ -1671,12 +1694,12 @@ elif page == "Pengujian Interaktif":
                     f"**{hasil_nrc['bukti_emosi_dominan']}**"
                 )
 
-            st.markdown("### Rincian Skor 8 Emosi NRC")
+            st.markdown("### Rincian Skor 4 Emosi NRC")
             detail_emosi_df = pd.DataFrame({
                 "Emosi": EMOSI_COLS,
-                "Raw Count": [hasil_nrc["raw_counts"][e] for e in EMOSI_8],
-                "Presence (0/1)": [hasil_nrc["presence"][e] for e in EMOSI_8],
-                "Skor Tertimbang": [round(hasil_nrc["weighted_scores"][e], 4) for e in EMOSI_8],
+                "Raw Count": [hasil_nrc["raw_counts"][e] for e in EMOSI_4],
+                "Presence (0/1)": [hasil_nrc["presence"][e] for e in EMOSI_4],
+                "Skor Tertimbang": [round(hasil_nrc["weighted_scores"][e], 4) for e in EMOSI_4],
             }).sort_values("Skor Tertimbang", ascending=False)
             st.dataframe(detail_emosi_df, use_container_width=True, hide_index=True)
         else:
