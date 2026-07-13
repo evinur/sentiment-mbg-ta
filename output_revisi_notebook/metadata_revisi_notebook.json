@@ -1,0 +1,41 @@
+{
+  "random_state": 42,
+  "tfidf_config": {
+    "max_features": 5000,
+    "min_df": 2,
+    "max_df": 0.95,
+    "sublinear_tf": true,
+    "ngram_range": [
+      1,
+      2
+    ]
+  },
+  "negation_terms": [
+    "belum",
+    "bukan",
+    "jangan",
+    "kurang",
+    "tak",
+    "tanpa",
+    "tidak"
+  ],
+  "manual_negation_path": "kamus_negasi.txt",
+  "manual_negation_terms": 82,
+  "model_selection_mode": "best_overall",
+  "model_selection_metric": "Accuracy",
+  "emotion_scope": [
+    "anger",
+    "fear",
+    "joy",
+    "trust"
+  ],
+  "selected_scenario": "1A",
+  "selected_scenario_info": {
+    "kernel": "linear",
+    "nama_kernel": "Linear",
+    "smote": false,
+    "keterangan": "Linear tanpa SMOTE"
+  },
+  "best_smote_scenario": "2B",
+  "best_overall_scenario": "1A"
+}
