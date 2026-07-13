@@ -5,6 +5,11 @@ from pathlib import Path
 
 import numpy as np
 import pandas as pd
+import matplotlib
+
+# Streamlit Cloud tidak menyediakan display server. Pakai backend non-interaktif
+# agar Matplotlib tidak mencoba mengakses backend GUI saat gambar dirender.
+matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import streamlit as st
 
@@ -986,7 +991,7 @@ if page == "Ringkasan Umum":
         for i, v in enumerate(label_awal.values):
             ax.text(i, v + 5, str(int(v)), ha="center", fontweight="bold")
         fig.tight_layout()
-        st.pyplot(fig)
+        st.pyplot(fig, clear_figure=True)
         total_awal = label_awal.sum()
         st.caption(
             f"Negatif: {label_awal['negatif']:,} ({label_awal['negatif']/total_awal*100:.2f}%) | "
@@ -1003,7 +1008,7 @@ if page == "Ringkasan Umum":
         for i, v in enumerate(label_pred.values):
             ax.text(i, v + 5, str(int(v)), ha="center", fontweight="bold")
         fig.tight_layout()
-        st.pyplot(fig)
+        st.pyplot(fig, clear_figure=True)
         total_pred = label_pred.sum()
         st.caption(
             f"Negatif: {label_pred['negatif']:,} ({label_pred['negatif']/total_pred*100:.2f}%) | "
@@ -1037,7 +1042,7 @@ if page == "Ringkasan Umum":
             "Tanggal Postingan": ["13 Feb 2026", "13 Feb 2026", "21 Jan 2026", "16 Feb 2026", "Jan-Feb 2026"],
             "Jumlah Reply Mentah": [352, 367, 349, 367, 1435],
         }),
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
     )
     st.caption(
@@ -1062,7 +1067,7 @@ elif page == "Perbandingan Model SVM":
 
     st.subheader("Daftar Skenario Pengujian")
     scenario_table = pd.DataFrame([{"Skenario": sid, **info} for sid, info in SCENARIO_INFO.items()])
-    st.dataframe(scenario_table, use_container_width=True, hide_index=True)
+    st.dataframe(scenario_table, width="stretch", hide_index=True)
 
     st.markdown("---")
 
@@ -1079,7 +1084,7 @@ elif page == "Perbandingan Model SVM":
                          "Precision_Macro": "Precision Macro (%)",
                          "Recall_Macro": "Recall Macro (%)",
                      }),
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
     )
 
@@ -1095,7 +1100,7 @@ elif page == "Perbandingan Model SVM":
 
     st.subheader("Grafik Perbandingan Metrik Evaluasi")
     fig = plot_bar_metrics(results_df, "Perbandingan Metrik Evaluasi Skenario 1A - 3B")
-    st.pyplot(fig)
+    st.pyplot(fig, clear_figure=True)
 
     st.markdown("---")
 
@@ -1116,7 +1121,7 @@ elif page == "Perbandingan Model SVM":
         pd.DataFrame([scenario_row]).rename(columns={
             "Best_Params": "Parameter Terbaik",
         }),
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
     )
     st.caption(
@@ -1143,11 +1148,11 @@ elif page == "Pengaruh SMOTE":
     col1, col2 = st.columns([1, 1])
     with col1:
         fig = plot_smote_distribution(smote_dist_df)
-        st.pyplot(fig)
+        st.pyplot(fig, clear_figure=True)
     with col2:
         st.dataframe(
             smote_dist_df.assign(Kelas=lambda d: d["Kelas"].map(LABEL_DISPLAY)),
-            use_container_width=True,
+            width="stretch",
             hide_index=True,
         )
         sebelum_negatif = int(smote_dist_df.loc[smote_dist_df["Kelas"] == "negatif", "Sebelum_SMOTE"].iloc[0])
@@ -1181,7 +1186,7 @@ elif page == "Pengaruh SMOTE":
             "Accuracy_Dengan_SMOTE": "Accuracy Dengan SMOTE (%)",
             "Delta_Accuracy": "Selisih Accuracy (poin %)",
         }),
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
     )
 
@@ -1189,7 +1194,7 @@ elif page == "Pengaruh SMOTE":
 
     st.subheader("Grafik Pengaruh SMOTE terhadap Accuracy")
     fig = plot_smote_effect(smote_effect_df)
-    st.pyplot(fig)
+    st.pyplot(fig, clear_figure=True)
 
     st.markdown("---")
 
@@ -1261,7 +1266,7 @@ elif page == "Peta Emosi Publik":
     col1, col2 = st.columns([1.3, 1])
     with col1:
         fig = plot_emosi_dominan(nrc_display)
-        st.pyplot(fig)
+        st.pyplot(fig, clear_figure=True)
     with col2:
         total_shown = nrc_display["Jumlah_Komentar_Sebagai_Emosi_Dominan"].sum() + jml_tidak_ada
         nrc_display_pct = nrc_display.copy()
@@ -1271,7 +1276,7 @@ elif page == "Peta Emosi Publik":
                 "Jumlah_Komentar_Sebagai_Emosi_Dominan": "Jumlah Komentar",
                 "Persentase": "Persentase (%)",
             }),
-            use_container_width=True,
+            width="stretch",
             hide_index=True,
         )
         st.metric("Komentar tanpa emosi dominan (Tidak Ada)", f"{jml_tidak_ada:,}")
@@ -1280,10 +1285,10 @@ elif page == "Peta Emosi Publik":
 
     st.subheader("Distribusi Emosi Dominan per Kelas Sentimen")
     fig2 = plot_emosi_per_sentimen(emosi_per_sentimen_df)
-    st.pyplot(fig2)
+    st.pyplot(fig2, clear_figure=True)
 
     with st.expander("Lihat tabel tabulasi silang lengkap"):
-        st.dataframe(emosi_per_sentimen_df.rename(index=LABEL_DISPLAY), use_container_width=True)
+        st.dataframe(emosi_per_sentimen_df.rename(index=LABEL_DISPLAY), width="stretch")
 
     st.markdown("---")
 
@@ -1323,12 +1328,12 @@ elif page == "Word Cloud":
         text_negatif = " ".join(df.loc[df["sentimen_pred"] == "negatif", "clean_text"].dropna().astype(str))
         fig = plot_wordcloud(text_negatif, "Word Cloud - Sentimen Negatif")
         if fig:
-            st.pyplot(fig)
+            st.pyplot(fig, clear_figure=True)
     with col2:
         text_positif = " ".join(df.loc[df["sentimen_pred"] == "positif", "clean_text"].dropna().astype(str))
         fig = plot_wordcloud(text_positif, "Word Cloud - Sentimen Positif")
         if fig:
-            st.pyplot(fig)
+            st.pyplot(fig, clear_figure=True)
 
 
 # =============================================================================
@@ -1372,7 +1377,7 @@ elif page == "Eksplorasi Data":
         "emosi_dominan", "skor_emosi_dominan", "bukti_emosi_dominan",
     ]
 
-    st.dataframe(data_filter[display_cols], use_container_width=True, hide_index=True)
+    st.dataframe(data_filter[display_cols], width="stretch", hide_index=True)
 
     st.download_button(
         "⬇️ Unduh Data Terfilter (CSV)",
@@ -1435,7 +1440,7 @@ elif page == "Pra-pemrosesan Data":
         {"Langkah": "6. Stemming", "Output": str(hasil["6_stemming"])},
         {"Langkah": "7. Clean Text (Hasil Akhir)", "Output": hasil["7_clean_text"]},
     ])
-    st.dataframe(step_table, use_container_width=True, hide_index=True)
+    st.dataframe(step_table, width="stretch", hide_index=True)
 
     negasi_dipertahankan = [t for t in hasil["5_stopword_removal"] if t in NEGATION_TERMS]
     if negasi_dipertahankan:
@@ -1473,7 +1478,7 @@ elif page == "Pra-pemrosesan Data":
             {"Langkah": "6. Stemming", "Output": str(hasil_custom["6_stemming"])},
             {"Langkah": "7. Clean Text (Hasil Akhir)", "Output": hasil_custom["7_clean_text"]},
         ])
-        st.dataframe(step_table_custom, use_container_width=True, hide_index=True)
+        st.dataframe(step_table_custom, width="stretch", hide_index=True)
 
         negasi_custom = [t for t in hasil_custom["5_stopword_removal"] if t in NEGATION_TERMS]
         if negasi_custom:
@@ -1541,7 +1546,7 @@ elif page == "Pengujian Interaktif":
             {"Langkah": "6. Stemming", "Output": str(hasil["6_stemming"])},
             {"Langkah": "7. Clean Text (Hasil Akhir)", "Output": clean_text},
         ])
-        st.dataframe(step_table, use_container_width=True, hide_index=True)
+        st.dataframe(step_table, width="stretch", hide_index=True)
 
         negasi_dipertahankan = [t for t in hasil["5_stopword_removal"] if t in NEGATION_TERMS]
         if negasi_dipertahankan:
@@ -1592,7 +1597,7 @@ elif page == "Pengujian Interaktif":
                     "keterangan": "Keterangan",
                 })
                 st.markdown("**Detail Pencocokan Term InSet dan Kamus Negasi Manual**")
-                st.dataframe(match_df, use_container_width=True, hide_index=True)
+                st.dataframe(match_df, width="stretch", hide_index=True)
             else:
                 st.info("Tidak ada frasa negasi manual atau term InSet yang cocok (skor = 0, label = Negatif).")
 
@@ -1660,7 +1665,7 @@ elif page == "Pengujian Interaktif":
 
         with col2:
             fig = plot_emosi_bar_single(hasil_nrc["weighted_scores"], hasil_nrc["emosi_dominan"])
-            st.pyplot(fig)
+            st.pyplot(fig, clear_figure=True)
 
         st.markdown("### \U0001F4CC Bagian Teks yang Menunjukkan Emosi")
         if hasil_nrc["matches"]:
@@ -1673,7 +1678,7 @@ elif page == "Pengujian Interaktif":
             })
             st.dataframe(
                 match_nrc_df[["Kata/Frasa yang Cocok", "Jenis Match", "Emosi Terkait (NRC)", "Bobot per Emosi", "Posisi Token"]],
-                use_container_width=True, hide_index=True,
+                width="stretch", hide_index=True,
             )
 
             if hasil_nrc["bukti_emosi_dominan"] != "-":
@@ -1701,7 +1706,7 @@ elif page == "Pengujian Interaktif":
                 "Presence (0/1)": [hasil_nrc["presence"][e] for e in EMOSI_4],
                 "Skor Tertimbang": [round(hasil_nrc["weighted_scores"][e], 4) for e in EMOSI_4],
             }).sort_values("Skor Tertimbang", ascending=False)
-            st.dataframe(detail_emosi_df, use_container_width=True, hide_index=True)
+            st.dataframe(detail_emosi_df, width="stretch", hide_index=True)
         else:
             st.info(
                 "Tidak ditemukan kata pada `clean_text` yang cocok dengan NRC "
